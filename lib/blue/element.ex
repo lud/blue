@@ -16,10 +16,14 @@ defmodule Blue.Element do
   Enum.each(@raw_data, fn element ->
     %{name: name, id: id} = element
 
-    def by_name(unquote(name)), do: by_id(unquote(id))
-
-    def by_id(unquote(id)) do
-      {:ok, unquote(Macro.escape(element))}
-    end
+    def find(unquote(name)), do: find(unquote(id))
+    def find(unquote(id)), do: {:ok, unquote(Macro.escape(element))}
   end)
+
+  def find(what), do: {:error, {:unknown_element, what}}
+
+  def id_of!(what) do
+    {:ok, %{id: id}} = find(what)
+    id
+  end
 end
