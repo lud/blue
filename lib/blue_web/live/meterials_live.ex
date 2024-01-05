@@ -20,7 +20,6 @@ defmodule BlueWeb.MaterialsLive do
   end
 
   defp material_picker(assigns) do
-
     ~H"""
     <div class="border border-blue-200 m-4 p-2">
       <h2><%= @build_mat.building_name %></h2>
@@ -38,7 +37,8 @@ defmodule BlueWeb.MaterialsLive do
                 <option
                   value={element.id}
                   selected={replacement(@replacements, @build_mat, hash) == element.hash}
-                ><%= element.name %>
+                >
+                  <%= element.name %>
                 </option>
               <% end %>
             </select>
@@ -52,8 +52,9 @@ defmodule BlueWeb.MaterialsLive do
   def mount(_params, _session, socket) do
     {:ok, blueprint} = Original.by_name("terrasieve")
     materials = prepare_mats(blueprint)
+
     replacements = %{
-      {"Door", [-1736594426],-1736594426} => 1608833498
+      {"Door", [-1_736_594_426], -1_736_594_426} => 1_608_833_498
     }
 
     if connected?(socket), do: send_tick()
@@ -87,7 +88,7 @@ defmodule BlueWeb.MaterialsLive do
       %{
         building_name: Building.name_of!(bid),
         buildingdef: bid,
-        selected_elements: hashs,
+        selected_elements: hashs
       }
     end)
   end
