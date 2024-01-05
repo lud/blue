@@ -25,6 +25,7 @@ defmodule Blue.Element do
               {_, [a, b]} -> [Map.merge(a, b) |> Map.put(:__struct__, __MODULE__)]
               _ -> []
             end)
+            |> Enum.sort_by(fn %{name: name} -> name end)
 
   Enum.each(@raw_data, fn element ->
     %{id: id, hash: hash} = element
@@ -41,4 +42,6 @@ defmodule Blue.Element do
   end
 
   def id_of!(what), do: find!(what).id
+
+  def list_all, do: @raw_data
 end
