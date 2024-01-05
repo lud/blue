@@ -1,0 +1,1797 @@
+{
+  "friendlyname": "TerraySmallFoodJoint",
+  "buildings": [
+    {
+      "buildingdef": "GasPermeableMembrane",
+      "selected_elements": [
+        -1736594426
+      ]
+    },
+    {
+      "offset": {
+        "y": 1
+      },
+      "buildingdef": "Door",
+      "selected_elements": [
+        -1736594426
+      ]
+    },
+    {
+      "offset": {
+        "y": 2
+      },
+      "buildingdef": "InsulatedGasConduit",
+      "selected_elements": [
+        -355957251
+      ],
+      "flags": 2
+    },
+    {
+      "offset": {
+        "y": 3
+      },
+      "buildingdef": "Door",
+      "selected_elements": [
+        -1736594426
+      ]
+    },
+    {
+      "offset": {
+        "y": 5
+      },
+      "buildingdef": "GasPermeableMembrane",
+      "selected_elements": [
+        -1736594426
+      ]
+    },
+    {
+      "offset": {
+        "x": 1
+      },
+      "buildingdef": "GasPermeableMembrane",
+      "selected_elements": [
+        -1736594426
+      ]
+    },
+    {
+      "offset": {
+        "x": 1
+      },
+      "buildingdef": "Wire",
+      "selected_elements": [
+        -1736594426
+      ],
+      "flags": 6
+    },
+    {
+      "offset": {
+        "x": 2,
+        "y": 1
+      },
+      "buildingdef": "AirConditioner",
+      "selected_elements": [
+        -899253461
+      ],
+      "orientation": 5
+    },
+    {
+      "offset": {
+        "x": 1,
+        "y": 1
+      },
+      "buildingdef": "InsulatedGasConduit",
+      "selected_elements": [
+        -355957251
+      ],
+      "flags": 4
+    },
+    {
+      "offset": {
+        "x": 1,
+        "y": 1
+      },
+      "buildingdef": "Wire",
+      "selected_elements": [
+        -1736594426
+      ],
+      "flags": 8
+    },
+    {
+      "offset": {
+        "x": 1,
+        "y": 2
+      },
+      "buildingdef": "InsulatedGasConduit",
+      "selected_elements": [
+        -355957251
+      ],
+      "flags": 9
+    },
+    {
+      "offset": {
+        "x": 1,
+        "y": 3
+      },
+      "buildingdef": "GasConduitBridge",
+      "selected_elements": [
+        -355957251
+      ],
+      "orientation": 3
+    },
+    {
+      "offset": {
+        "x": 1,
+        "y": 4
+      },
+      "buildingdef": "InsulatedGasConduit",
+      "selected_elements": [
+        -355957251
+      ],
+      "flags": 2
+    },
+    {
+      "offset": {
+        "x": 1,
+        "y": 5
+      },
+      "buildingdef": "GasPermeableMembrane",
+      "selected_elements": [
+        -1736594426
+      ]
+    },
+    {
+      "offset": {
+        "x": 2
+      },
+      "buildingdef": "GasPermeableMembrane",
+      "selected_elements": [
+        -1736594426
+      ]
+    },
+    {
+      "offset": {
+        "x": 2
+      },
+      "buildingdef": "Wire",
+      "selected_elements": [
+        -1736594426
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 2,
+        "y": 2
+      },
+      "buildingdef": "InsulatedGasConduit",
+      "selected_elements": [
+        -355957251
+      ],
+      "flags": 2
+    },
+    {
+      "offset": {
+        "x": 2,
+        "y": 2
+      },
+      "buildingdef": "LogicWire",
+      "selected_elements": [
+        -755153220
+      ],
+      "flags": 2
+    },
+    {
+      "offset": {
+        "x": 2,
+        "y": 4
+      },
+      "buildingdef": "InsulatedGasConduit",
+      "selected_elements": [
+        -355957251
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 2,
+        "y": 5
+      },
+      "buildingdef": "GasPermeableMembrane",
+      "selected_elements": [
+        -1736594426
+      ]
+    },
+    {
+      "offset": {
+        "x": 3
+      },
+      "buildingdef": "InsulationTile",
+      "selected_elements": [
+        -105943486
+      ]
+    },
+    {
+      "offset": {
+        "x": 3
+      },
+      "buildingdef": "Wire",
+      "selected_elements": [
+        -1736594426
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 3
+      },
+      "buildingdef": "LogicWire",
+      "selected_elements": [
+        -755153220
+      ],
+      "flags": 6
+    },
+    {
+      "offset": {
+        "x": 3,
+        "y": 1
+      },
+      "buildingdef": "InsulationTile",
+      "selected_elements": [
+        -105943486
+      ]
+    },
+    {
+      "offset": {
+        "x": 3,
+        "y": 1
+      },
+      "buildingdef": "LogicWire",
+      "selected_elements": [
+        -755153220
+      ],
+      "flags": 12
+    },
+    {
+      "offset": {
+        "x": 3,
+        "y": 2
+      },
+      "buildingdef": "InsulationTile",
+      "selected_elements": [
+        -105943486
+      ]
+    },
+    {
+      "offset": {
+        "x": 3,
+        "y": 2
+      },
+      "buildingdef": "InsulatedGasConduit",
+      "selected_elements": [
+        -355957251
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 3,
+        "y": 2
+      },
+      "buildingdef": "LogicWire",
+      "selected_elements": [
+        -755153220
+      ],
+      "flags": 9
+    },
+    {
+      "offset": {
+        "x": 3,
+        "y": 3
+      },
+      "buildingdef": "InsulationTile",
+      "selected_elements": [
+        -105943486
+      ]
+    },
+    {
+      "offset": {
+        "x": 3,
+        "y": 3
+      },
+      "buildingdef": "InsulatedGasConduit",
+      "selected_elements": [
+        -355957251
+      ],
+      "flags": 6
+    },
+    {
+      "offset": {
+        "x": 3,
+        "y": 4
+      },
+      "buildingdef": "InsulationTile",
+      "selected_elements": [
+        -105943486
+      ]
+    },
+    {
+      "offset": {
+        "x": 3,
+        "y": 4
+      },
+      "buildingdef": "InsulatedGasConduit",
+      "selected_elements": [
+        -355957251
+      ],
+      "flags": 9
+    },
+    {
+      "offset": {
+        "x": 3,
+        "y": 5
+      },
+      "buildingdef": "InsulationTile",
+      "selected_elements": [
+        -105943486
+      ]
+    },
+    {
+      "offset": {
+        "x": 4
+      },
+      "buildingdef": "InsulationTile",
+      "selected_elements": [
+        -105943486
+      ]
+    },
+    {
+      "offset": {
+        "x": 4
+      },
+      "buildingdef": "GasConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 4
+    },
+    {
+      "offset": {
+        "x": 4
+      },
+      "buildingdef": "Wire",
+      "selected_elements": [
+        -1736594426
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 4
+      },
+      "buildingdef": "LogicWire",
+      "selected_elements": [
+        -755153220
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 5,
+        "y": 1
+      },
+      "buildingdef": "GasMiniPump",
+      "selected_elements": [
+        -1142341158
+      ],
+      "orientation": 3
+    },
+    {
+      "offset": {
+        "x": 4,
+        "y": 1
+      },
+      "buildingdef": "GasConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 8
+    },
+    {
+      "offset": {
+        "x": 4,
+        "y": 1
+      },
+      "buildingdef": "LogicWire",
+      "selected_elements": [
+        -755153220
+      ],
+      "flags": 4
+    },
+    {
+      "offset": {
+        "x": 4,
+        "y": 2
+      },
+      "buildingdef": "LogicSwitch",
+      "selected_elements": [
+        -755153220
+      ]
+    },
+    {
+      "offset": {
+        "x": 4,
+        "y": 2
+      },
+      "buildingdef": "GasConduitRadiant",
+      "selected_elements": [
+        -1736594426
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 4,
+        "y": 2
+      },
+      "buildingdef": "LogicWire",
+      "selected_elements": [
+        -755153220
+      ],
+      "flags": 8
+    },
+    {
+      "offset": {
+        "x": 4,
+        "y": 3
+      },
+      "buildingdef": "GasConduitRadiant",
+      "selected_elements": [
+        -1736594426
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 4,
+        "y": 4
+      },
+      "buildingdef": "GasVent",
+      "selected_elements": [
+        -1736594426
+      ]
+    },
+    {
+      "offset": {
+        "x": 4,
+        "y": 4
+      },
+      "buildingdef": "GasConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 4
+    },
+    {
+      "offset": {
+        "x": 4,
+        "y": 5
+      },
+      "buildingdef": "InsulationTile",
+      "selected_elements": [
+        -105943486
+      ]
+    },
+    {
+      "offset": {
+        "x": 4,
+        "y": 5
+      },
+      "buildingdef": "GasConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 8
+    },
+    {
+      "offset": {
+        "x": 5
+      },
+      "buildingdef": "InsulationTile",
+      "selected_elements": [
+        -105943486
+      ]
+    },
+    {
+      "offset": {
+        "x": 5
+      },
+      "buildingdef": "Wire",
+      "selected_elements": [
+        -1736594426
+      ],
+      "flags": 7
+    },
+    {
+      "offset": {
+        "x": 5
+      },
+      "buildingdef": "LogicWire",
+      "selected_elements": [
+        -755153220
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 5,
+        "y": 1
+      },
+      "buildingdef": "GasConduitRadiant",
+      "selected_elements": [
+        -1736594426
+      ],
+      "flags": 6
+    },
+    {
+      "offset": {
+        "x": 5,
+        "y": 1
+      },
+      "buildingdef": "Wire",
+      "selected_elements": [
+        -1736594426
+      ],
+      "flags": 12
+    },
+    {
+      "offset": {
+        "x": 5,
+        "y": 3
+      },
+      "buildingdef": "SolidTransferArm",
+      "selected_elements": [
+        -279785280
+      ],
+      "orientation": 1
+    },
+    {
+      "offset": {
+        "x": 5,
+        "y": 2
+      },
+      "buildingdef": "GasConduitRadiant",
+      "selected_elements": [
+        -1736594426
+      ],
+      "flags": 9
+    },
+    {
+      "offset": {
+        "x": 5,
+        "y": 2
+      },
+      "buildingdef": "Wire",
+      "selected_elements": [
+        -1736594426
+      ],
+      "flags": 12
+    },
+    {
+      "offset": {
+        "x": 5,
+        "y": 3
+      },
+      "buildingdef": "GasConduitRadiant",
+      "selected_elements": [
+        -1736594426
+      ],
+      "flags": 5
+    },
+    {
+      "offset": {
+        "x": 5,
+        "y": 3
+      },
+      "buildingdef": "Wire",
+      "selected_elements": [
+        -1736594426
+      ],
+      "flags": 10
+    },
+    {
+      "offset": {
+        "x": 5,
+        "y": 3
+      },
+      "buildingdef": "LogicWire",
+      "selected_elements": [
+        -755153220
+      ],
+      "flags": 4
+    },
+    {
+      "offset": {
+        "x": 5,
+        "y": 4
+      },
+      "buildingdef": "GasConduitRadiant",
+      "selected_elements": [
+        -1736594426
+      ],
+      "flags": 10
+    },
+    {
+      "offset": {
+        "x": 5,
+        "y": 4
+      },
+      "buildingdef": "LogicWire",
+      "selected_elements": [
+        -755153220
+      ],
+      "flags": 12
+    },
+    {
+      "offset": {
+        "x": 5,
+        "y": 5
+      },
+      "buildingdef": "InsulationTile",
+      "selected_elements": [
+        -105943486
+      ]
+    },
+    {
+      "offset": {
+        "x": 5,
+        "y": 5
+      },
+      "buildingdef": "LogicWire",
+      "selected_elements": [
+        -755153220
+      ],
+      "flags": 10
+    },
+    {
+      "offset": {
+        "x": 6
+      },
+      "buildingdef": "InsulationTile",
+      "selected_elements": [
+        -105943486
+      ]
+    },
+    {
+      "offset": {
+        "x": 6
+      },
+      "buildingdef": "Wire",
+      "selected_elements": [
+        -1736594426
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 6
+      },
+      "buildingdef": "LogicWire",
+      "selected_elements": [
+        -755153220
+      ],
+      "flags": 5
+    },
+    {
+      "offset": {
+        "x": 6,
+        "y": 1
+      },
+      "buildingdef": "LogicTemperatureSensor",
+      "selected_elements": [
+        -1725038055
+      ]
+    },
+    {
+      "offset": {
+        "x": 6,
+        "y": 1
+      },
+      "buildingdef": "GasConduitRadiant",
+      "selected_elements": [
+        -1736594426
+      ],
+      "flags": 5
+    },
+    {
+      "offset": {
+        "x": 6,
+        "y": 1
+      },
+      "buildingdef": "LogicWire",
+      "selected_elements": [
+        -755153220
+      ],
+      "flags": 8
+    },
+    {
+      "offset": {
+        "x": 6,
+        "y": 2
+      },
+      "buildingdef": "SolidVent",
+      "selected_elements": [
+        -1736594426
+      ]
+    },
+    {
+      "offset": {
+        "x": 6,
+        "y": 2
+      },
+      "buildingdef": "GasConduitRadiant",
+      "selected_elements": [
+        -1736594426
+      ],
+      "flags": 12
+    },
+    {
+      "offset": {
+        "x": 6,
+        "y": 2
+      },
+      "buildingdef": "SolidConduit",
+      "selected_elements": [
+        -1736594426
+      ],
+      "flags": 2
+    },
+    {
+      "offset": {
+        "x": 6,
+        "y": 4
+      },
+      "buildingdef": "SolidConduitInbox",
+      "selected_elements": [
+        -279785280
+      ],
+      "orientation": 2
+    },
+    {
+      "offset": {
+        "x": 6,
+        "y": 3
+      },
+      "buildingdef": "GasConduitRadiant",
+      "selected_elements": [
+        -1736594426
+      ],
+      "flags": 12
+    },
+    {
+      "offset": {
+        "x": 6,
+        "y": 3
+      },
+      "buildingdef": "Wire",
+      "selected_elements": [
+        -1736594426
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 6,
+        "y": 4
+      },
+      "buildingdef": "GasConduitRadiant",
+      "selected_elements": [
+        -1736594426
+      ],
+      "flags": 9
+    },
+    {
+      "offset": {
+        "x": 6,
+        "y": 4
+      },
+      "buildingdef": "SolidConduit",
+      "selected_elements": [
+        -1736594426
+      ],
+      "flags": 4
+    },
+    {
+      "offset": {
+        "x": 6,
+        "y": 5
+      },
+      "buildingdef": "InsulationTile",
+      "selected_elements": [
+        -105943486
+      ]
+    },
+    {
+      "offset": {
+        "x": 6,
+        "y": 5
+      },
+      "buildingdef": "SolidConduit",
+      "selected_elements": [
+        -1736594426
+      ],
+      "flags": 10
+    },
+    {
+      "offset": {
+        "x": 6,
+        "y": 5
+      },
+      "buildingdef": "LogicWire",
+      "selected_elements": [
+        -755153220
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 7
+      },
+      "buildingdef": "InsulationTile",
+      "selected_elements": [
+        -105943486
+      ]
+    },
+    {
+      "offset": {
+        "x": 7
+      },
+      "buildingdef": "Wire",
+      "selected_elements": [
+        -1736594426
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 7,
+        "y": 1
+      },
+      "buildingdef": "InsulationTile",
+      "selected_elements": [
+        -105943486
+      ]
+    },
+    {
+      "offset": {
+        "x": 7,
+        "y": 2
+      },
+      "buildingdef": "InsulationTile",
+      "selected_elements": [
+        -105943486
+      ]
+    },
+    {
+      "offset": {
+        "x": 7,
+        "y": 2
+      },
+      "buildingdef": "SolidConduit",
+      "selected_elements": [
+        -1736594426
+      ],
+      "flags": 5
+    },
+    {
+      "offset": {
+        "x": 7,
+        "y": 3
+      },
+      "buildingdef": "InsulationTile",
+      "selected_elements": [
+        -105943486
+      ]
+    },
+    {
+      "offset": {
+        "x": 7,
+        "y": 3
+      },
+      "buildingdef": "SolidConduit",
+      "selected_elements": [
+        -1736594426
+      ],
+      "flags": 10
+    },
+    {
+      "offset": {
+        "x": 7,
+        "y": 3
+      },
+      "buildingdef": "Wire",
+      "selected_elements": [
+        -1736594426
+      ],
+      "flags": 5
+    },
+    {
+      "offset": {
+        "x": 7,
+        "y": 4
+      },
+      "buildingdef": "InsulationTile",
+      "selected_elements": [
+        -105943486
+      ]
+    },
+    {
+      "offset": {
+        "x": 7,
+        "y": 4
+      },
+      "buildingdef": "Wire",
+      "selected_elements": [
+        -1736594426
+      ],
+      "flags": 10
+    },
+    {
+      "offset": {
+        "x": 7,
+        "y": 5
+      },
+      "buildingdef": "InsulationTile",
+      "selected_elements": [
+        -105943486
+      ]
+    },
+    {
+      "offset": {
+        "x": 7,
+        "y": 5
+      },
+      "buildingdef": "SolidConduit",
+      "selected_elements": [
+        -1736594426
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 7,
+        "y": 5
+      },
+      "buildingdef": "LogicWire",
+      "selected_elements": [
+        -755153220
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 8
+      },
+      "buildingdef": "GasPermeableMembrane",
+      "selected_elements": [
+        -1736594426
+      ]
+    },
+    {
+      "offset": {
+        "x": 8
+      },
+      "buildingdef": "Wire",
+      "selected_elements": [
+        -1736594426
+      ],
+      "flags": 7
+    },
+    {
+      "offset": {
+        "x": 8,
+        "y": 1
+      },
+      "buildingdef": "Refrigerator",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 8,
+        "y": 1
+      },
+      "buildingdef": "Wire",
+      "selected_elements": [
+        -1736594426
+      ],
+      "flags": 8
+    },
+    {
+      "offset": {
+        "x": 8,
+        "y": 3
+      },
+      "buildingdef": "SolidConduitInbox",
+      "selected_elements": [
+        -279785280
+      ]
+    },
+    {
+      "offset": {
+        "x": 8,
+        "y": 3
+      },
+      "buildingdef": "SolidConduit",
+      "selected_elements": [
+        -1736594426
+      ],
+      "flags": 1
+    },
+    {
+      "offset": {
+        "x": 8,
+        "y": 4
+      },
+      "buildingdef": "Wire",
+      "selected_elements": [
+        -1736594426
+      ],
+      "flags": 5
+    },
+    {
+      "offset": {
+        "x": 8,
+        "y": 5
+      },
+      "buildingdef": "GasPermeableMembrane",
+      "selected_elements": [
+        -1736594426
+      ]
+    },
+    {
+      "offset": {
+        "x": 8,
+        "y": 5
+      },
+      "buildingdef": "SolidConduit",
+      "selected_elements": [
+        -1736594426
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 8,
+        "y": 5
+      },
+      "buildingdef": "Wire",
+      "selected_elements": [
+        -1736594426
+      ],
+      "flags": 10
+    },
+    {
+      "offset": {
+        "x": 8,
+        "y": 5
+      },
+      "buildingdef": "LogicWire",
+      "selected_elements": [
+        -755153220
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 9
+      },
+      "buildingdef": "GasPermeableMembrane",
+      "selected_elements": [
+        -1736594426
+      ]
+    },
+    {
+      "offset": {
+        "x": 9
+      },
+      "buildingdef": "Wire",
+      "selected_elements": [
+        -1736594426
+      ],
+      "flags": 7
+    },
+    {
+      "offset": {
+        "x": 9,
+        "y": 1
+      },
+      "buildingdef": "Refrigerator",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 9,
+        "y": 1
+      },
+      "buildingdef": "Wire",
+      "selected_elements": [
+        -1736594426
+      ],
+      "flags": 8
+    },
+    {
+      "offset": {
+        "x": 9,
+        "y": 3
+      },
+      "buildingdef": "FlowerVaseHangingFancy",
+      "selected_elements": [
+        -2079931820
+      ]
+    },
+    {
+      "offset": {
+        "x": 9,
+        "y": 5
+      },
+      "buildingdef": "GasPermeableMembrane",
+      "selected_elements": [
+        -1736594426
+      ]
+    },
+    {
+      "offset": {
+        "x": 9,
+        "y": 5
+      },
+      "buildingdef": "SolidConduit",
+      "selected_elements": [
+        -1736594426
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 9,
+        "y": 5
+      },
+      "buildingdef": "Wire",
+      "selected_elements": [
+        -1736594426
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 10,
+        "y": 5
+      },
+      "buildingdef": "LogicGateFILTER",
+      "selected_elements": [
+        -755153220
+      ],
+      "orientation": 2
+    },
+    {
+      "offset": {
+        "x": 9,
+        "y": 5
+      },
+      "buildingdef": "LogicWire",
+      "selected_elements": [
+        -755153220
+      ],
+      "flags": 1
+    },
+    {
+      "offset": {
+        "x": 10
+      },
+      "buildingdef": "GasPermeableMembrane",
+      "selected_elements": [
+        -1736594426
+      ]
+    },
+    {
+      "offset": {
+        "x": 10
+      },
+      "buildingdef": "InsulatedGasConduit",
+      "selected_elements": [
+        -355957251
+      ],
+      "flags": 4
+    },
+    {
+      "offset": {
+        "x": 10
+      },
+      "buildingdef": "Wire",
+      "selected_elements": [
+        -1736594426
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 11,
+        "y": 1
+      },
+      "buildingdef": "GourmetCookingStation",
+      "selected_elements": [
+        361868060
+      ]
+    },
+    {
+      "offset": {
+        "x": 10,
+        "y": 1
+      },
+      "buildingdef": "InsulatedGasConduit",
+      "selected_elements": [
+        -355957251
+      ],
+      "flags": 8
+    },
+    {
+      "offset": {
+        "x": 10,
+        "y": 4
+      },
+      "buildingdef": "SolidVent",
+      "selected_elements": [
+        -1736594426
+      ]
+    },
+    {
+      "offset": {
+        "x": 10,
+        "y": 4
+      },
+      "buildingdef": "SolidConduit",
+      "selected_elements": [
+        -1736594426
+      ],
+      "flags": 4
+    },
+    {
+      "offset": {
+        "x": 10,
+        "y": 5
+      },
+      "buildingdef": "GasPermeableMembrane",
+      "selected_elements": [
+        -1736594426
+      ]
+    },
+    {
+      "offset": {
+        "x": 10,
+        "y": 5
+      },
+      "buildingdef": "SolidConduit",
+      "selected_elements": [
+        -1736594426
+      ],
+      "flags": 9
+    },
+    {
+      "offset": {
+        "x": 10,
+        "y": 5
+      },
+      "buildingdef": "Wire",
+      "selected_elements": [
+        -1736594426
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 10,
+        "y": 5
+      },
+      "buildingdef": "LogicWire",
+      "selected_elements": [
+        -755153220
+      ],
+      "flags": 2
+    },
+    {
+      "offset": {
+        "x": 11
+      },
+      "buildingdef": "GasPermeableMembrane",
+      "selected_elements": [
+        -1736594426
+      ]
+    },
+    {
+      "offset": {
+        "x": 11
+      },
+      "buildingdef": "Wire",
+      "selected_elements": [
+        -1736594426
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 12,
+        "y": 4
+      },
+      "buildingdef": "SolidTransferArm",
+      "selected_elements": [
+        -279785280
+      ]
+    },
+    {
+      "offset": {
+        "x": 11,
+        "y": 5
+      },
+      "buildingdef": "GasPermeableMembrane",
+      "selected_elements": [
+        -1736594426
+      ]
+    },
+    {
+      "offset": {
+        "x": 11,
+        "y": 5
+      },
+      "buildingdef": "Wire",
+      "selected_elements": [
+        -1736594426
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 12,
+        "y": 5
+      },
+      "buildingdef": "LogicGateFILTER",
+      "selected_elements": [
+        -755153220
+      ],
+      "orientation": 2
+    },
+    {
+      "offset": {
+        "x": 11,
+        "y": 5
+      },
+      "buildingdef": "LogicWire",
+      "selected_elements": [
+        -755153220
+      ],
+      "flags": 1
+    },
+    {
+      "offset": {
+        "x": 12
+      },
+      "buildingdef": "GasPermeableMembrane",
+      "selected_elements": [
+        -1736594426
+      ]
+    },
+    {
+      "offset": {
+        "x": 12
+      },
+      "buildingdef": "Wire",
+      "selected_elements": [
+        -1736594426
+      ],
+      "flags": 7
+    },
+    {
+      "offset": {
+        "x": 12,
+        "y": 1
+      },
+      "buildingdef": "Wire",
+      "selected_elements": [
+        -1736594426
+      ],
+      "flags": 8
+    },
+    {
+      "offset": {
+        "x": 12,
+        "y": 4
+      },
+      "buildingdef": "Wire",
+      "selected_elements": [
+        -1736594426
+      ],
+      "flags": 4
+    },
+    {
+      "offset": {
+        "x": 12,
+        "y": 5
+      },
+      "buildingdef": "GasPermeableMembrane",
+      "selected_elements": [
+        -1736594426
+      ]
+    },
+    {
+      "offset": {
+        "x": 12,
+        "y": 5
+      },
+      "buildingdef": "Wire",
+      "selected_elements": [
+        -1736594426
+      ],
+      "flags": 9
+    },
+    {
+      "offset": {
+        "x": 12,
+        "y": 5
+      },
+      "buildingdef": "LogicWire",
+      "selected_elements": [
+        -755153220
+      ],
+      "flags": 2
+    },
+    {
+      "offset": {
+        "x": 13
+      },
+      "buildingdef": "GasPermeableMembrane",
+      "selected_elements": [
+        -1736594426
+      ]
+    },
+    {
+      "offset": {
+        "x": 13
+      },
+      "buildingdef": "Wire",
+      "selected_elements": [
+        -1736594426
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 14,
+        "y": 1
+      },
+      "buildingdef": "CookingStation",
+      "selected_elements": [
+        361868060
+      ]
+    },
+    {
+      "offset": {
+        "x": 13,
+        "y": 5
+      },
+      "buildingdef": "GasPermeableMembrane",
+      "selected_elements": [
+        -1736594426
+      ]
+    },
+    {
+      "offset": {
+        "x": 14,
+        "y": 5
+      },
+      "buildingdef": "LogicGateFILTER",
+      "selected_elements": [
+        -755153220
+      ],
+      "orientation": 2
+    },
+    {
+      "offset": {
+        "x": 13,
+        "y": 5
+      },
+      "buildingdef": "LogicWire",
+      "selected_elements": [
+        -755153220
+      ],
+      "flags": 1
+    },
+    {
+      "offset": {
+        "x": 14
+      },
+      "buildingdef": "GasPermeableMembrane",
+      "selected_elements": [
+        -1736594426
+      ]
+    },
+    {
+      "offset": {
+        "x": 14
+      },
+      "buildingdef": "Wire",
+      "selected_elements": [
+        -1736594426
+      ],
+      "flags": 7
+    },
+    {
+      "offset": {
+        "x": 14,
+        "y": 1
+      },
+      "buildingdef": "Wire",
+      "selected_elements": [
+        -1736594426
+      ],
+      "flags": 8
+    },
+    {
+      "offset": {
+        "x": 14,
+        "y": 4
+      },
+      "buildingdef": "SolidVent",
+      "selected_elements": [
+        -1736594426
+      ]
+    },
+    {
+      "offset": {
+        "x": 14,
+        "y": 5
+      },
+      "buildingdef": "GasPermeableMembrane",
+      "selected_elements": [
+        -1736594426
+      ]
+    },
+    {
+      "offset": {
+        "x": 14,
+        "y": 5
+      },
+      "buildingdef": "LogicWire",
+      "selected_elements": [
+        -755153220
+      ],
+      "flags": 2
+    },
+    {
+      "offset": {
+        "x": 15
+      },
+      "buildingdef": "GasPermeableMembrane",
+      "selected_elements": [
+        -1736594426
+      ]
+    },
+    {
+      "offset": {
+        "x": 15
+      },
+      "buildingdef": "Wire",
+      "selected_elements": [
+        -1736594426
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 15,
+        "y": 5
+      },
+      "buildingdef": "GasPermeableMembrane",
+      "selected_elements": [
+        -1736594426
+      ]
+    },
+    {
+      "offset": {
+        "x": 16,
+        "y": 5
+      },
+      "buildingdef": "LogicGateNOT",
+      "selected_elements": [
+        -755153220
+      ],
+      "orientation": 2
+    },
+    {
+      "offset": {
+        "x": 15,
+        "y": 5
+      },
+      "buildingdef": "LogicWire",
+      "selected_elements": [
+        -755153220
+      ],
+      "flags": 1
+    },
+    {
+      "offset": {
+        "x": 16
+      },
+      "buildingdef": "GasPermeableMembrane",
+      "selected_elements": [
+        -1736594426
+      ]
+    },
+    {
+      "offset": {
+        "x": 16
+      },
+      "buildingdef": "Wire",
+      "selected_elements": [
+        -1736594426
+      ],
+      "flags": 5
+    },
+    {
+      "offset": {
+        "x": 16,
+        "y": 1
+      },
+      "buildingdef": "Refrigerator",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 16,
+        "y": 1
+      },
+      "buildingdef": "Wire",
+      "selected_elements": [
+        -1736594426
+      ],
+      "flags": 8
+    },
+    {
+      "offset": {
+        "x": 16,
+        "y": 2
+      },
+      "buildingdef": "LogicWire",
+      "selected_elements": [
+        -755153220
+      ],
+      "flags": 2
+    },
+    {
+      "offset": {
+        "x": 16,
+        "y": 3
+      },
+      "buildingdef": "FlowerVaseHangingFancy",
+      "selected_elements": [
+        -2079931820
+      ]
+    },
+    {
+      "offset": {
+        "x": 16,
+        "y": 5
+      },
+      "buildingdef": "GasPermeableMembrane",
+      "selected_elements": [
+        -1736594426
+      ]
+    },
+    {
+      "offset": {
+        "x": 16,
+        "y": 5
+      },
+      "buildingdef": "LogicWire",
+      "selected_elements": [
+        -755153220
+      ],
+      "flags": 2
+    },
+    {
+      "offset": {
+        "x": 17
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 17,
+        "y": 1
+      },
+      "buildingdef": "Door",
+      "selected_elements": [
+        -1736594426
+      ]
+    },
+    {
+      "offset": {
+        "x": 17,
+        "y": 2
+      },
+      "buildingdef": "LogicWire",
+      "selected_elements": [
+        -755153220
+      ],
+      "flags": 5
+    },
+    {
+      "offset": {
+        "x": 17,
+        "y": 3
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 17,
+        "y": 3
+      },
+      "buildingdef": "LogicWire",
+      "selected_elements": [
+        -755153220
+      ],
+      "flags": 12
+    },
+    {
+      "offset": {
+        "x": 17,
+        "y": 4
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 17,
+        "y": 4
+      },
+      "buildingdef": "LogicWire",
+      "selected_elements": [
+        -755153220
+      ],
+      "flags": 12
+    },
+    {
+      "offset": {
+        "x": 17,
+        "y": 5
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 17,
+        "y": 5
+      },
+      "buildingdef": "LogicWire",
+      "selected_elements": [
+        -755153220
+      ],
+      "flags": 9
+    }
+  ]
+}

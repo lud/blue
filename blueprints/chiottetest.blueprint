@@ -1,0 +1,3162 @@
+{
+  "friendlyname": "ChiotteTest",
+  "buildings": [
+    {
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "y": 1
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "y": 2
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "y": 3
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "y": 3
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 2
+    },
+    {
+      "offset": {
+        "y": 4
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "y": 5
+      },
+      "buildingdef": "Door",
+      "selected_elements": [
+        -1736594426
+      ]
+    },
+    {
+      "offset": {
+        "y": 6
+      },
+      "buildingdef": "GasConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "y": 7
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "y": 8
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "y": 8
+      },
+      "buildingdef": "Wire",
+      "selected_elements": [
+        -1736594426
+      ],
+      "flags": 2
+    },
+    {
+      "offset": {
+        "y": 9
+      },
+      "buildingdef": "Door",
+      "selected_elements": [
+        -1736594426
+      ]
+    },
+    {
+      "offset": {
+        "y": 11
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "y": 12
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "y": 13
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 1
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 1,
+        "y": 3
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 1,
+        "y": 4
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 1,
+        "y": 5
+      },
+      "buildingdef": "StorageLocker",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 1,
+        "y": 6
+      },
+      "buildingdef": "GasConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 1,
+        "y": 8
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 1,
+        "y": 8
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 6
+    },
+    {
+      "offset": {
+        "x": 1,
+        "y": 8
+      },
+      "buildingdef": "Wire",
+      "selected_elements": [
+        -1736594426
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 1,
+        "y": 9
+      },
+      "buildingdef": "WashSink",
+      "selected_elements": [
+        -1736594426
+      ]
+    },
+    {
+      "offset": {
+        "x": 1,
+        "y": 9
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 8
+    },
+    {
+      "offset": {
+        "x": 1,
+        "y": 12
+      },
+      "buildingdef": "CornerMoulding",
+      "selected_elements": [
+        -105943486
+      ]
+    },
+    {
+      "offset": {
+        "x": 1,
+        "y": 13
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 2
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 2,
+        "y": 1
+      },
+      "buildingdef": "Ladder",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 2,
+        "y": 1
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 6
+    },
+    {
+      "offset": {
+        "x": 2,
+        "y": 2
+      },
+      "buildingdef": "Ladder",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 2,
+        "y": 2
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 8
+    },
+    {
+      "offset": {
+        "x": 2,
+        "y": 3
+      },
+      "buildingdef": "LiquidConduitBridge",
+      "selected_elements": [
+        493438017
+      ],
+      "orientation": 3
+    },
+    {
+      "offset": {
+        "x": 2,
+        "y": 3
+      },
+      "buildingdef": "Ladder",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 2,
+        "y": 3
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 2,
+        "y": 4
+      },
+      "buildingdef": "Ladder",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 2,
+        "y": 4
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 4
+    },
+    {
+      "offset": {
+        "x": 2,
+        "y": 6
+      },
+      "buildingdef": "SolidTransferArm",
+      "selected_elements": [
+        -279785280
+      ],
+      "orientation": 1
+    },
+    {
+      "offset": {
+        "x": 2,
+        "y": 5
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 12
+    },
+    {
+      "offset": {
+        "x": 2,
+        "y": 6
+      },
+      "buildingdef": "GasConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 2,
+        "y": 6
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 12
+    },
+    {
+      "offset": {
+        "x": 2,
+        "y": 6
+      },
+      "buildingdef": "Wire",
+      "selected_elements": [
+        -1736594426
+      ],
+      "flags": 6
+    },
+    {
+      "offset": {
+        "x": 2,
+        "y": 7
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 12
+    },
+    {
+      "offset": {
+        "x": 2,
+        "y": 7
+      },
+      "buildingdef": "Wire",
+      "selected_elements": [
+        -1736594426
+      ],
+      "flags": 12
+    },
+    {
+      "offset": {
+        "x": 2,
+        "y": 8
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 2,
+        "y": 8
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 11
+    },
+    {
+      "offset": {
+        "x": 2,
+        "y": 8
+      },
+      "buildingdef": "Wire",
+      "selected_elements": [
+        -1736594426
+      ],
+      "flags": 9
+    },
+    {
+      "offset": {
+        "x": 2,
+        "y": 10
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 4
+    },
+    {
+      "offset": {
+        "x": 2,
+        "y": 11
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 12
+    },
+    {
+      "offset": {
+        "x": 2,
+        "y": 12
+      },
+      "buildingdef": "CrownMoulding",
+      "selected_elements": [
+        -105943486
+      ]
+    },
+    {
+      "offset": {
+        "x": 2,
+        "y": 12
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 12
+    },
+    {
+      "offset": {
+        "x": 2,
+        "y": 13
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 2,
+        "y": 13
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 10
+    },
+    {
+      "offset": {
+        "x": 3
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 3,
+        "y": 1
+      },
+      "buildingdef": "LiquidReservoir",
+      "selected_elements": [
+        -1736594426
+      ]
+    },
+    {
+      "offset": {
+        "x": 3,
+        "y": 1
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 3,
+        "y": 3
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 3,
+        "y": 4
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 3,
+        "y": 4
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 6
+    },
+    {
+      "offset": {
+        "x": 3,
+        "y": 4
+      },
+      "buildingdef": "Wire",
+      "selected_elements": [
+        -1736594426
+      ],
+      "flags": 6
+    },
+    {
+      "offset": {
+        "x": 5,
+        "y": 5
+      },
+      "buildingdef": "WaterPurifier",
+      "selected_elements": [
+        -1736594426
+      ],
+      "orientation": 5
+    },
+    {
+      "offset": {
+        "x": 3,
+        "y": 5
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 12
+    },
+    {
+      "offset": {
+        "x": 3,
+        "y": 5
+      },
+      "buildingdef": "Wire",
+      "selected_elements": [
+        -1736594426
+      ],
+      "flags": 12
+    },
+    {
+      "offset": {
+        "x": 3,
+        "y": 6
+      },
+      "buildingdef": "GasConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 3,
+        "y": 6
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 12
+    },
+    {
+      "offset": {
+        "x": 3,
+        "y": 6
+      },
+      "buildingdef": "Wire",
+      "selected_elements": [
+        -1736594426
+      ],
+      "flags": 9
+    },
+    {
+      "offset": {
+        "x": 3,
+        "y": 7
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 8
+    },
+    {
+      "offset": {
+        "x": 3,
+        "y": 8
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 3,
+        "y": 8
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 7
+    },
+    {
+      "offset": {
+        "x": 3,
+        "y": 9
+      },
+      "buildingdef": "WashSink",
+      "selected_elements": [
+        -1736594426
+      ]
+    },
+    {
+      "offset": {
+        "x": 3,
+        "y": 9
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 8
+    },
+    {
+      "offset": {
+        "x": 3,
+        "y": 12
+      },
+      "buildingdef": "CrownMoulding",
+      "selected_elements": [
+        -105943486
+      ]
+    },
+    {
+      "offset": {
+        "x": 3,
+        "y": 13
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 3,
+        "y": 13
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 4
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 4,
+        "y": 1
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 4,
+        "y": 3
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 4,
+        "y": 4
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 4,
+        "y": 4
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 4,
+        "y": 4
+      },
+      "buildingdef": "Wire",
+      "selected_elements": [
+        -1736594426
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 4,
+        "y": 6
+      },
+      "buildingdef": "GasConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 4,
+        "y": 8
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 4,
+        "y": 8
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 4,
+        "y": 10
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 4
+    },
+    {
+      "offset": {
+        "x": 4,
+        "y": 11
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 12
+    },
+    {
+      "offset": {
+        "x": 4,
+        "y": 12
+      },
+      "buildingdef": "CrownMoulding",
+      "selected_elements": [
+        -105943486
+      ]
+    },
+    {
+      "offset": {
+        "x": 4,
+        "y": 12
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 12
+    },
+    {
+      "offset": {
+        "x": 4,
+        "y": 13
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 4,
+        "y": 13
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 11
+    },
+    {
+      "offset": {
+        "x": 5
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 5,
+        "y": 1
+      },
+      "buildingdef": "LiquidReservoir",
+      "selected_elements": [
+        -1736594426
+      ]
+    },
+    {
+      "offset": {
+        "x": 5,
+        "y": 1
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 1
+    },
+    {
+      "offset": {
+        "x": 5,
+        "y": 3
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 5,
+        "y": 4
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 5,
+        "y": 4
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 5,
+        "y": 4
+      },
+      "buildingdef": "Wire",
+      "selected_elements": [
+        -1736594426
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 5,
+        "y": 6
+      },
+      "buildingdef": "GasConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 5,
+        "y": 8
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 5,
+        "y": 8
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 7
+    },
+    {
+      "offset": {
+        "x": 5,
+        "y": 9
+      },
+      "buildingdef": "WashSink",
+      "selected_elements": [
+        -1736594426
+      ]
+    },
+    {
+      "offset": {
+        "x": 5,
+        "y": 9
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 8
+    },
+    {
+      "offset": {
+        "x": 5,
+        "y": 12
+      },
+      "buildingdef": "CrownMoulding",
+      "selected_elements": [
+        -105943486
+      ]
+    },
+    {
+      "offset": {
+        "x": 5,
+        "y": 13
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 5,
+        "y": 13
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 6
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 6,
+        "y": 3
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 5
+    },
+    {
+      "offset": {
+        "x": 6,
+        "y": 4
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 6,
+        "y": 4
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 9
+    },
+    {
+      "offset": {
+        "x": 6,
+        "y": 4
+      },
+      "buildingdef": "Wire",
+      "selected_elements": [
+        -1736594426
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 6,
+        "y": 6
+      },
+      "buildingdef": "GasConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 6,
+        "y": 7
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 2
+    },
+    {
+      "offset": {
+        "x": 6,
+        "y": 8
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 6,
+        "y": 8
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 6,
+        "y": 10
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 4
+    },
+    {
+      "offset": {
+        "x": 6,
+        "y": 11
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 12
+    },
+    {
+      "offset": {
+        "x": 6,
+        "y": 12
+      },
+      "buildingdef": "CrownMoulding",
+      "selected_elements": [
+        -105943486
+      ]
+    },
+    {
+      "offset": {
+        "x": 6,
+        "y": 12
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 12
+    },
+    {
+      "offset": {
+        "x": 6,
+        "y": 13
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 6,
+        "y": 13
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 11
+    },
+    {
+      "offset": {
+        "x": 7
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 7,
+        "y": 1
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 7,
+        "y": 2
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 7,
+        "y": 3
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 7,
+        "y": 4
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 7,
+        "y": 4
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 6
+    },
+    {
+      "offset": {
+        "x": 7,
+        "y": 4
+      },
+      "buildingdef": "Wire",
+      "selected_elements": [
+        -1736594426
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 7,
+        "y": 5
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 7,
+        "y": 5
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 12
+    },
+    {
+      "offset": {
+        "x": 7,
+        "y": 6
+      },
+      "buildingdef": "GasConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 7,
+        "y": 6
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 12
+    },
+    {
+      "offset": {
+        "x": 7,
+        "y": 7
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 9
+    },
+    {
+      "offset": {
+        "x": 7,
+        "y": 8
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 7,
+        "y": 8
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 7,
+        "y": 9
+      },
+      "buildingdef": "Sculpture",
+      "selected_elements": [
+        -105943486
+      ]
+    },
+    {
+      "offset": {
+        "x": 7,
+        "y": 12
+      },
+      "buildingdef": "CrownMoulding",
+      "selected_elements": [
+        -105943486
+      ]
+    },
+    {
+      "offset": {
+        "x": 7,
+        "y": 13
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 7,
+        "y": 13
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 8
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 8,
+        "y": 1
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 8,
+        "y": 2
+      },
+      "buildingdef": "Ladder",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 8,
+        "y": 3
+      },
+      "buildingdef": "Ladder",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 8,
+        "y": 3
+      },
+      "buildingdef": "Wire",
+      "selected_elements": [
+        -1736594426
+      ],
+      "flags": 6
+    },
+    {
+      "offset": {
+        "x": 8,
+        "y": 4
+      },
+      "buildingdef": "Ladder",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 8,
+        "y": 4
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 8,
+        "y": 4
+      },
+      "buildingdef": "Wire",
+      "selected_elements": [
+        -1736594426
+      ],
+      "flags": 13
+    },
+    {
+      "offset": {
+        "x": 8,
+        "y": 5
+      },
+      "buildingdef": "PressureDoor",
+      "selected_elements": [
+        -1736594426
+      ],
+      "orientation": 1
+    },
+    {
+      "offset": {
+        "x": 8,
+        "y": 5
+      },
+      "buildingdef": "Wire",
+      "selected_elements": [
+        -1736594426
+      ],
+      "flags": 8
+    },
+    {
+      "offset": {
+        "x": 8,
+        "y": 6
+      },
+      "buildingdef": "GasConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 8,
+        "y": 8
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 8,
+        "y": 8
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 8,
+        "y": 9
+      },
+      "buildingdef": "Sculpture",
+      "selected_elements": [
+        -105943486
+      ]
+    },
+    {
+      "offset": {
+        "x": 8,
+        "y": 12
+      },
+      "buildingdef": "CrownMoulding",
+      "selected_elements": [
+        -105943486
+      ]
+    },
+    {
+      "offset": {
+        "x": 8,
+        "y": 13
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 8,
+        "y": 13
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 9
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 9,
+        "y": 1
+      },
+      "buildingdef": "LogicElementSensorGas",
+      "selected_elements": [
+        -755153220
+      ]
+    },
+    {
+      "offset": {
+        "x": 9,
+        "y": 1
+      },
+      "buildingdef": "LogicWire",
+      "selected_elements": [
+        -755153220
+      ],
+      "flags": 2
+    },
+    {
+      "offset": {
+        "x": 9,
+        "y": 2
+      },
+      "buildingdef": "GasPump",
+      "selected_elements": [
+        -1736594426
+      ]
+    },
+    {
+      "offset": {
+        "x": 9,
+        "y": 3
+      },
+      "buildingdef": "Wire",
+      "selected_elements": [
+        -1736594426
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 9,
+        "y": 3
+      },
+      "buildingdef": "LogicWire",
+      "selected_elements": [
+        -755153220
+      ],
+      "flags": 2
+    },
+    {
+      "offset": {
+        "x": 9,
+        "y": 4
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 9,
+        "y": 6
+      },
+      "buildingdef": "GasConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 9,
+        "y": 8
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 9,
+        "y": 8
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 9,
+        "y": 9
+      },
+      "buildingdef": "Sculpture",
+      "selected_elements": [
+        -105943486
+      ]
+    },
+    {
+      "offset": {
+        "x": 9,
+        "y": 12
+      },
+      "buildingdef": "CrownMoulding",
+      "selected_elements": [
+        -105943486
+      ]
+    },
+    {
+      "offset": {
+        "x": 9,
+        "y": 13
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 9,
+        "y": 13
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 10
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 10,
+        "y": 1
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 10,
+        "y": 1
+      },
+      "buildingdef": "LogicGateBUFFER",
+      "selected_elements": [
+        -755153220
+      ],
+      "orientation": 3
+    },
+    {
+      "offset": {
+        "x": 10,
+        "y": 1
+      },
+      "buildingdef": "LogicWire",
+      "selected_elements": [
+        -755153220
+      ],
+      "flags": 1
+    },
+    {
+      "offset": {
+        "x": 10,
+        "y": 2
+      },
+      "buildingdef": "GasConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 6
+    },
+    {
+      "offset": {
+        "x": 10,
+        "y": 2
+      },
+      "buildingdef": "LogicWire",
+      "selected_elements": [
+        -755153220
+      ],
+      "flags": 4
+    },
+    {
+      "offset": {
+        "x": 10,
+        "y": 3
+      },
+      "buildingdef": "GasConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 8
+    },
+    {
+      "offset": {
+        "x": 10,
+        "y": 3
+      },
+      "buildingdef": "Wire",
+      "selected_elements": [
+        -1736594426
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 10,
+        "y": 3
+      },
+      "buildingdef": "LogicWire",
+      "selected_elements": [
+        -755153220
+      ],
+      "flags": 9
+    },
+    {
+      "offset": {
+        "x": 10,
+        "y": 4
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 10,
+        "y": 5
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 10,
+        "y": 6
+      },
+      "buildingdef": "GasConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 10,
+        "y": 8
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 10,
+        "y": 8
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 10,
+        "y": 9
+      },
+      "buildingdef": "Sculpture",
+      "selected_elements": [
+        -105943486
+      ]
+    },
+    {
+      "offset": {
+        "x": 10,
+        "y": 12
+      },
+      "buildingdef": "CrownMoulding",
+      "selected_elements": [
+        -105943486
+      ]
+    },
+    {
+      "offset": {
+        "x": 10,
+        "y": 13
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 10,
+        "y": 13
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 11
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 11,
+        "y": 1
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 11,
+        "y": 3
+      },
+      "buildingdef": "GasFilter",
+      "selected_elements": [
+        -1736594426
+      ],
+      "orientation": 3
+    },
+    {
+      "offset": {
+        "x": 11,
+        "y": 2
+      },
+      "buildingdef": "GasConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 1
+    },
+    {
+      "offset": {
+        "x": 11,
+        "y": 3
+      },
+      "buildingdef": "GasConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 2
+    },
+    {
+      "offset": {
+        "x": 11,
+        "y": 3
+      },
+      "buildingdef": "Wire",
+      "selected_elements": [
+        -1736594426
+      ],
+      "flags": 1
+    },
+    {
+      "offset": {
+        "x": 11,
+        "y": 4
+      },
+      "buildingdef": "GasConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 4
+    },
+    {
+      "offset": {
+        "x": 11,
+        "y": 4
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 1
+    },
+    {
+      "offset": {
+        "x": 11,
+        "y": 5
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 11,
+        "y": 5
+      },
+      "buildingdef": "GasConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 12
+    },
+    {
+      "offset": {
+        "x": 11,
+        "y": 6
+      },
+      "buildingdef": "GasConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 9
+    },
+    {
+      "offset": {
+        "x": 11,
+        "y": 8
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 11,
+        "y": 8
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 7
+    },
+    {
+      "offset": {
+        "x": 11,
+        "y": 9
+      },
+      "buildingdef": "FlushToilet",
+      "selected_elements": [
+        -1736594426
+      ]
+    },
+    {
+      "offset": {
+        "x": 11,
+        "y": 9
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 8
+    },
+    {
+      "offset": {
+        "x": 11,
+        "y": 12
+      },
+      "buildingdef": "CrownMoulding",
+      "selected_elements": [
+        -105943486
+      ]
+    },
+    {
+      "offset": {
+        "x": 11,
+        "y": 13
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 11,
+        "y": 13
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 12
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 12,
+        "y": 1
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 12,
+        "y": 2
+      },
+      "buildingdef": "LiquidReservoir",
+      "selected_elements": [
+        -1736594426
+      ]
+    },
+    {
+      "offset": {
+        "x": 12,
+        "y": 2
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 12,
+        "y": 3
+      },
+      "buildingdef": "GasConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 12,
+        "y": 3
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 4
+    },
+    {
+      "offset": {
+        "x": 12,
+        "y": 4
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 8
+    },
+    {
+      "offset": {
+        "x": 13,
+        "y": 4
+      },
+      "buildingdef": "LiquidConduitBridge",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 12,
+        "y": 5
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 12,
+        "y": 8
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 12,
+        "y": 8
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 12,
+        "y": 10
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 4
+    },
+    {
+      "offset": {
+        "x": 12,
+        "y": 11
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 12
+    },
+    {
+      "offset": {
+        "x": 12,
+        "y": 12
+      },
+      "buildingdef": "CrownMoulding",
+      "selected_elements": [
+        -105943486
+      ]
+    },
+    {
+      "offset": {
+        "x": 12,
+        "y": 12
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 12
+    },
+    {
+      "offset": {
+        "x": 12,
+        "y": 13
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 12,
+        "y": 13
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 11
+    },
+    {
+      "offset": {
+        "x": 13
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 13,
+        "y": 1
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 13,
+        "y": 2
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 6
+    },
+    {
+      "offset": {
+        "x": 13,
+        "y": 3
+      },
+      "buildingdef": "GasConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 13,
+        "y": 3
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 12
+    },
+    {
+      "offset": {
+        "x": 13,
+        "y": 4
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 8
+    },
+    {
+      "offset": {
+        "x": 13,
+        "y": 5
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 13,
+        "y": 8
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 13,
+        "y": 8
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 7
+    },
+    {
+      "offset": {
+        "x": 13,
+        "y": 9
+      },
+      "buildingdef": "FlushToilet",
+      "selected_elements": [
+        -1736594426
+      ]
+    },
+    {
+      "offset": {
+        "x": 13,
+        "y": 9
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 8
+    },
+    {
+      "offset": {
+        "x": 13,
+        "y": 12
+      },
+      "buildingdef": "CrownMoulding",
+      "selected_elements": [
+        -105943486
+      ]
+    },
+    {
+      "offset": {
+        "x": 13,
+        "y": 13
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 13,
+        "y": 13
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 14
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 14,
+        "y": 1
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 14,
+        "y": 2
+      },
+      "buildingdef": "LiquidReservoir",
+      "selected_elements": [
+        -1736594426
+      ]
+    },
+    {
+      "offset": {
+        "x": 14,
+        "y": 2
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 1
+    },
+    {
+      "offset": {
+        "x": 14,
+        "y": 3
+      },
+      "buildingdef": "GasConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 14,
+        "y": 3
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 6
+    },
+    {
+      "offset": {
+        "x": 14,
+        "y": 4
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 10
+    },
+    {
+      "offset": {
+        "x": 14,
+        "y": 5
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 14,
+        "y": 8
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 14,
+        "y": 8
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 14,
+        "y": 10
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 4
+    },
+    {
+      "offset": {
+        "x": 14,
+        "y": 11
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 12
+    },
+    {
+      "offset": {
+        "x": 14,
+        "y": 12
+      },
+      "buildingdef": "CrownMoulding",
+      "selected_elements": [
+        -105943486
+      ]
+    },
+    {
+      "offset": {
+        "x": 14,
+        "y": 12
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 12
+    },
+    {
+      "offset": {
+        "x": 14,
+        "y": 13
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 14,
+        "y": 13
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 11
+    },
+    {
+      "offset": {
+        "x": 15
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 15,
+        "y": 1
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 15,
+        "y": 3
+      },
+      "buildingdef": "GasConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 15,
+        "y": 3
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 15,
+        "y": 4
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 1
+    },
+    {
+      "offset": {
+        "x": 15,
+        "y": 5
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 15,
+        "y": 8
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 15,
+        "y": 8
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 5
+    },
+    {
+      "offset": {
+        "x": 15,
+        "y": 9
+      },
+      "buildingdef": "FlushToilet",
+      "selected_elements": [
+        -1736594426
+      ]
+    },
+    {
+      "offset": {
+        "x": 15,
+        "y": 9
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 8
+    },
+    {
+      "offset": {
+        "x": 15,
+        "y": 12
+      },
+      "buildingdef": "CrownMoulding",
+      "selected_elements": [
+        -105943486
+      ]
+    },
+    {
+      "offset": {
+        "x": 15,
+        "y": 13
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 15,
+        "y": 13
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 16
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 16,
+        "y": 1
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 16,
+        "y": 2
+      },
+      "buildingdef": "StorageLocker",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 16,
+        "y": 3
+      },
+      "buildingdef": "GasConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 5
+    },
+    {
+      "offset": {
+        "x": 16,
+        "y": 3
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 16,
+        "y": 4
+      },
+      "buildingdef": "GasVent",
+      "selected_elements": [
+        -1736594426
+      ]
+    },
+    {
+      "offset": {
+        "x": 16,
+        "y": 4
+      },
+      "buildingdef": "GasConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 8
+    },
+    {
+      "offset": {
+        "x": 16,
+        "y": 5
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 16,
+        "y": 8
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 16,
+        "y": 10
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 4
+    },
+    {
+      "offset": {
+        "x": 16,
+        "y": 11
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 12
+    },
+    {
+      "offset": {
+        "x": 16,
+        "y": 12
+      },
+      "buildingdef": "CornerMoulding",
+      "selected_elements": [
+        -105943486
+      ],
+      "orientation": 5
+    },
+    {
+      "offset": {
+        "x": 16,
+        "y": 12
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 12
+    },
+    {
+      "offset": {
+        "x": 16,
+        "y": 13
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 16,
+        "y": 13
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 11
+    },
+    {
+      "offset": {
+        "x": 17
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 17,
+        "y": 1
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 17,
+        "y": 2
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 17,
+        "y": 3
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 17,
+        "y": 3
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 5
+    },
+    {
+      "offset": {
+        "x": 17,
+        "y": 4
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 17,
+        "y": 4
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 12
+    },
+    {
+      "offset": {
+        "x": 17,
+        "y": 5
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 17,
+        "y": 5
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 12
+    },
+    {
+      "offset": {
+        "x": 17,
+        "y": 6
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 17,
+        "y": 6
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 12
+    },
+    {
+      "offset": {
+        "x": 17,
+        "y": 7
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 17,
+        "y": 7
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 12
+    },
+    {
+      "offset": {
+        "x": 17,
+        "y": 8
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 17,
+        "y": 8
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 12
+    },
+    {
+      "offset": {
+        "x": 17,
+        "y": 9
+      },
+      "buildingdef": "Door",
+      "selected_elements": [
+        -1736594426
+      ]
+    },
+    {
+      "offset": {
+        "x": 17,
+        "y": 9
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 12
+    },
+    {
+      "offset": {
+        "x": 17,
+        "y": 10
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 12
+    },
+    {
+      "offset": {
+        "x": 17,
+        "y": 11
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 17,
+        "y": 11
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 12
+    },
+    {
+      "offset": {
+        "x": 17,
+        "y": 12
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 17,
+        "y": 12
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 12
+    },
+    {
+      "offset": {
+        "x": 17,
+        "y": 13
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 17,
+        "y": 13
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 9
+    }
+  ]
+}

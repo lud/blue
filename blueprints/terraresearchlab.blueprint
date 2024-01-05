@@ -1,0 +1,2137 @@
+{
+  "friendlyname": "TerraResearchLab",
+  "buildings": [
+    {
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "y": 1
+      },
+      "buildingdef": "Door",
+      "selected_elements": [
+        -1736594426
+      ]
+    },
+    {
+      "offset": {
+        "y": 3
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "y": 4
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "y": 5
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "y": 6
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "y": 7
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "y": 8
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "y": 9
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "y": 10
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "y": 11
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "y": 12
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "y": 13
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 1
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 1,
+        "y": 1
+      },
+      "buildingdef": "Sculpture",
+      "selected_elements": [
+        -105943486
+      ]
+    },
+    {
+      "offset": {
+        "x": 1,
+        "y": 5
+      },
+      "buildingdef": "LogicDuplicantSensor",
+      "selected_elements": [
+        -755153220
+      ],
+      "orientation": 2
+    },
+    {
+      "offset": {
+        "x": 1,
+        "y": 5
+      },
+      "buildingdef": "LogicWire",
+      "selected_elements": [
+        -755153220
+      ],
+      "flags": 2
+    },
+    {
+      "offset": {
+        "x": 1,
+        "y": 6
+      },
+      "buildingdef": "MetalTile",
+      "selected_elements": [
+        -755153220
+      ]
+    },
+    {
+      "offset": {
+        "x": 1,
+        "y": 7
+      },
+      "buildingdef": "MetalTile",
+      "selected_elements": [
+        -755153220
+      ]
+    },
+    {
+      "offset": {
+        "x": 1,
+        "y": 8
+      },
+      "buildingdef": "MetalTile",
+      "selected_elements": [
+        -755153220
+      ]
+    },
+    {
+      "offset": {
+        "x": 1,
+        "y": 9
+      },
+      "buildingdef": "MetalTile",
+      "selected_elements": [
+        -755153220
+      ]
+    },
+    {
+      "offset": {
+        "x": 1,
+        "y": 10
+      },
+      "buildingdef": "MetalTile",
+      "selected_elements": [
+        -755153220
+      ]
+    },
+    {
+      "offset": {
+        "x": 1,
+        "y": 11
+      },
+      "buildingdef": "MetalTile",
+      "selected_elements": [
+        -755153220
+      ]
+    },
+    {
+      "offset": {
+        "x": 1,
+        "y": 12
+      },
+      "buildingdef": "MetalTile",
+      "selected_elements": [
+        -755153220
+      ]
+    },
+    {
+      "offset": {
+        "x": 1,
+        "y": 13
+      },
+      "buildingdef": "MetalTile",
+      "selected_elements": [
+        -755153220
+      ]
+    },
+    {
+      "offset": {
+        "x": 2
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 3,
+        "y": 1
+      },
+      "buildingdef": "DLC1CosmicResearchCenter",
+      "selected_elements": [
+        -1736594426
+      ]
+    },
+    {
+      "offset": {
+        "x": 2,
+        "y": 5
+      },
+      "buildingdef": "CeilingLight",
+      "selected_elements": [
+        -1736594426
+      ]
+    },
+    {
+      "offset": {
+        "x": 2,
+        "y": 5
+      },
+      "buildingdef": "Wire",
+      "selected_elements": [
+        -1736594426
+      ],
+      "flags": 2
+    },
+    {
+      "offset": {
+        "x": 2,
+        "y": 5
+      },
+      "buildingdef": "LogicWire",
+      "selected_elements": [
+        -755153220
+      ],
+      "flags": 1
+    },
+    {
+      "offset": {
+        "x": 2,
+        "y": 6
+      },
+      "buildingdef": "MetalTile",
+      "selected_elements": [
+        -755153220
+      ]
+    },
+    {
+      "offset": {
+        "x": 2,
+        "y": 7
+      },
+      "buildingdef": "MetalTile",
+      "selected_elements": [
+        -755153220
+      ]
+    },
+    {
+      "offset": {
+        "x": 2,
+        "y": 8
+      },
+      "buildingdef": "MetalTile",
+      "selected_elements": [
+        -755153220
+      ]
+    },
+    {
+      "offset": {
+        "x": 2,
+        "y": 9
+      },
+      "buildingdef": "MetalTile",
+      "selected_elements": [
+        -755153220
+      ]
+    },
+    {
+      "offset": {
+        "x": 2,
+        "y": 10
+      },
+      "buildingdef": "MetalTile",
+      "selected_elements": [
+        -755153220
+      ]
+    },
+    {
+      "offset": {
+        "x": 2,
+        "y": 11
+      },
+      "buildingdef": "MetalTile",
+      "selected_elements": [
+        -755153220
+      ]
+    },
+    {
+      "offset": {
+        "x": 2,
+        "y": 12
+      },
+      "buildingdef": "MetalTile",
+      "selected_elements": [
+        -755153220
+      ]
+    },
+    {
+      "offset": {
+        "x": 2,
+        "y": 13
+      },
+      "buildingdef": "MetalTile",
+      "selected_elements": [
+        -755153220
+      ]
+    },
+    {
+      "offset": {
+        "x": 3
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 3
+      },
+      "buildingdef": "Wire",
+      "selected_elements": [
+        -1736594426
+      ],
+      "flags": 6
+    },
+    {
+      "offset": {
+        "x": 3,
+        "y": 1
+      },
+      "buildingdef": "Wire",
+      "selected_elements": [
+        -1736594426
+      ],
+      "flags": 8
+    },
+    {
+      "offset": {
+        "x": 3,
+        "y": 5
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 3,
+        "y": 5
+      },
+      "buildingdef": "Wire",
+      "selected_elements": [
+        -1736594426
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 3,
+        "y": 6
+      },
+      "buildingdef": "Sculpture",
+      "selected_elements": [
+        -105943486
+      ]
+    },
+    {
+      "offset": {
+        "x": 3,
+        "y": 9
+      },
+      "buildingdef": "FarmTile",
+      "selected_elements": [
+        1624244999
+      ]
+    },
+    {
+      "offset": {
+        "x": 3,
+        "y": 12
+      },
+      "buildingdef": "MetalTile",
+      "selected_elements": [
+        -755153220
+      ]
+    },
+    {
+      "offset": {
+        "x": 3,
+        "y": 13
+      },
+      "buildingdef": "MetalTile",
+      "selected_elements": [
+        -755153220
+      ]
+    },
+    {
+      "offset": {
+        "x": 4
+      },
+      "buildingdef": "GasPermeableMembrane",
+      "selected_elements": [
+        -1736594426
+      ]
+    },
+    {
+      "offset": {
+        "x": 4
+      },
+      "buildingdef": "Wire",
+      "selected_elements": [
+        -1736594426
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 4,
+        "y": 5
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 4,
+        "y": 5
+      },
+      "buildingdef": "Wire",
+      "selected_elements": [
+        -1736594426
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 4,
+        "y": 6
+      },
+      "buildingdef": "Sculpture",
+      "selected_elements": [
+        -105943486
+      ]
+    },
+    {
+      "offset": {
+        "x": 4,
+        "y": 9
+      },
+      "buildingdef": "FarmTile",
+      "selected_elements": [
+        1624244999
+      ]
+    },
+    {
+      "offset": {
+        "x": 4,
+        "y": 12
+      },
+      "buildingdef": "MetalTile",
+      "selected_elements": [
+        -755153220
+      ]
+    },
+    {
+      "offset": {
+        "x": 4,
+        "y": 13
+      },
+      "buildingdef": "MetalTile",
+      "selected_elements": [
+        -755153220
+      ]
+    },
+    {
+      "offset": {
+        "x": 5
+      },
+      "buildingdef": "GasPermeableMembrane",
+      "selected_elements": [
+        -1736594426
+      ]
+    },
+    {
+      "offset": {
+        "x": 5
+      },
+      "buildingdef": "Wire",
+      "selected_elements": [
+        -1736594426
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 5,
+        "y": 5
+      },
+      "buildingdef": "GasPermeableMembrane",
+      "selected_elements": [
+        -1736594426
+      ]
+    },
+    {
+      "offset": {
+        "x": 5,
+        "y": 5
+      },
+      "buildingdef": "Wire",
+      "selected_elements": [
+        -1736594426
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 7,
+        "y": 6
+      },
+      "buildingdef": "NuclearResearchCenter",
+      "selected_elements": [
+        -279785280
+      ]
+    },
+    {
+      "offset": {
+        "x": 5,
+        "y": 10
+      },
+      "buildingdef": "HighEnergyParticleSpawner",
+      "selected_elements": [
+        493438017
+      ],
+      "orientation": 2
+    },
+    {
+      "offset": {
+        "x": 5,
+        "y": 10
+      },
+      "buildingdef": "Wire",
+      "selected_elements": [
+        -1736594426
+      ],
+      "flags": 4
+    },
+    {
+      "offset": {
+        "x": 5,
+        "y": 11
+      },
+      "buildingdef": "Switch",
+      "selected_elements": [
+        -1736594426
+      ]
+    },
+    {
+      "offset": {
+        "x": 5,
+        "y": 11
+      },
+      "buildingdef": "Wire",
+      "selected_elements": [
+        -1736594426
+      ],
+      "flags": 10
+    },
+    {
+      "offset": {
+        "x": 5,
+        "y": 12
+      },
+      "buildingdef": "MetalTile",
+      "selected_elements": [
+        -755153220
+      ]
+    },
+    {
+      "offset": {
+        "x": 5,
+        "y": 13
+      },
+      "buildingdef": "MetalTile",
+      "selected_elements": [
+        -755153220
+      ]
+    },
+    {
+      "offset": {
+        "x": 6
+      },
+      "buildingdef": "GasPermeableMembrane",
+      "selected_elements": [
+        -1736594426
+      ]
+    },
+    {
+      "offset": {
+        "x": 6
+      },
+      "buildingdef": "Wire",
+      "selected_elements": [
+        -1736594426
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 7,
+        "y": 1
+      },
+      "buildingdef": "GeoTuner",
+      "selected_elements": [
+        -279785280
+      ]
+    },
+    {
+      "offset": {
+        "x": 6,
+        "y": 5
+      },
+      "buildingdef": "GasPermeableMembrane",
+      "selected_elements": [
+        -1736594426
+      ]
+    },
+    {
+      "offset": {
+        "x": 6,
+        "y": 5
+      },
+      "buildingdef": "Wire",
+      "selected_elements": [
+        -1736594426
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 6,
+        "y": 9
+      },
+      "buildingdef": "FarmTile",
+      "selected_elements": [
+        1624244999
+      ]
+    },
+    {
+      "offset": {
+        "x": 6,
+        "y": 11
+      },
+      "buildingdef": "Wire",
+      "selected_elements": [
+        -1736594426
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 6,
+        "y": 12
+      },
+      "buildingdef": "MetalTile",
+      "selected_elements": [
+        -755153220
+      ]
+    },
+    {
+      "offset": {
+        "x": 6,
+        "y": 13
+      },
+      "buildingdef": "MetalTile",
+      "selected_elements": [
+        -755153220
+      ]
+    },
+    {
+      "offset": {
+        "x": 7
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 7
+      },
+      "buildingdef": "Wire",
+      "selected_elements": [
+        -1736594426
+      ],
+      "flags": 7
+    },
+    {
+      "offset": {
+        "x": 7,
+        "y": 1
+      },
+      "buildingdef": "Wire",
+      "selected_elements": [
+        -1736594426
+      ],
+      "flags": 8
+    },
+    {
+      "offset": {
+        "x": 7,
+        "y": 4
+      },
+      "buildingdef": "LogicDuplicantSensor",
+      "selected_elements": [
+        -755153220
+      ],
+      "orientation": 2
+    },
+    {
+      "offset": {
+        "x": 7,
+        "y": 4
+      },
+      "buildingdef": "LogicWire",
+      "selected_elements": [
+        -755153220
+      ],
+      "flags": 2
+    },
+    {
+      "offset": {
+        "x": 7,
+        "y": 5
+      },
+      "buildingdef": "GasPermeableMembrane",
+      "selected_elements": [
+        -1736594426
+      ]
+    },
+    {
+      "offset": {
+        "x": 7,
+        "y": 5
+      },
+      "buildingdef": "Wire",
+      "selected_elements": [
+        -1736594426
+      ],
+      "flags": 7
+    },
+    {
+      "offset": {
+        "x": 7,
+        "y": 6
+      },
+      "buildingdef": "Wire",
+      "selected_elements": [
+        -1736594426
+      ],
+      "flags": 12
+    },
+    {
+      "offset": {
+        "x": 7,
+        "y": 7
+      },
+      "buildingdef": "Wire",
+      "selected_elements": [
+        -1736594426
+      ],
+      "flags": 12
+    },
+    {
+      "offset": {
+        "x": 7,
+        "y": 8
+      },
+      "buildingdef": "Wire",
+      "selected_elements": [
+        -1736594426
+      ],
+      "flags": 12
+    },
+    {
+      "offset": {
+        "x": 7,
+        "y": 9
+      },
+      "buildingdef": "FarmTile",
+      "selected_elements": [
+        1624244999
+      ]
+    },
+    {
+      "offset": {
+        "x": 7,
+        "y": 9
+      },
+      "buildingdef": "Wire",
+      "selected_elements": [
+        -1736594426
+      ],
+      "flags": 12
+    },
+    {
+      "offset": {
+        "x": 7,
+        "y": 10
+      },
+      "buildingdef": "Wire",
+      "selected_elements": [
+        -1736594426
+      ],
+      "flags": 12
+    },
+    {
+      "offset": {
+        "x": 7,
+        "y": 11
+      },
+      "buildingdef": "Wire",
+      "selected_elements": [
+        -1736594426
+      ],
+      "flags": 13
+    },
+    {
+      "offset": {
+        "x": 7,
+        "y": 12
+      },
+      "buildingdef": "MetalTile",
+      "selected_elements": [
+        -755153220
+      ]
+    },
+    {
+      "offset": {
+        "x": 7,
+        "y": 12
+      },
+      "buildingdef": "Wire",
+      "selected_elements": [
+        -1736594426
+      ],
+      "flags": 10
+    },
+    {
+      "offset": {
+        "x": 7,
+        "y": 13
+      },
+      "buildingdef": "MetalTile",
+      "selected_elements": [
+        -755153220
+      ]
+    },
+    {
+      "offset": {
+        "x": 8
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 8
+      },
+      "buildingdef": "Wire",
+      "selected_elements": [
+        -1736594426
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 8,
+        "y": 4
+      },
+      "buildingdef": "CeilingLight",
+      "selected_elements": [
+        -1736594426
+      ]
+    },
+    {
+      "offset": {
+        "x": 8,
+        "y": 4
+      },
+      "buildingdef": "Wire",
+      "selected_elements": [
+        -1736594426
+      ],
+      "flags": 4
+    },
+    {
+      "offset": {
+        "x": 8,
+        "y": 4
+      },
+      "buildingdef": "LogicWire",
+      "selected_elements": [
+        -755153220
+      ],
+      "flags": 1
+    },
+    {
+      "offset": {
+        "x": 8,
+        "y": 5
+      },
+      "buildingdef": "GasPermeableMembrane",
+      "selected_elements": [
+        -1736594426
+      ]
+    },
+    {
+      "offset": {
+        "x": 8,
+        "y": 5
+      },
+      "buildingdef": "Wire",
+      "selected_elements": [
+        -1736594426
+      ],
+      "flags": 11
+    },
+    {
+      "offset": {
+        "x": 8,
+        "y": 9
+      },
+      "buildingdef": "Ladder",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 8,
+        "y": 12
+      },
+      "buildingdef": "MetalTile",
+      "selected_elements": [
+        -755153220
+      ]
+    },
+    {
+      "offset": {
+        "x": 8,
+        "y": 12
+      },
+      "buildingdef": "Wire",
+      "selected_elements": [
+        -1736594426
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 8,
+        "y": 13
+      },
+      "buildingdef": "MetalTile",
+      "selected_elements": [
+        -755153220
+      ]
+    },
+    {
+      "offset": {
+        "x": 9
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 9
+      },
+      "buildingdef": "Wire",
+      "selected_elements": [
+        -1736594426
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 9,
+        "y": 5
+      },
+      "buildingdef": "GasPermeableMembrane",
+      "selected_elements": [
+        -1736594426
+      ]
+    },
+    {
+      "offset": {
+        "x": 9,
+        "y": 5
+      },
+      "buildingdef": "Wire",
+      "selected_elements": [
+        -1736594426
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 9,
+        "y": 9
+      },
+      "buildingdef": "Ladder",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 9,
+        "y": 11
+      },
+      "buildingdef": "CeilingLight",
+      "selected_elements": [
+        -1736594426
+      ]
+    },
+    {
+      "offset": {
+        "x": 9,
+        "y": 11
+      },
+      "buildingdef": "Wire",
+      "selected_elements": [
+        -1736594426
+      ],
+      "flags": 4
+    },
+    {
+      "offset": {
+        "x": 9,
+        "y": 11
+      },
+      "buildingdef": "LogicWire",
+      "selected_elements": [
+        -755153220
+      ],
+      "flags": 2
+    },
+    {
+      "offset": {
+        "x": 9,
+        "y": 12
+      },
+      "buildingdef": "MetalTile",
+      "selected_elements": [
+        -755153220
+      ]
+    },
+    {
+      "offset": {
+        "x": 9,
+        "y": 12
+      },
+      "buildingdef": "Wire",
+      "selected_elements": [
+        -1736594426
+      ],
+      "flags": 9
+    },
+    {
+      "offset": {
+        "x": 9,
+        "y": 13
+      },
+      "buildingdef": "MetalTile",
+      "selected_elements": [
+        -755153220
+      ]
+    },
+    {
+      "offset": {
+        "x": 10
+      },
+      "buildingdef": "GasPermeableMembrane",
+      "selected_elements": [
+        -1736594426
+      ]
+    },
+    {
+      "offset": {
+        "x": 10
+      },
+      "buildingdef": "Wire",
+      "selected_elements": [
+        -1736594426
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 10,
+        "y": 1
+      },
+      "buildingdef": "Sculpture",
+      "selected_elements": [
+        -105943486
+      ]
+    },
+    {
+      "offset": {
+        "x": 10,
+        "y": 5
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 10,
+        "y": 5
+      },
+      "buildingdef": "Wire",
+      "selected_elements": [
+        -1736594426
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 10,
+        "y": 6
+      },
+      "buildingdef": "FlowerVase",
+      "selected_elements": [
+        -105943486
+      ]
+    },
+    {
+      "offset": {
+        "x": 10,
+        "y": 8
+      },
+      "buildingdef": "LogicDuplicantSensor",
+      "selected_elements": [
+        -755153220
+      ],
+      "orientation": 2
+    },
+    {
+      "offset": {
+        "x": 10,
+        "y": 8
+      },
+      "buildingdef": "LogicWire",
+      "selected_elements": [
+        -755153220
+      ],
+      "flags": 4
+    },
+    {
+      "offset": {
+        "x": 10,
+        "y": 9
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 10,
+        "y": 9
+      },
+      "buildingdef": "LogicWire",
+      "selected_elements": [
+        -755153220
+      ],
+      "flags": 12
+    },
+    {
+      "offset": {
+        "x": 10,
+        "y": 10
+      },
+      "buildingdef": "LogicWire",
+      "selected_elements": [
+        -755153220
+      ],
+      "flags": 12
+    },
+    {
+      "offset": {
+        "x": 10,
+        "y": 11
+      },
+      "buildingdef": "LogicWire",
+      "selected_elements": [
+        -755153220
+      ],
+      "flags": 9
+    },
+    {
+      "offset": {
+        "x": 10,
+        "y": 12
+      },
+      "buildingdef": "MetalTile",
+      "selected_elements": [
+        -755153220
+      ]
+    },
+    {
+      "offset": {
+        "x": 10,
+        "y": 13
+      },
+      "buildingdef": "MetalTile",
+      "selected_elements": [
+        -755153220
+      ]
+    },
+    {
+      "offset": {
+        "x": 11
+      },
+      "buildingdef": "GasPermeableMembrane",
+      "selected_elements": [
+        -1736594426
+      ]
+    },
+    {
+      "offset": {
+        "x": 11
+      },
+      "buildingdef": "Wire",
+      "selected_elements": [
+        -1736594426
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 11,
+        "y": 1
+      },
+      "buildingdef": "Sculpture",
+      "selected_elements": [
+        -105943486
+      ]
+    },
+    {
+      "offset": {
+        "x": 11,
+        "y": 5
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 11,
+        "y": 5
+      },
+      "buildingdef": "Wire",
+      "selected_elements": [
+        -1736594426
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 11,
+        "y": 6
+      },
+      "buildingdef": "Ladder",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 11,
+        "y": 7
+      },
+      "buildingdef": "Ladder",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 11,
+        "y": 8
+      },
+      "buildingdef": "Ladder",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 11,
+        "y": 9
+      },
+      "buildingdef": "Ladder",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 11,
+        "y": 12
+      },
+      "buildingdef": "MetalTile",
+      "selected_elements": [
+        -755153220
+      ]
+    },
+    {
+      "offset": {
+        "x": 11,
+        "y": 13
+      },
+      "buildingdef": "MetalTile",
+      "selected_elements": [
+        -755153220
+      ]
+    },
+    {
+      "offset": {
+        "x": 12
+      },
+      "buildingdef": "GasPermeableMembrane",
+      "selected_elements": [
+        -1736594426
+      ]
+    },
+    {
+      "offset": {
+        "x": 12
+      },
+      "buildingdef": "Wire",
+      "selected_elements": [
+        -1736594426
+      ],
+      "flags": 7
+    },
+    {
+      "offset": {
+        "x": 12,
+        "y": 1
+      },
+      "buildingdef": "ResearchCenter",
+      "selected_elements": [
+        -1736594426
+      ]
+    },
+    {
+      "offset": {
+        "x": 12,
+        "y": 1
+      },
+      "buildingdef": "Wire",
+      "selected_elements": [
+        -1736594426
+      ],
+      "flags": 8
+    },
+    {
+      "offset": {
+        "x": 12,
+        "y": 3
+      },
+      "buildingdef": "FlowerVaseHangingFancy",
+      "selected_elements": [
+        -2079931820
+      ]
+    },
+    {
+      "offset": {
+        "x": 12,
+        "y": 5
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 12,
+        "y": 5
+      },
+      "buildingdef": "Wire",
+      "selected_elements": [
+        -1736594426
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 12,
+        "y": 6
+      },
+      "buildingdef": "Sculpture",
+      "selected_elements": [
+        -105943486
+      ]
+    },
+    {
+      "offset": {
+        "x": 12,
+        "y": 12
+      },
+      "buildingdef": "MetalTile",
+      "selected_elements": [
+        -755153220
+      ]
+    },
+    {
+      "offset": {
+        "x": 12,
+        "y": 13
+      },
+      "buildingdef": "MetalTile",
+      "selected_elements": [
+        -755153220
+      ]
+    },
+    {
+      "offset": {
+        "x": 13
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 13
+      },
+      "buildingdef": "Wire",
+      "selected_elements": [
+        -1736594426
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 13,
+        "y": 4
+      },
+      "buildingdef": "CeilingLight",
+      "selected_elements": [
+        -1736594426
+      ]
+    },
+    {
+      "offset": {
+        "x": 13,
+        "y": 4
+      },
+      "buildingdef": "Wire",
+      "selected_elements": [
+        -1736594426
+      ],
+      "flags": 4
+    },
+    {
+      "offset": {
+        "x": 13,
+        "y": 4
+      },
+      "buildingdef": "LogicWire",
+      "selected_elements": [
+        -755153220
+      ],
+      "flags": 2
+    },
+    {
+      "offset": {
+        "x": 13,
+        "y": 5
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 13,
+        "y": 5
+      },
+      "buildingdef": "Wire",
+      "selected_elements": [
+        -1736594426
+      ],
+      "flags": 11
+    },
+    {
+      "offset": {
+        "x": 14,
+        "y": 6
+      },
+      "buildingdef": "LeadSuitMarker",
+      "selected_elements": [
+        -899253461
+      ],
+      "orientation": 5
+    },
+    {
+      "offset": {
+        "x": 13,
+        "y": 12
+      },
+      "buildingdef": "MetalTile",
+      "selected_elements": [
+        -755153220
+      ]
+    },
+    {
+      "offset": {
+        "x": 13,
+        "y": 13
+      },
+      "buildingdef": "MetalTile",
+      "selected_elements": [
+        -755153220
+      ]
+    },
+    {
+      "offset": {
+        "x": 14
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 14
+      },
+      "buildingdef": "Wire",
+      "selected_elements": [
+        -1736594426
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 15,
+        "y": 1
+      },
+      "buildingdef": "AdvancedResearchCenter",
+      "selected_elements": [
+        -1736594426
+      ]
+    },
+    {
+      "offset": {
+        "x": 14,
+        "y": 4
+      },
+      "buildingdef": "LogicDuplicantSensor",
+      "selected_elements": [
+        -755153220
+      ],
+      "orientation": 2
+    },
+    {
+      "offset": {
+        "x": 14,
+        "y": 4
+      },
+      "buildingdef": "LogicWire",
+      "selected_elements": [
+        -755153220
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 14,
+        "y": 5
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 14,
+        "y": 5
+      },
+      "buildingdef": "Wire",
+      "selected_elements": [
+        -1736594426
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 14,
+        "y": 12
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 14,
+        "y": 13
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 15
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 15
+      },
+      "buildingdef": "Wire",
+      "selected_elements": [
+        -1736594426
+      ],
+      "flags": 7
+    },
+    {
+      "offset": {
+        "x": 15,
+        "y": 1
+      },
+      "buildingdef": "Wire",
+      "selected_elements": [
+        -1736594426
+      ],
+      "flags": 8
+    },
+    {
+      "offset": {
+        "x": 15,
+        "y": 4
+      },
+      "buildingdef": "CeilingLight",
+      "selected_elements": [
+        -1736594426
+      ]
+    },
+    {
+      "offset": {
+        "x": 15,
+        "y": 4
+      },
+      "buildingdef": "Wire",
+      "selected_elements": [
+        -1736594426
+      ],
+      "flags": 4
+    },
+    {
+      "offset": {
+        "x": 15,
+        "y": 4
+      },
+      "buildingdef": "LogicWire",
+      "selected_elements": [
+        -755153220
+      ],
+      "flags": 1
+    },
+    {
+      "offset": {
+        "x": 15,
+        "y": 5
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 15,
+        "y": 5
+      },
+      "buildingdef": "GasConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 6
+    },
+    {
+      "offset": {
+        "x": 15,
+        "y": 5
+      },
+      "buildingdef": "Wire",
+      "selected_elements": [
+        -1736594426
+      ],
+      "flags": 15
+    },
+    {
+      "offset": {
+        "x": 15,
+        "y": 6
+      },
+      "buildingdef": "LeadSuitLocker",
+      "selected_elements": [
+        -279785280
+      ]
+    },
+    {
+      "offset": {
+        "x": 15,
+        "y": 6
+      },
+      "buildingdef": "GasConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 12
+    },
+    {
+      "offset": {
+        "x": 15,
+        "y": 6
+      },
+      "buildingdef": "Wire",
+      "selected_elements": [
+        -1736594426
+      ],
+      "flags": 8
+    },
+    {
+      "offset": {
+        "x": 15,
+        "y": 7
+      },
+      "buildingdef": "GasConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 12
+    },
+    {
+      "offset": {
+        "x": 15,
+        "y": 8
+      },
+      "buildingdef": "GasConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 8
+    },
+    {
+      "offset": {
+        "x": 15,
+        "y": 12
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 15,
+        "y": 13
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 16
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 16
+      },
+      "buildingdef": "Wire",
+      "selected_elements": [
+        -1736594426
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 16,
+        "y": 5
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 16,
+        "y": 5
+      },
+      "buildingdef": "GasConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 16,
+        "y": 5
+      },
+      "buildingdef": "Wire",
+      "selected_elements": [
+        -1736594426
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 16,
+        "y": 12
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 16,
+        "y": 13
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 17
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 17
+      },
+      "buildingdef": "Wire",
+      "selected_elements": [
+        -1736594426
+      ],
+      "flags": 5
+    },
+    {
+      "offset": {
+        "x": 17,
+        "y": 1
+      },
+      "buildingdef": "Door",
+      "selected_elements": [
+        -1736594426
+      ]
+    },
+    {
+      "offset": {
+        "x": 17,
+        "y": 1
+      },
+      "buildingdef": "Wire",
+      "selected_elements": [
+        -1736594426
+      ],
+      "flags": 12
+    },
+    {
+      "offset": {
+        "x": 17,
+        "y": 2
+      },
+      "buildingdef": "Wire",
+      "selected_elements": [
+        -1736594426
+      ],
+      "flags": 12
+    },
+    {
+      "offset": {
+        "x": 17,
+        "y": 3
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 17,
+        "y": 3
+      },
+      "buildingdef": "Wire",
+      "selected_elements": [
+        -1736594426
+      ],
+      "flags": 12
+    },
+    {
+      "offset": {
+        "x": 17,
+        "y": 4
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 17,
+        "y": 4
+      },
+      "buildingdef": "Wire",
+      "selected_elements": [
+        -1736594426
+      ],
+      "flags": 12
+    },
+    {
+      "offset": {
+        "x": 17,
+        "y": 5
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 17,
+        "y": 5
+      },
+      "buildingdef": "GasConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 1
+    },
+    {
+      "offset": {
+        "x": 17,
+        "y": 5
+      },
+      "buildingdef": "Wire",
+      "selected_elements": [
+        -1736594426
+      ],
+      "flags": 9
+    },
+    {
+      "offset": {
+        "x": 17,
+        "y": 6
+      },
+      "buildingdef": "Door",
+      "selected_elements": [
+        -1736594426
+      ]
+    },
+    {
+      "offset": {
+        "x": 17,
+        "y": 8
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 17,
+        "y": 9
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 17,
+        "y": 10
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 17,
+        "y": 11
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 17,
+        "y": 12
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 17,
+        "y": 13
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    }
+  ]
+}

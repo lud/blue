@@ -1,0 +1,1251 @@
+{
+  "friendlyname": "TerraToiletsRight",
+  "buildings": [
+    {
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "y": 1
+      },
+      "buildingdef": "Door",
+      "selected_elements": [
+        -1736594426
+      ]
+    },
+    {
+      "offset": {
+        "y": 3
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "y": 4
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "y": 5
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 1
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 1
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 6
+    },
+    {
+      "offset": {
+        "x": 1,
+        "y": 1
+      },
+      "buildingdef": "FlushToilet",
+      "selected_elements": [
+        -1736594426
+      ]
+    },
+    {
+      "offset": {
+        "x": 1,
+        "y": 1
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 8
+    },
+    {
+      "offset": {
+        "x": 1,
+        "y": 4
+      },
+      "buildingdef": "CornerMoulding",
+      "selected_elements": [
+        -105943486
+      ]
+    },
+    {
+      "offset": {
+        "x": 1,
+        "y": 5
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 2
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 2
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 2,
+        "y": 2
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 4
+    },
+    {
+      "offset": {
+        "x": 2,
+        "y": 3
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 12
+    },
+    {
+      "offset": {
+        "x": 2,
+        "y": 4
+      },
+      "buildingdef": "CrownMoulding",
+      "selected_elements": [
+        -105943486
+      ]
+    },
+    {
+      "offset": {
+        "x": 2,
+        "y": 4
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 12
+    },
+    {
+      "offset": {
+        "x": 2,
+        "y": 5
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 2,
+        "y": 5
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 10
+    },
+    {
+      "offset": {
+        "x": 3
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 3
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 7
+    },
+    {
+      "offset": {
+        "x": 3,
+        "y": 1
+      },
+      "buildingdef": "FlushToilet",
+      "selected_elements": [
+        -1736594426
+      ]
+    },
+    {
+      "offset": {
+        "x": 3,
+        "y": 1
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 8
+    },
+    {
+      "offset": {
+        "x": 3,
+        "y": 4
+      },
+      "buildingdef": "CrownMoulding",
+      "selected_elements": [
+        -105943486
+      ]
+    },
+    {
+      "offset": {
+        "x": 3,
+        "y": 5
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 3,
+        "y": 5
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 4
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 4
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 4,
+        "y": 2
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 4
+    },
+    {
+      "offset": {
+        "x": 4,
+        "y": 3
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 12
+    },
+    {
+      "offset": {
+        "x": 4,
+        "y": 4
+      },
+      "buildingdef": "CrownMoulding",
+      "selected_elements": [
+        -105943486
+      ]
+    },
+    {
+      "offset": {
+        "x": 4,
+        "y": 4
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 12
+    },
+    {
+      "offset": {
+        "x": 4,
+        "y": 5
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 4,
+        "y": 5
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 11
+    },
+    {
+      "offset": {
+        "x": 5
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 5
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 7
+    },
+    {
+      "offset": {
+        "x": 5,
+        "y": 1
+      },
+      "buildingdef": "FlushToilet",
+      "selected_elements": [
+        -1736594426
+      ]
+    },
+    {
+      "offset": {
+        "x": 5,
+        "y": 1
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 8
+    },
+    {
+      "offset": {
+        "x": 5,
+        "y": 4
+      },
+      "buildingdef": "CrownMoulding",
+      "selected_elements": [
+        -105943486
+      ]
+    },
+    {
+      "offset": {
+        "x": 5,
+        "y": 5
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 5,
+        "y": 5
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 6
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 6
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 6,
+        "y": 2
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 4
+    },
+    {
+      "offset": {
+        "x": 6,
+        "y": 3
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 12
+    },
+    {
+      "offset": {
+        "x": 6,
+        "y": 4
+      },
+      "buildingdef": "CrownMoulding",
+      "selected_elements": [
+        -105943486
+      ]
+    },
+    {
+      "offset": {
+        "x": 6,
+        "y": 4
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 12
+    },
+    {
+      "offset": {
+        "x": 6,
+        "y": 5
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 6,
+        "y": 5
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 11
+    },
+    {
+      "offset": {
+        "x": 7
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 7
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 7,
+        "y": 1
+      },
+      "buildingdef": "Sculpture",
+      "selected_elements": [
+        -105943486
+      ]
+    },
+    {
+      "offset": {
+        "x": 7,
+        "y": 4
+      },
+      "buildingdef": "CrownMoulding",
+      "selected_elements": [
+        -105943486
+      ]
+    },
+    {
+      "offset": {
+        "x": 7,
+        "y": 5
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 7,
+        "y": 5
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 8
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 8
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 8,
+        "y": 1
+      },
+      "buildingdef": "Sculpture",
+      "selected_elements": [
+        -105943486
+      ]
+    },
+    {
+      "offset": {
+        "x": 8,
+        "y": 4
+      },
+      "buildingdef": "CrownMoulding",
+      "selected_elements": [
+        -105943486
+      ]
+    },
+    {
+      "offset": {
+        "x": 8,
+        "y": 5
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 8,
+        "y": 5
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 9
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 9
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 9,
+        "y": 1
+      },
+      "buildingdef": "Sculpture",
+      "selected_elements": [
+        -105943486
+      ]
+    },
+    {
+      "offset": {
+        "x": 9,
+        "y": 4
+      },
+      "buildingdef": "CrownMoulding",
+      "selected_elements": [
+        -105943486
+      ]
+    },
+    {
+      "offset": {
+        "x": 9,
+        "y": 5
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 9,
+        "y": 5
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 10
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 10
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 10,
+        "y": 1
+      },
+      "buildingdef": "Sculpture",
+      "selected_elements": [
+        -105943486
+      ]
+    },
+    {
+      "offset": {
+        "x": 10,
+        "y": 4
+      },
+      "buildingdef": "CrownMoulding",
+      "selected_elements": [
+        -105943486
+      ]
+    },
+    {
+      "offset": {
+        "x": 10,
+        "y": 5
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 10,
+        "y": 5
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 11
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 11
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 7
+    },
+    {
+      "offset": {
+        "x": 11,
+        "y": 1
+      },
+      "buildingdef": "WashSink",
+      "selected_elements": [
+        -1736594426
+      ]
+    },
+    {
+      "offset": {
+        "x": 11,
+        "y": 1
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 8
+    },
+    {
+      "offset": {
+        "x": 11,
+        "y": 4
+      },
+      "buildingdef": "CrownMoulding",
+      "selected_elements": [
+        -105943486
+      ]
+    },
+    {
+      "offset": {
+        "x": 11,
+        "y": 5
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 11,
+        "y": 5
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 12
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 12
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 12,
+        "y": 2
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 4
+    },
+    {
+      "offset": {
+        "x": 12,
+        "y": 3
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 12
+    },
+    {
+      "offset": {
+        "x": 12,
+        "y": 4
+      },
+      "buildingdef": "CrownMoulding",
+      "selected_elements": [
+        -105943486
+      ]
+    },
+    {
+      "offset": {
+        "x": 12,
+        "y": 4
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 12
+    },
+    {
+      "offset": {
+        "x": 12,
+        "y": 5
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 12,
+        "y": 5
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 11
+    },
+    {
+      "offset": {
+        "x": 13
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 13
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 7
+    },
+    {
+      "offset": {
+        "x": 13,
+        "y": 1
+      },
+      "buildingdef": "WashSink",
+      "selected_elements": [
+        -1736594426
+      ]
+    },
+    {
+      "offset": {
+        "x": 13,
+        "y": 1
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 8
+    },
+    {
+      "offset": {
+        "x": 13,
+        "y": 4
+      },
+      "buildingdef": "CrownMoulding",
+      "selected_elements": [
+        -105943486
+      ]
+    },
+    {
+      "offset": {
+        "x": 13,
+        "y": 5
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 13,
+        "y": 5
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 14
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 14
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 14,
+        "y": 2
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 4
+    },
+    {
+      "offset": {
+        "x": 14,
+        "y": 3
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 12
+    },
+    {
+      "offset": {
+        "x": 14,
+        "y": 4
+      },
+      "buildingdef": "CrownMoulding",
+      "selected_elements": [
+        -105943486
+      ]
+    },
+    {
+      "offset": {
+        "x": 14,
+        "y": 4
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 12
+    },
+    {
+      "offset": {
+        "x": 14,
+        "y": 5
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 14,
+        "y": 5
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 11
+    },
+    {
+      "offset": {
+        "x": 15
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 15
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 5
+    },
+    {
+      "offset": {
+        "x": 15,
+        "y": 1
+      },
+      "buildingdef": "WashSink",
+      "selected_elements": [
+        -1736594426
+      ]
+    },
+    {
+      "offset": {
+        "x": 15,
+        "y": 1
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 8
+    },
+    {
+      "offset": {
+        "x": 15,
+        "y": 4
+      },
+      "buildingdef": "CrownMoulding",
+      "selected_elements": [
+        -105943486
+      ]
+    },
+    {
+      "offset": {
+        "x": 15,
+        "y": 5
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 15,
+        "y": 5
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 16
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 16,
+        "y": 2
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 4
+    },
+    {
+      "offset": {
+        "x": 16,
+        "y": 3
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 12
+    },
+    {
+      "offset": {
+        "x": 16,
+        "y": 4
+      },
+      "buildingdef": "CornerMoulding",
+      "selected_elements": [
+        -105943486
+      ],
+      "orientation": 5
+    },
+    {
+      "offset": {
+        "x": 16,
+        "y": 4
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 12
+    },
+    {
+      "offset": {
+        "x": 16,
+        "y": 5
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 16,
+        "y": 5
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 11
+    },
+    {
+      "offset": {
+        "x": 17
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 17,
+        "y": 1
+      },
+      "buildingdef": "Door",
+      "selected_elements": [
+        -1736594426
+      ]
+    },
+    {
+      "offset": {
+        "x": 17,
+        "y": 3
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 17,
+        "y": 4
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 17,
+        "y": 5
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 17,
+        "y": 5
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 1
+    }
+  ]
+}

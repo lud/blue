@@ -1,0 +1,4963 @@
+{
+  "friendlyname": "TerraSmallIndus",
+  "buildings": [
+    {
+      "buildingdef": "InsulationTile",
+      "selected_elements": [
+        -355957251
+      ]
+    },
+    {
+      "offset": {
+        "y": 1
+      },
+      "buildingdef": "InsulationTile",
+      "selected_elements": [
+        -355957251
+      ]
+    },
+    {
+      "offset": {
+        "y": 2
+      },
+      "buildingdef": "InsulationTile",
+      "selected_elements": [
+        -355957251
+      ]
+    },
+    {
+      "offset": {
+        "y": 3
+      },
+      "buildingdef": "InsulationTile",
+      "selected_elements": [
+        -355957251
+      ]
+    },
+    {
+      "offset": {
+        "y": 4
+      },
+      "buildingdef": "InsulationTile",
+      "selected_elements": [
+        -355957251
+      ]
+    },
+    {
+      "offset": {
+        "y": 5
+      },
+      "buildingdef": "InsulationTile",
+      "selected_elements": [
+        -355957251
+      ]
+    },
+    {
+      "offset": {
+        "y": 6
+      },
+      "buildingdef": "InsulationTile",
+      "selected_elements": [
+        -355957251
+      ]
+    },
+    {
+      "offset": {
+        "y": 7
+      },
+      "buildingdef": "ManualPressureDoor",
+      "selected_elements": [
+        -1736594426
+      ]
+    },
+    {
+      "offset": {
+        "y": 9
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "y": 10
+      },
+      "buildingdef": "ManualPressureDoor",
+      "selected_elements": [
+        -1736594426
+      ]
+    },
+    {
+      "offset": {
+        "y": 12
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "y": 13
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "y": 14
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "y": 15
+      },
+      "buildingdef": "ManualPressureDoor",
+      "selected_elements": [
+        -1736594426
+      ]
+    },
+    {
+      "offset": {
+        "y": 17
+      },
+      "buildingdef": "InsulationTile",
+      "selected_elements": [
+        -355957251
+      ]
+    },
+    {
+      "offset": {
+        "y": 18
+      },
+      "buildingdef": "InsulationTile",
+      "selected_elements": [
+        -355957251
+      ]
+    },
+    {
+      "offset": {
+        "y": 19
+      },
+      "buildingdef": "InsulationTile",
+      "selected_elements": [
+        -355957251
+      ]
+    },
+    {
+      "offset": {
+        "y": 20
+      },
+      "buildingdef": "InsulationTile",
+      "selected_elements": [
+        -355957251
+      ]
+    },
+    {
+      "offset": {
+        "y": 21
+      },
+      "buildingdef": "InsulationTile",
+      "selected_elements": [
+        -355957251
+      ]
+    },
+    {
+      "offset": {
+        "x": 1
+      },
+      "buildingdef": "InsulationTile",
+      "selected_elements": [
+        -355957251
+      ]
+    },
+    {
+      "offset": {
+        "x": 1,
+        "y": 1
+      },
+      "buildingdef": "CarpetTile",
+      "selected_elements": [
+        493438017,
+        -1674482637
+      ]
+    },
+    {
+      "offset": {
+        "x": 2,
+        "y": 2
+      },
+      "buildingdef": "OilRefinery",
+      "selected_elements": [
+        361868060
+      ]
+    },
+    {
+      "offset": {
+        "x": 1,
+        "y": 6
+      },
+      "buildingdef": "InsulationTile",
+      "selected_elements": [
+        -355957251
+      ]
+    },
+    {
+      "offset": {
+        "x": 2,
+        "y": 7
+      },
+      "buildingdef": "PowerTransformer",
+      "selected_elements": [
+        -279785280
+      ]
+    },
+    {
+      "offset": {
+        "x": 1,
+        "y": 7
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        -105943486
+      ],
+      "flags": 6
+    },
+    {
+      "offset": {
+        "x": 1,
+        "y": 8
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        -105943486
+      ],
+      "flags": 12
+    },
+    {
+      "offset": {
+        "x": 1,
+        "y": 8
+      },
+      "buildingdef": "HighWattageWire",
+      "selected_elements": [
+        -1736594426
+      ],
+      "flags": 2
+    },
+    {
+      "offset": {
+        "x": 1,
+        "y": 9
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 1,
+        "y": 9
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        -105943486
+      ],
+      "flags": 10
+    },
+    {
+      "offset": {
+        "x": 1,
+        "y": 10
+      },
+      "buildingdef": "LiquidReservoir",
+      "selected_elements": [
+        -1736594426
+      ]
+    },
+    {
+      "offset": {
+        "x": 1,
+        "y": 10
+      },
+      "buildingdef": "InsulatedLiquidConduit",
+      "selected_elements": [
+        -355957251
+      ],
+      "flags": 4
+    },
+    {
+      "offset": {
+        "x": 1,
+        "y": 10
+      },
+      "buildingdef": "HighWattageWire",
+      "selected_elements": [
+        -1736594426
+      ],
+      "flags": 6
+    },
+    {
+      "offset": {
+        "x": 1,
+        "y": 11
+      },
+      "buildingdef": "InsulatedLiquidConduit",
+      "selected_elements": [
+        -355957251
+      ],
+      "flags": 10
+    },
+    {
+      "offset": {
+        "x": 1,
+        "y": 11
+      },
+      "buildingdef": "HighWattageWire",
+      "selected_elements": [
+        -1736594426
+      ],
+      "flags": 12
+    },
+    {
+      "offset": {
+        "x": 1,
+        "y": 12
+      },
+      "buildingdef": "HighWattageWire",
+      "selected_elements": [
+        -1736594426
+      ],
+      "flags": 12
+    },
+    {
+      "offset": {
+        "x": 1,
+        "y": 13
+      },
+      "buildingdef": "HighWattageWire",
+      "selected_elements": [
+        -1736594426
+      ],
+      "flags": 8
+    },
+    {
+      "offset": {
+        "x": 1,
+        "y": 14
+      },
+      "buildingdef": "WireBridgeHighWattage",
+      "selected_elements": [
+        -1736594426
+      ],
+      "orientation": 1,
+      "flags": 8
+    },
+    {
+      "offset": {
+        "x": 1,
+        "y": 15
+      },
+      "buildingdef": "PowerTransformerSmall",
+      "selected_elements": [
+        -1736594426
+      ]
+    },
+    {
+      "offset": {
+        "x": 1,
+        "y": 15
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        -105943486
+      ],
+      "flags": 6
+    },
+    {
+      "offset": {
+        "x": 1,
+        "y": 15
+      },
+      "buildingdef": "HighWattageWire",
+      "selected_elements": [
+        -1736594426
+      ],
+      "flags": 4
+    },
+    {
+      "offset": {
+        "x": 1,
+        "y": 16
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        -105943486
+      ],
+      "flags": 12
+    },
+    {
+      "offset": {
+        "x": 1,
+        "y": 16
+      },
+      "buildingdef": "HighWattageWire",
+      "selected_elements": [
+        -1736594426
+      ],
+      "flags": 12
+    },
+    {
+      "offset": {
+        "x": 1,
+        "y": 17
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        -105943486
+      ],
+      "flags": 12
+    },
+    {
+      "offset": {
+        "x": 1,
+        "y": 17
+      },
+      "buildingdef": "HighWattageWire",
+      "selected_elements": [
+        -1736594426
+      ],
+      "flags": 12
+    },
+    {
+      "offset": {
+        "x": 1,
+        "y": 18
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        -105943486
+      ],
+      "flags": 12
+    },
+    {
+      "offset": {
+        "x": 1,
+        "y": 18
+      },
+      "buildingdef": "HighWattageWire",
+      "selected_elements": [
+        -1736594426
+      ],
+      "flags": 10
+    },
+    {
+      "offset": {
+        "x": 1,
+        "y": 19
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        -105943486
+      ],
+      "flags": 10
+    },
+    {
+      "offset": {
+        "x": 1,
+        "y": 21
+      },
+      "buildingdef": "InsulationTile",
+      "selected_elements": [
+        -355957251
+      ]
+    },
+    {
+      "offset": {
+        "x": 2
+      },
+      "buildingdef": "InsulationTile",
+      "selected_elements": [
+        -355957251
+      ]
+    },
+    {
+      "offset": {
+        "x": 2,
+        "y": 1
+      },
+      "buildingdef": "CarpetTile",
+      "selected_elements": [
+        493438017,
+        -1674482637
+      ]
+    },
+    {
+      "offset": {
+        "x": 2,
+        "y": 1
+      },
+      "buildingdef": "InsulatedLiquidConduit",
+      "selected_elements": [
+        -355957251
+      ],
+      "flags": 6
+    },
+    {
+      "offset": {
+        "x": 2,
+        "y": 2
+      },
+      "buildingdef": "InsulatedLiquidConduit",
+      "selected_elements": [
+        -355957251
+      ],
+      "flags": 8
+    },
+    {
+      "offset": {
+        "x": 2,
+        "y": 6
+      },
+      "buildingdef": "InsulationTile",
+      "selected_elements": [
+        -355957251
+      ]
+    },
+    {
+      "offset": {
+        "x": 2,
+        "y": 7
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        -105943486
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 2,
+        "y": 8
+      },
+      "buildingdef": "HighWattageWire",
+      "selected_elements": [
+        -1736594426
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 2,
+        "y": 9
+      },
+      "buildingdef": "WireBridgeHighWattage",
+      "selected_elements": [
+        -1736594426
+      ],
+      "orientation": 1,
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 2,
+        "y": 9
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        -105943486
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 2,
+        "y": 10
+      },
+      "buildingdef": "HighWattageWire",
+      "selected_elements": [
+        -1736594426
+      ],
+      "flags": 1
+    },
+    {
+      "offset": {
+        "x": 2,
+        "y": 11
+      },
+      "buildingdef": "InsulatedLiquidConduit",
+      "selected_elements": [
+        -355957251
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 2,
+        "y": 12
+      },
+      "buildingdef": "InsulatedLiquidConduit",
+      "selected_elements": [
+        -355957251
+      ],
+      "flags": 2
+    },
+    {
+      "offset": {
+        "x": 2,
+        "y": 14
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 2,
+        "y": 15
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        -105943486
+      ],
+      "flags": 5
+    },
+    {
+      "offset": {
+        "x": 2,
+        "y": 15
+      },
+      "buildingdef": "Wire",
+      "selected_elements": [
+        -1736594426
+      ],
+      "flags": 6
+    },
+    {
+      "offset": {
+        "x": 2,
+        "y": 16
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        -105943486
+      ],
+      "flags": 12
+    },
+    {
+      "offset": {
+        "x": 2,
+        "y": 16
+      },
+      "buildingdef": "Wire",
+      "selected_elements": [
+        -1736594426
+      ],
+      "flags": 12
+    },
+    {
+      "offset": {
+        "x": 2,
+        "y": 17
+      },
+      "buildingdef": "PressureDoor",
+      "selected_elements": [
+        -1736594426
+      ],
+      "orientation": 1
+    },
+    {
+      "offset": {
+        "x": 2,
+        "y": 17
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        -105943486
+      ],
+      "flags": 12
+    },
+    {
+      "offset": {
+        "x": 2,
+        "y": 17
+      },
+      "buildingdef": "Wire",
+      "selected_elements": [
+        -1736594426
+      ],
+      "flags": 8
+    },
+    {
+      "offset": {
+        "x": 2,
+        "y": 17
+      },
+      "buildingdef": "LogicWire",
+      "selected_elements": [
+        -755153220
+      ],
+      "flags": 4
+    },
+    {
+      "offset": {
+        "x": 2,
+        "y": 18
+      },
+      "buildingdef": "LiquidReservoir",
+      "selected_elements": [
+        -1736594426
+      ]
+    },
+    {
+      "offset": {
+        "x": 2,
+        "y": 18
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        -105943486
+      ],
+      "flags": 8
+    },
+    {
+      "offset": {
+        "x": 2,
+        "y": 18
+      },
+      "buildingdef": "HighWattageWire",
+      "selected_elements": [
+        -1736594426
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 2,
+        "y": 18
+      },
+      "buildingdef": "LogicWire",
+      "selected_elements": [
+        -755153220
+      ],
+      "flags": 8
+    },
+    {
+      "offset": {
+        "x": 2,
+        "y": 19
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        -105943486
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 2,
+        "y": 21
+      },
+      "buildingdef": "InsulationTile",
+      "selected_elements": [
+        -355957251
+      ]
+    },
+    {
+      "offset": {
+        "x": 3
+      },
+      "buildingdef": "InsulationTile",
+      "selected_elements": [
+        -355957251
+      ]
+    },
+    {
+      "offset": {
+        "x": 3,
+        "y": 1
+      },
+      "buildingdef": "CarpetTile",
+      "selected_elements": [
+        493438017,
+        -1674482637
+      ]
+    },
+    {
+      "offset": {
+        "x": 3,
+        "y": 1
+      },
+      "buildingdef": "InsulatedLiquidConduit",
+      "selected_elements": [
+        -355957251
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 3,
+        "y": 1
+      },
+      "buildingdef": "WireRefined",
+      "selected_elements": [
+        -755153220
+      ],
+      "flags": 6
+    },
+    {
+      "offset": {
+        "x": 3,
+        "y": 2
+      },
+      "buildingdef": "WireRefined",
+      "selected_elements": [
+        -755153220
+      ],
+      "flags": 8
+    },
+    {
+      "offset": {
+        "x": 3,
+        "y": 4
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        -105943486
+      ],
+      "flags": 6
+    },
+    {
+      "offset": {
+        "x": 3,
+        "y": 5
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        -105943486
+      ],
+      "flags": 12
+    },
+    {
+      "offset": {
+        "x": 3,
+        "y": 6
+      },
+      "buildingdef": "InsulationTile",
+      "selected_elements": [
+        -355957251
+      ]
+    },
+    {
+      "offset": {
+        "x": 3,
+        "y": 6
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        -105943486
+      ],
+      "flags": 12
+    },
+    {
+      "offset": {
+        "x": 3,
+        "y": 6
+      },
+      "buildingdef": "WireRefined",
+      "selected_elements": [
+        -755153220
+      ],
+      "flags": 6
+    },
+    {
+      "offset": {
+        "x": 3,
+        "y": 7
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        -105943486
+      ],
+      "flags": 9
+    },
+    {
+      "offset": {
+        "x": 3,
+        "y": 7
+      },
+      "buildingdef": "WireRefined",
+      "selected_elements": [
+        -755153220
+      ],
+      "flags": 8
+    },
+    {
+      "offset": {
+        "x": 3,
+        "y": 8
+      },
+      "buildingdef": "HighWattageWire",
+      "selected_elements": [
+        -1736594426
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 3,
+        "y": 9
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        -105943486
+      ]
+    },
+    {
+      "offset": {
+        "x": 3,
+        "y": 9
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        -105943486
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 3,
+        "y": 10
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 3,
+        "y": 11
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 3,
+        "y": 11
+      },
+      "buildingdef": "InsulatedLiquidConduit",
+      "selected_elements": [
+        -355957251
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 3,
+        "y": 12
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 3,
+        "y": 12
+      },
+      "buildingdef": "InsulatedLiquidConduit",
+      "selected_elements": [
+        -355957251
+      ],
+      "flags": 5
+    },
+    {
+      "offset": {
+        "x": 3,
+        "y": 13
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        -105943486
+      ]
+    },
+    {
+      "offset": {
+        "x": 3,
+        "y": 13
+      },
+      "buildingdef": "InsulatedLiquidConduit",
+      "selected_elements": [
+        -355957251
+      ],
+      "flags": 12
+    },
+    {
+      "offset": {
+        "x": 3,
+        "y": 14
+      },
+      "buildingdef": "InsulationTile",
+      "selected_elements": [
+        -355957251
+      ]
+    },
+    {
+      "offset": {
+        "x": 3,
+        "y": 14
+      },
+      "buildingdef": "InsulatedLiquidConduit",
+      "selected_elements": [
+        -355957251
+      ],
+      "flags": 12
+    },
+    {
+      "offset": {
+        "x": 3,
+        "y": 14
+      },
+      "buildingdef": "Wire",
+      "selected_elements": [
+        -1736594426
+      ],
+      "flags": 6
+    },
+    {
+      "offset": {
+        "x": 3,
+        "y": 15
+      },
+      "buildingdef": "InsulationTile",
+      "selected_elements": [
+        -355957251
+      ]
+    },
+    {
+      "offset": {
+        "x": 3,
+        "y": 15
+      },
+      "buildingdef": "InsulatedLiquidConduit",
+      "selected_elements": [
+        -355957251
+      ],
+      "flags": 12
+    },
+    {
+      "offset": {
+        "x": 3,
+        "y": 15
+      },
+      "buildingdef": "Wire",
+      "selected_elements": [
+        -1736594426
+      ],
+      "flags": 9
+    },
+    {
+      "offset": {
+        "x": 3,
+        "y": 16
+      },
+      "buildingdef": "InsulationTile",
+      "selected_elements": [
+        -355957251
+      ]
+    },
+    {
+      "offset": {
+        "x": 3,
+        "y": 16
+      },
+      "buildingdef": "InsulatedLiquidConduit",
+      "selected_elements": [
+        -355957251
+      ],
+      "flags": 10
+    },
+    {
+      "offset": {
+        "x": 3,
+        "y": 18
+      },
+      "buildingdef": "HighWattageWire",
+      "selected_elements": [
+        -1736594426
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 3,
+        "y": 19
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        -105943486
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 3,
+        "y": 20
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        -105943486
+      ],
+      "flags": 4
+    },
+    {
+      "offset": {
+        "x": 3,
+        "y": 21
+      },
+      "buildingdef": "InsulationTile",
+      "selected_elements": [
+        -355957251
+      ]
+    },
+    {
+      "offset": {
+        "x": 3,
+        "y": 21
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        -105943486
+      ],
+      "flags": 8
+    },
+    {
+      "offset": {
+        "x": 4
+      },
+      "buildingdef": "InsulationTile",
+      "selected_elements": [
+        -355957251
+      ]
+    },
+    {
+      "offset": {
+        "x": 4,
+        "y": 1
+      },
+      "buildingdef": "CarpetTile",
+      "selected_elements": [
+        493438017,
+        -1674482637
+      ]
+    },
+    {
+      "offset": {
+        "x": 4,
+        "y": 1
+      },
+      "buildingdef": "InsulatedLiquidConduit",
+      "selected_elements": [
+        -355957251
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 4,
+        "y": 1
+      },
+      "buildingdef": "WireRefined",
+      "selected_elements": [
+        -755153220
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 4,
+        "y": 3
+      },
+      "buildingdef": "ThermalBlock",
+      "selected_elements": [
+        -2079931820
+      ]
+    },
+    {
+      "offset": {
+        "x": 4,
+        "y": 4
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        -105943486
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 4,
+        "y": 6
+      },
+      "buildingdef": "InsulationTile",
+      "selected_elements": [
+        -355957251
+      ]
+    },
+    {
+      "offset": {
+        "x": 4,
+        "y": 6
+      },
+      "buildingdef": "WireRefined",
+      "selected_elements": [
+        -755153220
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 5,
+        "y": 7
+      },
+      "buildingdef": "PowerTransformer",
+      "selected_elements": [
+        -279785280
+      ]
+    },
+    {
+      "offset": {
+        "x": 4,
+        "y": 8
+      },
+      "buildingdef": "HighWattageWire",
+      "selected_elements": [
+        -1736594426
+      ],
+      "flags": 1
+    },
+    {
+      "offset": {
+        "x": 4,
+        "y": 9
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        -105943486
+      ]
+    },
+    {
+      "offset": {
+        "x": 4,
+        "y": 9
+      },
+      "buildingdef": "LiquidConduitRadiant",
+      "selected_elements": [
+        -279785280
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 4,
+        "y": 10
+      },
+      "buildingdef": "Sculpture",
+      "selected_elements": [
+        -105943486
+      ]
+    },
+    {
+      "offset": {
+        "x": 4,
+        "y": 11
+      },
+      "buildingdef": "InsulatedLiquidConduit",
+      "selected_elements": [
+        -355957251
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 4,
+        "y": 13
+      },
+      "buildingdef": "CeilingLight",
+      "selected_elements": [
+        -1736594426
+      ]
+    },
+    {
+      "offset": {
+        "x": 4,
+        "y": 13
+      },
+      "buildingdef": "Wire",
+      "selected_elements": [
+        -1736594426
+      ],
+      "flags": 4
+    },
+    {
+      "offset": {
+        "x": 4,
+        "y": 14
+      },
+      "buildingdef": "InsulationTile",
+      "selected_elements": [
+        -355957251
+      ]
+    },
+    {
+      "offset": {
+        "x": 4,
+        "y": 14
+      },
+      "buildingdef": "Wire",
+      "selected_elements": [
+        -1736594426
+      ],
+      "flags": 11
+    },
+    {
+      "offset": {
+        "x": 4,
+        "y": 15
+      },
+      "buildingdef": "LiquidConduitRadiant",
+      "selected_elements": [
+        -279785280
+      ],
+      "flags": 6
+    },
+    {
+      "offset": {
+        "x": 4,
+        "y": 16
+      },
+      "buildingdef": "LiquidConduitRadiant",
+      "selected_elements": [
+        -279785280
+      ],
+      "flags": 9
+    },
+    {
+      "offset": {
+        "x": 4,
+        "y": 17
+      },
+      "buildingdef": "InsulationTile",
+      "selected_elements": [
+        -355957251
+      ]
+    },
+    {
+      "offset": {
+        "x": 6,
+        "y": 18
+      },
+      "buildingdef": "SteamTurbine2",
+      "selected_elements": [
+        -279785280,
+        -1142341158
+      ]
+    },
+    {
+      "offset": {
+        "x": 4,
+        "y": 18
+      },
+      "buildingdef": "HighWattageWire",
+      "selected_elements": [
+        -1736594426
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 4,
+        "y": 19
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        -105943486
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 4,
+        "y": 21
+      },
+      "buildingdef": "InsulationTile",
+      "selected_elements": [
+        -355957251
+      ]
+    },
+    {
+      "offset": {
+        "x": 5
+      },
+      "buildingdef": "InsulationTile",
+      "selected_elements": [
+        -355957251
+      ]
+    },
+    {
+      "offset": {
+        "x": 5,
+        "y": 1
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 5,
+        "y": 1
+      },
+      "buildingdef": "InsulatedLiquidConduit",
+      "selected_elements": [
+        -355957251
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 5,
+        "y": 1
+      },
+      "buildingdef": "WireRefined",
+      "selected_elements": [
+        -755153220
+      ],
+      "flags": 5
+    },
+    {
+      "offset": {
+        "x": 5,
+        "y": 2
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 5,
+        "y": 2
+      },
+      "buildingdef": "WireRefined",
+      "selected_elements": [
+        -755153220
+      ],
+      "flags": 12
+    },
+    {
+      "offset": {
+        "x": 5,
+        "y": 3
+      },
+      "buildingdef": "LogicPressureSensorGas",
+      "selected_elements": [
+        -755153220
+      ]
+    },
+    {
+      "offset": {
+        "x": 5,
+        "y": 3
+      },
+      "buildingdef": "WireRefined",
+      "selected_elements": [
+        -755153220
+      ],
+      "flags": 12
+    },
+    {
+      "offset": {
+        "x": 5,
+        "y": 3
+      },
+      "buildingdef": "LogicWire",
+      "selected_elements": [
+        -755153220
+      ],
+      "flags": 4
+    },
+    {
+      "offset": {
+        "x": 5,
+        "y": 4
+      },
+      "buildingdef": "GasPump",
+      "selected_elements": [
+        361868060
+      ]
+    },
+    {
+      "offset": {
+        "x": 5,
+        "y": 4
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        -105943486
+      ],
+      "flags": 5
+    },
+    {
+      "offset": {
+        "x": 5,
+        "y": 4
+      },
+      "buildingdef": "WireRefined",
+      "selected_elements": [
+        -755153220
+      ],
+      "flags": 14
+    },
+    {
+      "offset": {
+        "x": 5,
+        "y": 4
+      },
+      "buildingdef": "LogicWire",
+      "selected_elements": [
+        -755153220
+      ],
+      "flags": 12
+    },
+    {
+      "offset": {
+        "x": 5,
+        "y": 5
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        -105943486
+      ],
+      "flags": 12
+    },
+    {
+      "offset": {
+        "x": 5,
+        "y": 5
+      },
+      "buildingdef": "WireRefined",
+      "selected_elements": [
+        -755153220
+      ],
+      "flags": 12
+    },
+    {
+      "offset": {
+        "x": 5,
+        "y": 5
+      },
+      "buildingdef": "LogicWire",
+      "selected_elements": [
+        -755153220
+      ],
+      "flags": 8
+    },
+    {
+      "offset": {
+        "x": 5,
+        "y": 6
+      },
+      "buildingdef": "InsulationTile",
+      "selected_elements": [
+        -355957251
+      ]
+    },
+    {
+      "offset": {
+        "x": 5,
+        "y": 6
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        -105943486
+      ],
+      "flags": 12
+    },
+    {
+      "offset": {
+        "x": 5,
+        "y": 6
+      },
+      "buildingdef": "WireRefined",
+      "selected_elements": [
+        -755153220
+      ],
+      "flags": 9
+    },
+    {
+      "offset": {
+        "x": 5,
+        "y": 7
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        -105943486
+      ],
+      "flags": 10
+    },
+    {
+      "offset": {
+        "x": 5,
+        "y": 7
+      },
+      "buildingdef": "WireRefined",
+      "selected_elements": [
+        -755153220
+      ],
+      "flags": 2
+    },
+    {
+      "offset": {
+        "x": 5,
+        "y": 9
+      },
+      "buildingdef": "MetalTile",
+      "selected_elements": [
+        -755153220
+      ]
+    },
+    {
+      "offset": {
+        "x": 5,
+        "y": 9
+      },
+      "buildingdef": "LiquidConduitRadiant",
+      "selected_elements": [
+        -279785280
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 6,
+        "y": 10
+      },
+      "buildingdef": "MetalRefinery",
+      "selected_elements": [
+        -1467370314
+      ]
+    },
+    {
+      "offset": {
+        "x": 5,
+        "y": 11
+      },
+      "buildingdef": "InsulatedLiquidConduit",
+      "selected_elements": [
+        -355957251
+      ],
+      "flags": 1
+    },
+    {
+      "offset": {
+        "x": 5,
+        "y": 14
+      },
+      "buildingdef": "InsulationTile",
+      "selected_elements": [
+        -355957251
+      ]
+    },
+    {
+      "offset": {
+        "x": 5,
+        "y": 14
+      },
+      "buildingdef": "Wire",
+      "selected_elements": [
+        -1736594426
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 5,
+        "y": 15
+      },
+      "buildingdef": "LiquidConduitRadiant",
+      "selected_elements": [
+        -279785280
+      ],
+      "flags": 5
+    },
+    {
+      "offset": {
+        "x": 5,
+        "y": 16
+      },
+      "buildingdef": "LiquidConduitRadiant",
+      "selected_elements": [
+        -279785280
+      ],
+      "flags": 10
+    },
+    {
+      "offset": {
+        "x": 5,
+        "y": 17
+      },
+      "buildingdef": "InsulationTile",
+      "selected_elements": [
+        -355957251
+      ]
+    },
+    {
+      "offset": {
+        "x": 5,
+        "y": 18
+      },
+      "buildingdef": "HighWattageWire",
+      "selected_elements": [
+        -1736594426
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 5,
+        "y": 19
+      },
+      "buildingdef": "LiquidConduitRadiant",
+      "selected_elements": [
+        -279785280
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 5,
+        "y": 21
+      },
+      "buildingdef": "InsulationTile",
+      "selected_elements": [
+        -355957251
+      ]
+    },
+    {
+      "offset": {
+        "x": 6
+      },
+      "buildingdef": "InsulationTile",
+      "selected_elements": [
+        -355957251
+      ]
+    },
+    {
+      "offset": {
+        "x": 6,
+        "y": 1
+      },
+      "buildingdef": "InsulationTile",
+      "selected_elements": [
+        -355957251
+      ]
+    },
+    {
+      "offset": {
+        "x": 6,
+        "y": 1
+      },
+      "buildingdef": "InsulatedLiquidConduit",
+      "selected_elements": [
+        -355957251
+      ],
+      "flags": 5
+    },
+    {
+      "offset": {
+        "x": 6,
+        "y": 2
+      },
+      "buildingdef": "InsulatedLiquidConduit",
+      "selected_elements": [
+        -355957251
+      ],
+      "flags": 10
+    },
+    {
+      "offset": {
+        "x": 6,
+        "y": 4
+      },
+      "buildingdef": "WireRefined",
+      "selected_elements": [
+        -755153220
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 6,
+        "y": 5
+      },
+      "buildingdef": "InsulatedGasConduit",
+      "selected_elements": [
+        -355957251
+      ],
+      "flags": 2
+    },
+    {
+      "offset": {
+        "x": 6,
+        "y": 6
+      },
+      "buildingdef": "InsulationTile",
+      "selected_elements": [
+        -355957251
+      ]
+    },
+    {
+      "offset": {
+        "x": 6,
+        "y": 7
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        -105943486
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 6,
+        "y": 7
+      },
+      "buildingdef": "WireRefined",
+      "selected_elements": [
+        -755153220
+      ],
+      "flags": 5
+    },
+    {
+      "offset": {
+        "x": 6,
+        "y": 8
+      },
+      "buildingdef": "WireRefined",
+      "selected_elements": [
+        -755153220
+      ],
+      "flags": 12
+    },
+    {
+      "offset": {
+        "x": 6,
+        "y": 9
+      },
+      "buildingdef": "MetalTile",
+      "selected_elements": [
+        -755153220
+      ]
+    },
+    {
+      "offset": {
+        "x": 6,
+        "y": 9
+      },
+      "buildingdef": "LiquidConduitRadiant",
+      "selected_elements": [
+        -279785280
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 6,
+        "y": 9
+      },
+      "buildingdef": "WireRefined",
+      "selected_elements": [
+        -755153220
+      ],
+      "flags": 12
+    },
+    {
+      "offset": {
+        "x": 6,
+        "y": 10
+      },
+      "buildingdef": "WireRefined",
+      "selected_elements": [
+        -755153220
+      ],
+      "flags": 8
+    },
+    {
+      "offset": {
+        "x": 6,
+        "y": 14
+      },
+      "buildingdef": "InsulationTile",
+      "selected_elements": [
+        -355957251
+      ]
+    },
+    {
+      "offset": {
+        "x": 6,
+        "y": 14
+      },
+      "buildingdef": "Wire",
+      "selected_elements": [
+        -1736594426
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 6,
+        "y": 15
+      },
+      "buildingdef": "Ladder",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 6,
+        "y": 15
+      },
+      "buildingdef": "LiquidConduitRadiant",
+      "selected_elements": [
+        -279785280
+      ],
+      "flags": 6
+    },
+    {
+      "offset": {
+        "x": 6,
+        "y": 16
+      },
+      "buildingdef": "LiquidConduitRadiant",
+      "selected_elements": [
+        -279785280
+      ],
+      "flags": 9
+    },
+    {
+      "offset": {
+        "x": 6,
+        "y": 17
+      },
+      "buildingdef": "InsulationTile",
+      "selected_elements": [
+        -355957251
+      ]
+    },
+    {
+      "offset": {
+        "x": 6,
+        "y": 18
+      },
+      "buildingdef": "HighWattageWire",
+      "selected_elements": [
+        -1736594426
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 6,
+        "y": 19
+      },
+      "buildingdef": "ThermalBlock",
+      "selected_elements": [
+        -2079931820
+      ]
+    },
+    {
+      "offset": {
+        "x": 6,
+        "y": 19
+      },
+      "buildingdef": "LiquidConduitRadiant",
+      "selected_elements": [
+        -279785280
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 6,
+        "y": 21
+      },
+      "buildingdef": "InsulationTile",
+      "selected_elements": [
+        -355957251
+      ]
+    },
+    {
+      "offset": {
+        "x": 7
+      },
+      "buildingdef": "InsulationTile",
+      "selected_elements": [
+        -355957251
+      ]
+    },
+    {
+      "offset": {
+        "x": 7
+      },
+      "buildingdef": "InsulatedLiquidConduit",
+      "selected_elements": [
+        -355957251
+      ],
+      "flags": 4
+    },
+    {
+      "offset": {
+        "x": 7,
+        "y": 1
+      },
+      "buildingdef": "LogicSwitch",
+      "selected_elements": [
+        -755153220
+      ]
+    },
+    {
+      "offset": {
+        "x": 7,
+        "y": 1
+      },
+      "buildingdef": "InsulatedLiquidConduit",
+      "selected_elements": [
+        -355957251
+      ],
+      "flags": 12
+    },
+    {
+      "offset": {
+        "x": 7,
+        "y": 1
+      },
+      "buildingdef": "LogicWire",
+      "selected_elements": [
+        -755153220
+      ]
+    },
+    {
+      "offset": {
+        "x": 7,
+        "y": 2
+      },
+      "buildingdef": "LiquidVent",
+      "selected_elements": [
+        -1736594426
+      ]
+    },
+    {
+      "offset": {
+        "x": 7,
+        "y": 2
+      },
+      "buildingdef": "InsulatedLiquidConduit",
+      "selected_elements": [
+        -355957251
+      ],
+      "flags": 9
+    },
+    {
+      "offset": {
+        "x": 7,
+        "y": 2
+      },
+      "buildingdef": "LogicWire",
+      "selected_elements": [
+        -755153220
+      ]
+    },
+    {
+      "offset": {
+        "x": 7,
+        "y": 3
+      },
+      "buildingdef": "InsulationTile",
+      "selected_elements": [
+        -355957251
+      ]
+    },
+    {
+      "offset": {
+        "x": 7,
+        "y": 4
+      },
+      "buildingdef": "InsulationTile",
+      "selected_elements": [
+        -355957251
+      ]
+    },
+    {
+      "offset": {
+        "x": 7,
+        "y": 4
+      },
+      "buildingdef": "WireRefined",
+      "selected_elements": [
+        -755153220
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 7,
+        "y": 5
+      },
+      "buildingdef": "InsulationTile",
+      "selected_elements": [
+        -355957251
+      ]
+    },
+    {
+      "offset": {
+        "x": 7,
+        "y": 5
+      },
+      "buildingdef": "InsulatedGasConduit",
+      "selected_elements": [
+        -355957251
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 7,
+        "y": 6
+      },
+      "buildingdef": "InsulationTile",
+      "selected_elements": [
+        -355957251
+      ]
+    },
+    {
+      "offset": {
+        "x": 7,
+        "y": 7
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 7,
+        "y": 7
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        -105943486
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 7,
+        "y": 8
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 7,
+        "y": 9
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 7,
+        "y": 9
+      },
+      "buildingdef": "LiquidConduitRadiant",
+      "selected_elements": [
+        -279785280
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 7,
+        "y": 10
+      },
+      "buildingdef": "InsulatedLiquidConduit",
+      "selected_elements": [
+        -1467370314
+      ],
+      "flags": 4
+    },
+    {
+      "offset": {
+        "x": 7,
+        "y": 11
+      },
+      "buildingdef": "InsulatedLiquidConduit",
+      "selected_elements": [
+        -1467370314
+      ],
+      "flags": 12
+    },
+    {
+      "offset": {
+        "x": 7,
+        "y": 12
+      },
+      "buildingdef": "InsulatedLiquidConduit",
+      "selected_elements": [
+        -1467370314
+      ],
+      "flags": 12
+    },
+    {
+      "offset": {
+        "x": 7,
+        "y": 13
+      },
+      "buildingdef": "InsulatedLiquidConduit",
+      "selected_elements": [
+        -1467370314
+      ],
+      "flags": 12
+    },
+    {
+      "offset": {
+        "x": 7,
+        "y": 14
+      },
+      "buildingdef": "InsulationTile",
+      "selected_elements": [
+        -355957251
+      ]
+    },
+    {
+      "offset": {
+        "x": 7,
+        "y": 14
+      },
+      "buildingdef": "InsulatedLiquidConduit",
+      "selected_elements": [
+        -355957251
+      ],
+      "flags": 10
+    },
+    {
+      "offset": {
+        "x": 7,
+        "y": 14
+      },
+      "buildingdef": "Wire",
+      "selected_elements": [
+        -1736594426
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 7,
+        "y": 15
+      },
+      "buildingdef": "LiquidConduitRadiant",
+      "selected_elements": [
+        -279785280
+      ],
+      "flags": 5
+    },
+    {
+      "offset": {
+        "x": 7,
+        "y": 16
+      },
+      "buildingdef": "LiquidConduitRadiant",
+      "selected_elements": [
+        -279785280
+      ],
+      "flags": 10
+    },
+    {
+      "offset": {
+        "x": 7,
+        "y": 17
+      },
+      "buildingdef": "InsulationTile",
+      "selected_elements": [
+        -355957251
+      ]
+    },
+    {
+      "offset": {
+        "x": 7,
+        "y": 18
+      },
+      "buildingdef": "HighWattageWire",
+      "selected_elements": [
+        -1736594426
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 7,
+        "y": 19
+      },
+      "buildingdef": "LiquidConduitRadiant",
+      "selected_elements": [
+        -279785280
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 7,
+        "y": 21
+      },
+      "buildingdef": "InsulationTile",
+      "selected_elements": [
+        -355957251
+      ]
+    },
+    {
+      "offset": {
+        "x": 8
+      },
+      "buildingdef": "InsulationTile",
+      "selected_elements": [
+        -355957251
+      ]
+    },
+    {
+      "offset": {
+        "x": 8,
+        "y": 1
+      },
+      "buildingdef": "InsulationTile",
+      "selected_elements": [
+        -355957251
+      ]
+    },
+    {
+      "offset": {
+        "x": 8,
+        "y": 2
+      },
+      "buildingdef": "Ladder",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 8,
+        "y": 3
+      },
+      "buildingdef": "Ladder",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 8,
+        "y": 4
+      },
+      "buildingdef": "Ladder",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 8,
+        "y": 4
+      },
+      "buildingdef": "WireRefined",
+      "selected_elements": [
+        -755153220
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 8,
+        "y": 5
+      },
+      "buildingdef": "InsulatedGasConduit",
+      "selected_elements": [
+        -355957251
+      ],
+      "flags": 1
+    },
+    {
+      "offset": {
+        "x": 8,
+        "y": 7
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        -105943486
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 8,
+        "y": 9
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 8,
+        "y": 9
+      },
+      "buildingdef": "LiquidConduitRadiant",
+      "selected_elements": [
+        -279785280
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 8,
+        "y": 10
+      },
+      "buildingdef": "StorageLocker",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 8,
+        "y": 12
+      },
+      "buildingdef": "FlowerVaseHangingFancy",
+      "selected_elements": [
+        -2079931820
+      ]
+    },
+    {
+      "offset": {
+        "x": 8,
+        "y": 14
+      },
+      "buildingdef": "InsulationTile",
+      "selected_elements": [
+        -355957251
+      ]
+    },
+    {
+      "offset": {
+        "x": 8,
+        "y": 14
+      },
+      "buildingdef": "InsulatedLiquidConduit",
+      "selected_elements": [
+        -355957251
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 8,
+        "y": 14
+      },
+      "buildingdef": "Wire",
+      "selected_elements": [
+        -1736594426
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 8,
+        "y": 15
+      },
+      "buildingdef": "LiquidConduitRadiant",
+      "selected_elements": [
+        -279785280
+      ],
+      "flags": 6
+    },
+    {
+      "offset": {
+        "x": 8,
+        "y": 16
+      },
+      "buildingdef": "LiquidConduitRadiant",
+      "selected_elements": [
+        -279785280
+      ],
+      "flags": 9
+    },
+    {
+      "offset": {
+        "x": 8,
+        "y": 17
+      },
+      "buildingdef": "InsulationTile",
+      "selected_elements": [
+        -355957251
+      ]
+    },
+    {
+      "offset": {
+        "x": 8,
+        "y": 18
+      },
+      "buildingdef": "HighWattageWire",
+      "selected_elements": [
+        -1736594426
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 8,
+        "y": 19
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        -105943486
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 8,
+        "y": 20
+      },
+      "buildingdef": "InsulatedLiquidConduit",
+      "selected_elements": [
+        -355957251
+      ],
+      "flags": 2
+    },
+    {
+      "offset": {
+        "x": 8,
+        "y": 21
+      },
+      "buildingdef": "InsulationTile",
+      "selected_elements": [
+        -355957251
+      ]
+    },
+    {
+      "offset": {
+        "x": 9
+      },
+      "buildingdef": "InsulationTile",
+      "selected_elements": [
+        -355957251
+      ]
+    },
+    {
+      "offset": {
+        "x": 9
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        -105943486
+      ],
+      "flags": 4
+    },
+    {
+      "offset": {
+        "x": 9,
+        "y": 1
+      },
+      "buildingdef": "InsulationTile",
+      "selected_elements": [
+        -355957251
+      ]
+    },
+    {
+      "offset": {
+        "x": 9,
+        "y": 1
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        -105943486
+      ],
+      "flags": 10
+    },
+    {
+      "offset": {
+        "x": 9,
+        "y": 2
+      },
+      "buildingdef": "InsulationTile",
+      "selected_elements": [
+        -355957251
+      ]
+    },
+    {
+      "offset": {
+        "x": 9,
+        "y": 3
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 9,
+        "y": 3
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        -105943486
+      ],
+      "flags": 6
+    },
+    {
+      "offset": {
+        "x": 9,
+        "y": 4
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 9,
+        "y": 4
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        -105943486
+      ],
+      "flags": 12
+    },
+    {
+      "offset": {
+        "x": 9,
+        "y": 4
+      },
+      "buildingdef": "WireRefined",
+      "selected_elements": [
+        -755153220
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 9,
+        "y": 5
+      },
+      "buildingdef": "SuitMarker",
+      "selected_elements": [
+        -279785280
+      ],
+      "orientation": 5
+    },
+    {
+      "offset": {
+        "x": 9,
+        "y": 5
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        -105943486
+      ],
+      "flags": 12
+    },
+    {
+      "offset": {
+        "x": 9,
+        "y": 6
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        -105943486
+      ],
+      "flags": 12
+    },
+    {
+      "offset": {
+        "x": 9,
+        "y": 7
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        -105943486
+      ],
+      "flags": 9
+    },
+    {
+      "offset": {
+        "x": 9,
+        "y": 9
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 9,
+        "y": 9
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        -105943486
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 9,
+        "y": 10
+      },
+      "buildingdef": "StorageLocker",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 10,
+        "y": 13
+      },
+      "buildingdef": "SolidTransferArm",
+      "selected_elements": [
+        -279785280
+      ]
+    },
+    {
+      "offset": {
+        "x": 9,
+        "y": 14
+      },
+      "buildingdef": "InsulationTile",
+      "selected_elements": [
+        -355957251
+      ]
+    },
+    {
+      "offset": {
+        "x": 9,
+        "y": 14
+      },
+      "buildingdef": "InsulatedLiquidConduit",
+      "selected_elements": [
+        -355957251
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 9,
+        "y": 14
+      },
+      "buildingdef": "Wire",
+      "selected_elements": [
+        -1736594426
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 9,
+        "y": 15
+      },
+      "buildingdef": "Ladder",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 9,
+        "y": 15
+      },
+      "buildingdef": "LiquidConduitRadiant",
+      "selected_elements": [
+        -279785280
+      ],
+      "flags": 5
+    },
+    {
+      "offset": {
+        "x": 9,
+        "y": 16
+      },
+      "buildingdef": "LiquidConduitRadiant",
+      "selected_elements": [
+        -279785280
+      ],
+      "flags": 10
+    },
+    {
+      "offset": {
+        "x": 9,
+        "y": 17
+      },
+      "buildingdef": "InsulationTile",
+      "selected_elements": [
+        -355957251
+      ]
+    },
+    {
+      "offset": {
+        "x": 11,
+        "y": 18
+      },
+      "buildingdef": "SteamTurbine2",
+      "selected_elements": [
+        -279785280,
+        -1142341158
+      ]
+    },
+    {
+      "offset": {
+        "x": 9,
+        "y": 18
+      },
+      "buildingdef": "HighWattageWire",
+      "selected_elements": [
+        -1736594426
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 9,
+        "y": 19
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        -105943486
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 9,
+        "y": 20
+      },
+      "buildingdef": "InsulatedLiquidConduit",
+      "selected_elements": [
+        -355957251
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 9,
+        "y": 21
+      },
+      "buildingdef": "InsulationTile",
+      "selected_elements": [
+        -355957251
+      ]
+    },
+    {
+      "offset": {
+        "x": 10
+      },
+      "buildingdef": "InsulationTile",
+      "selected_elements": [
+        -355957251
+      ]
+    },
+    {
+      "offset": {
+        "x": 10,
+        "y": 1
+      },
+      "buildingdef": "Sculpture",
+      "selected_elements": [
+        -105943486
+      ]
+    },
+    {
+      "offset": {
+        "x": 10,
+        "y": 1
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        -105943486
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 10,
+        "y": 3
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        -105943486
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 10,
+        "y": 4
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 10,
+        "y": 4
+      },
+      "buildingdef": "GasConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 6
+    },
+    {
+      "offset": {
+        "x": 10,
+        "y": 4
+      },
+      "buildingdef": "WireRefined",
+      "selected_elements": [
+        -755153220
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 10,
+        "y": 5
+      },
+      "buildingdef": "SuitLocker",
+      "selected_elements": [
+        -279785280
+      ]
+    },
+    {
+      "offset": {
+        "x": 10,
+        "y": 5
+      },
+      "buildingdef": "GasConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 8
+    },
+    {
+      "offset": {
+        "x": 10,
+        "y": 5
+      },
+      "buildingdef": "WireRefined",
+      "selected_elements": [
+        -755153220
+      ],
+      "flags": 4
+    },
+    {
+      "offset": {
+        "x": 10,
+        "y": 6
+      },
+      "buildingdef": "Wire",
+      "selected_elements": [
+        -1736594426
+      ],
+      "flags": 12
+    },
+    {
+      "offset": {
+        "x": 10,
+        "y": 7
+      },
+      "buildingdef": "Wire",
+      "selected_elements": [
+        -1736594426
+      ],
+      "flags": 12
+    },
+    {
+      "offset": {
+        "x": 10,
+        "y": 8
+      },
+      "buildingdef": "Wire",
+      "selected_elements": [
+        -1736594426
+      ],
+      "flags": 12
+    },
+    {
+      "offset": {
+        "x": 10,
+        "y": 9
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 10,
+        "y": 9
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        -105943486
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 10,
+        "y": 9
+      },
+      "buildingdef": "Wire",
+      "selected_elements": [
+        -1736594426
+      ],
+      "flags": 10
+    },
+    {
+      "offset": {
+        "x": 10,
+        "y": 10
+      },
+      "buildingdef": "Sculpture",
+      "selected_elements": [
+        -105943486
+      ]
+    },
+    {
+      "offset": {
+        "x": 10,
+        "y": 13
+      },
+      "buildingdef": "Wire",
+      "selected_elements": [
+        -1736594426
+      ],
+      "flags": 4
+    },
+    {
+      "offset": {
+        "x": 10,
+        "y": 14
+      },
+      "buildingdef": "InsulationTile",
+      "selected_elements": [
+        -355957251
+      ]
+    },
+    {
+      "offset": {
+        "x": 10,
+        "y": 14
+      },
+      "buildingdef": "InsulatedLiquidConduit",
+      "selected_elements": [
+        -355957251
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 10,
+        "y": 14
+      },
+      "buildingdef": "Wire",
+      "selected_elements": [
+        -1736594426
+      ],
+      "flags": 11
+    },
+    {
+      "offset": {
+        "x": 10,
+        "y": 15
+      },
+      "buildingdef": "LiquidConduitRadiant",
+      "selected_elements": [
+        -279785280
+      ],
+      "flags": 6
+    },
+    {
+      "offset": {
+        "x": 10,
+        "y": 16
+      },
+      "buildingdef": "LiquidConduitRadiant",
+      "selected_elements": [
+        -279785280
+      ],
+      "flags": 9
+    },
+    {
+      "offset": {
+        "x": 10,
+        "y": 17
+      },
+      "buildingdef": "InsulationTile",
+      "selected_elements": [
+        -355957251
+      ]
+    },
+    {
+      "offset": {
+        "x": 10,
+        "y": 17
+      },
+      "buildingdef": "InsulatedLiquidConduit",
+      "selected_elements": [
+        -355957251
+      ],
+      "flags": 6
+    },
+    {
+      "offset": {
+        "x": 10,
+        "y": 18
+      },
+      "buildingdef": "InsulatedLiquidConduit",
+      "selected_elements": [
+        -355957251
+      ],
+      "flags": 8
+    },
+    {
+      "offset": {
+        "x": 10,
+        "y": 19
+      },
+      "buildingdef": "LiquidConduitBridge",
+      "selected_elements": [
+        -355957251
+      ],
+      "orientation": 1
+    },
+    {
+      "offset": {
+        "x": 10,
+        "y": 18
+      },
+      "buildingdef": "HighWattageWire",
+      "selected_elements": [
+        -1736594426
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 10,
+        "y": 19
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        -105943486
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 10,
+        "y": 20
+      },
+      "buildingdef": "InsulatedLiquidConduit",
+      "selected_elements": [
+        -355957251
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 10,
+        "y": 21
+      },
+      "buildingdef": "InsulationTile",
+      "selected_elements": [
+        -355957251
+      ]
+    },
+    {
+      "offset": {
+        "x": 11
+      },
+      "buildingdef": "InsulationTile",
+      "selected_elements": [
+        -355957251
+      ]
+    },
+    {
+      "offset": {
+        "x": 11,
+        "y": 1
+      },
+      "buildingdef": "Sculpture",
+      "selected_elements": [
+        -105943486
+      ]
+    },
+    {
+      "offset": {
+        "x": 11,
+        "y": 1
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        -105943486
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 11,
+        "y": 3
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        -105943486
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 11,
+        "y": 4
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 11,
+        "y": 4
+      },
+      "buildingdef": "GasConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 11,
+        "y": 4
+      },
+      "buildingdef": "WireRefined",
+      "selected_elements": [
+        -755153220
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 13,
+        "y": 5
+      },
+      "buildingdef": "GlassForge",
+      "selected_elements": [
+        -1467370314
+      ]
+    },
+    {
+      "offset": {
+        "x": 11,
+        "y": 9
+      },
+      "buildingdef": "MetalTile",
+      "selected_elements": [
+        -755153220
+      ]
+    },
+    {
+      "offset": {
+        "x": 11,
+        "y": 9
+      },
+      "buildingdef": "LiquidConduitRadiant",
+      "selected_elements": [
+        -279785280
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 11,
+        "y": 9
+      },
+      "buildingdef": "Wire",
+      "selected_elements": [
+        -1736594426
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 11,
+        "y": 10
+      },
+      "buildingdef": "Kiln",
+      "selected_elements": [
+        -1736594426
+      ]
+    },
+    {
+      "offset": {
+        "x": 11,
+        "y": 14
+      },
+      "buildingdef": "InsulationTile",
+      "selected_elements": [
+        -355957251
+      ]
+    },
+    {
+      "offset": {
+        "x": 11,
+        "y": 14
+      },
+      "buildingdef": "InsulatedLiquidConduit",
+      "selected_elements": [
+        -355957251
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 11,
+        "y": 14
+      },
+      "buildingdef": "Wire",
+      "selected_elements": [
+        -1736594426
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 11,
+        "y": 15
+      },
+      "buildingdef": "LiquidConduitRadiant",
+      "selected_elements": [
+        -279785280
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 11,
+        "y": 16
+      },
+      "buildingdef": "LiquidVent",
+      "selected_elements": [
+        -1736594426
+      ]
+    },
+    {
+      "offset": {
+        "x": 11,
+        "y": 16
+      },
+      "buildingdef": "InsulatedLiquidConduit",
+      "selected_elements": [
+        -355957251
+      ],
+      "flags": 4
+    },
+    {
+      "offset": {
+        "x": 11,
+        "y": 17
+      },
+      "buildingdef": "InsulationTile",
+      "selected_elements": [
+        -355957251
+      ]
+    },
+    {
+      "offset": {
+        "x": 11,
+        "y": 17
+      },
+      "buildingdef": "InsulatedLiquidConduit",
+      "selected_elements": [
+        -355957251
+      ],
+      "flags": 9
+    },
+    {
+      "offset": {
+        "x": 11,
+        "y": 18
+      },
+      "buildingdef": "HighWattageWire",
+      "selected_elements": [
+        -1736594426
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 11,
+        "y": 19
+      },
+      "buildingdef": "ThermalBlock",
+      "selected_elements": [
+        -2079931820
+      ]
+    },
+    {
+      "offset": {
+        "x": 11,
+        "y": 19
+      },
+      "buildingdef": "LiquidConduitRadiant",
+      "selected_elements": [
+        -279785280
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 11,
+        "y": 20
+      },
+      "buildingdef": "InsulatedLiquidConduit",
+      "selected_elements": [
+        -355957251
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 11,
+        "y": 21
+      },
+      "buildingdef": "InsulationTile",
+      "selected_elements": [
+        -355957251
+      ]
+    },
+    {
+      "offset": {
+        "x": 12
+      },
+      "buildingdef": "InsulationTile",
+      "selected_elements": [
+        -355957251
+      ]
+    },
+    {
+      "offset": {
+        "x": 12,
+        "y": 1
+      },
+      "buildingdef": "Sculpture",
+      "selected_elements": [
+        -105943486
+      ]
+    },
+    {
+      "offset": {
+        "x": 12,
+        "y": 1
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        -105943486
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 12,
+        "y": 3
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        -105943486
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 12,
+        "y": 4
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 12,
+        "y": 4
+      },
+      "buildingdef": "GasConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 12,
+        "y": 4
+      },
+      "buildingdef": "WireRefined",
+      "selected_elements": [
+        -755153220
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 12,
+        "y": 9
+      },
+      "buildingdef": "MetalTile",
+      "selected_elements": [
+        -755153220
+      ]
+    },
+    {
+      "offset": {
+        "x": 12,
+        "y": 9
+      },
+      "buildingdef": "LiquidConduitRadiant",
+      "selected_elements": [
+        -279785280
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 12,
+        "y": 9
+      },
+      "buildingdef": "Wire",
+      "selected_elements": [
+        -1736594426
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 12,
+        "y": 12
+      },
+      "buildingdef": "FlowerVaseHangingFancy",
+      "selected_elements": [
+        -2079931820
+      ]
+    },
+    {
+      "offset": {
+        "x": 12,
+        "y": 14
+      },
+      "buildingdef": "InsulationTile",
+      "selected_elements": [
+        -355957251
+      ]
+    },
+    {
+      "offset": {
+        "x": 12,
+        "y": 14
+      },
+      "buildingdef": "InsulatedLiquidConduit",
+      "selected_elements": [
+        -355957251
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 12,
+        "y": 14
+      },
+      "buildingdef": "Wire",
+      "selected_elements": [
+        -1736594426
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 12,
+        "y": 15
+      },
+      "buildingdef": "Ladder",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 12,
+        "y": 15
+      },
+      "buildingdef": "LiquidConduitRadiant",
+      "selected_elements": [
+        -279785280
+      ],
+      "flags": 5
+    },
+    {
+      "offset": {
+        "x": 12,
+        "y": 16
+      },
+      "buildingdef": "LiquidConduitRadiant",
+      "selected_elements": [
+        -279785280
+      ],
+      "flags": 10
+    },
+    {
+      "offset": {
+        "x": 12,
+        "y": 17
+      },
+      "buildingdef": "InsulationTile",
+      "selected_elements": [
+        -355957251
+      ]
+    },
+    {
+      "offset": {
+        "x": 12,
+        "y": 18
+      },
+      "buildingdef": "HighWattageWire",
+      "selected_elements": [
+        -1736594426
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 12,
+        "y": 19
+      },
+      "buildingdef": "LiquidConduitRadiant",
+      "selected_elements": [
+        -279785280
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 12,
+        "y": 20
+      },
+      "buildingdef": "InsulatedLiquidConduit",
+      "selected_elements": [
+        -355957251
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 12,
+        "y": 21
+      },
+      "buildingdef": "InsulationTile",
+      "selected_elements": [
+        -355957251
+      ]
+    },
+    {
+      "offset": {
+        "x": 13
+      },
+      "buildingdef": "InsulationTile",
+      "selected_elements": [
+        -355957251
+      ]
+    },
+    {
+      "offset": {
+        "x": 13,
+        "y": 1
+      },
+      "buildingdef": "Sculpture",
+      "selected_elements": [
+        -105943486
+      ]
+    },
+    {
+      "offset": {
+        "x": 13,
+        "y": 1
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        -105943486
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 13,
+        "y": 3
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        -105943486
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 13,
+        "y": 4
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 13,
+        "y": 4
+      },
+      "buildingdef": "GasConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 13,
+        "y": 4
+      },
+      "buildingdef": "WireRefined",
+      "selected_elements": [
+        -755153220
+      ],
+      "flags": 5
+    },
+    {
+      "offset": {
+        "x": 13,
+        "y": 5
+      },
+      "buildingdef": "WireRefined",
+      "selected_elements": [
+        -755153220
+      ],
+      "flags": 8
+    },
+    {
+      "offset": {
+        "x": 13,
+        "y": 9
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 13,
+        "y": 9
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        -105943486
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 13,
+        "y": 9
+      },
+      "buildingdef": "Wire",
+      "selected_elements": [
+        -1736594426
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 14,
+        "y": 10
+      },
+      "buildingdef": "RockCrusher",
+      "selected_elements": [
+        -1736594426
+      ]
+    },
+    {
+      "offset": {
+        "x": 13,
+        "y": 14
+      },
+      "buildingdef": "InsulationTile",
+      "selected_elements": [
+        -355957251
+      ]
+    },
+    {
+      "offset": {
+        "x": 13,
+        "y": 14
+      },
+      "buildingdef": "InsulatedLiquidConduit",
+      "selected_elements": [
+        -355957251
+      ],
+      "flags": 5
+    },
+    {
+      "offset": {
+        "x": 13,
+        "y": 14
+      },
+      "buildingdef": "Wire",
+      "selected_elements": [
+        -1736594426
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 13,
+        "y": 15
+      },
+      "buildingdef": "LiquidConduitRadiant",
+      "selected_elements": [
+        -279785280
+      ],
+      "flags": 12
+    },
+    {
+      "offset": {
+        "x": 13,
+        "y": 16
+      },
+      "buildingdef": "LiquidConduitRadiant",
+      "selected_elements": [
+        -279785280
+      ],
+      "flags": 9
+    },
+    {
+      "offset": {
+        "x": 13,
+        "y": 17
+      },
+      "buildingdef": "InsulationTile",
+      "selected_elements": [
+        -355957251
+      ]
+    },
+    {
+      "offset": {
+        "x": 13,
+        "y": 18
+      },
+      "buildingdef": "HighWattageWire",
+      "selected_elements": [
+        -1736594426
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 13,
+        "y": 19
+      },
+      "buildingdef": "LiquidConduitRadiant",
+      "selected_elements": [
+        -279785280
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 13,
+        "y": 20
+      },
+      "buildingdef": "InsulatedLiquidConduit",
+      "selected_elements": [
+        -355957251
+      ],
+      "flags": 1
+    },
+    {
+      "offset": {
+        "x": 13,
+        "y": 21
+      },
+      "buildingdef": "InsulationTile",
+      "selected_elements": [
+        -355957251
+      ]
+    },
+    {
+      "offset": {
+        "x": 14
+      },
+      "buildingdef": "InsulationTile",
+      "selected_elements": [
+        -355957251
+      ]
+    },
+    {
+      "offset": {
+        "x": 14,
+        "y": 1
+      },
+      "buildingdef": "Sculpture",
+      "selected_elements": [
+        -105943486
+      ]
+    },
+    {
+      "offset": {
+        "x": 14,
+        "y": 1
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        -105943486
+      ],
+      "flags": 5
+    },
+    {
+      "offset": {
+        "x": 14,
+        "y": 2
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        -105943486
+      ],
+      "flags": 12
+    },
+    {
+      "offset": {
+        "x": 14,
+        "y": 3
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        -105943486
+      ],
+      "flags": 9
+    },
+    {
+      "offset": {
+        "x": 14,
+        "y": 4
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 14,
+        "y": 4
+      },
+      "buildingdef": "GasConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 14,
+        "y": 8
+      },
+      "buildingdef": "InsulatedLiquidConduit",
+      "selected_elements": [
+        -1467370314
+      ],
+      "flags": 2
+    },
+    {
+      "offset": {
+        "x": 14,
+        "y": 9
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 14,
+        "y": 9
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        -105943486
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 14,
+        "y": 9
+      },
+      "buildingdef": "Wire",
+      "selected_elements": [
+        -1736594426
+      ],
+      "flags": 5
+    },
+    {
+      "offset": {
+        "x": 14,
+        "y": 10
+      },
+      "buildingdef": "Wire",
+      "selected_elements": [
+        -1736594426
+      ],
+      "flags": 12
+    },
+    {
+      "offset": {
+        "x": 14,
+        "y": 11
+      },
+      "buildingdef": "Wire",
+      "selected_elements": [
+        -1736594426
+      ],
+      "flags": 12
+    },
+    {
+      "offset": {
+        "x": 14,
+        "y": 12
+      },
+      "buildingdef": "Wire",
+      "selected_elements": [
+        -1736594426
+      ],
+      "flags": 12
+    },
+    {
+      "offset": {
+        "x": 14,
+        "y": 13
+      },
+      "buildingdef": "Wire",
+      "selected_elements": [
+        -1736594426
+      ],
+      "flags": 12
+    },
+    {
+      "offset": {
+        "x": 14,
+        "y": 14
+      },
+      "buildingdef": "InsulationTile",
+      "selected_elements": [
+        -355957251
+      ]
+    },
+    {
+      "offset": {
+        "x": 14,
+        "y": 14
+      },
+      "buildingdef": "Wire",
+      "selected_elements": [
+        -1736594426
+      ],
+      "flags": 9
+    },
+    {
+      "offset": {
+        "x": 14,
+        "y": 15
+      },
+      "buildingdef": "LiquidConduitTemperatureSensor",
+      "selected_elements": [
+        -279785280
+      ]
+    },
+    {
+      "offset": {
+        "x": 14,
+        "y": 15
+      },
+      "buildingdef": "InsulatedLiquidConduit",
+      "selected_elements": [
+        -355957251
+      ],
+      "flags": 6
+    },
+    {
+      "offset": {
+        "x": 14,
+        "y": 15
+      },
+      "buildingdef": "LogicWire",
+      "selected_elements": [
+        -279785280
+      ],
+      "flags": 2
+    },
+    {
+      "offset": {
+        "x": 14,
+        "y": 16
+      },
+      "buildingdef": "InsulatedLiquidConduit",
+      "selected_elements": [
+        -355957251
+      ],
+      "flags": 12
+    },
+    {
+      "offset": {
+        "x": 14,
+        "y": 17
+      },
+      "buildingdef": "InsulationTile",
+      "selected_elements": [
+        -355957251
+      ]
+    },
+    {
+      "offset": {
+        "x": 14,
+        "y": 17
+      },
+      "buildingdef": "InsulatedLiquidConduit",
+      "selected_elements": [
+        -355957251
+      ],
+      "flags": 12
+    },
+    {
+      "offset": {
+        "x": 15,
+        "y": 18
+      },
+      "buildingdef": "PowerTransformer",
+      "selected_elements": [
+        -279785280
+      ]
+    },
+    {
+      "offset": {
+        "x": 14,
+        "y": 18
+      },
+      "buildingdef": "LiquidConduitRadiant",
+      "selected_elements": [
+        -279785280
+      ],
+      "flags": 12
+    },
+    {
+      "offset": {
+        "x": 14,
+        "y": 18
+      },
+      "buildingdef": "HighWattageWire",
+      "selected_elements": [
+        -1736594426
+      ],
+      "flags": 5
+    },
+    {
+      "offset": {
+        "x": 14,
+        "y": 19
+      },
+      "buildingdef": "LiquidConduitRadiant",
+      "selected_elements": [
+        -279785280
+      ],
+      "flags": 9
+    },
+    {
+      "offset": {
+        "x": 14,
+        "y": 19
+      },
+      "buildingdef": "HighWattageWire",
+      "selected_elements": [
+        -1736594426
+      ],
+      "flags": 8
+    },
+    {
+      "offset": {
+        "x": 14,
+        "y": 21
+      },
+      "buildingdef": "InsulationTile",
+      "selected_elements": [
+        -355957251
+      ]
+    },
+    {
+      "offset": {
+        "x": 15
+      },
+      "buildingdef": "InsulationTile",
+      "selected_elements": [
+        -355957251
+      ]
+    },
+    {
+      "offset": {
+        "x": 15,
+        "y": 1
+      },
+      "buildingdef": "Sculpture",
+      "selected_elements": [
+        -105943486
+      ]
+    },
+    {
+      "offset": {
+        "x": 15,
+        "y": 2
+      },
+      "buildingdef": "ThermalBlock",
+      "selected_elements": [
+        -2079931820
+      ]
+    },
+    {
+      "offset": {
+        "x": 15,
+        "y": 4
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 15,
+        "y": 4
+      },
+      "buildingdef": "GasConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 15,
+        "y": 8
+      },
+      "buildingdef": "InsulatedLiquidConduit",
+      "selected_elements": [
+        -1467370314
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 15,
+        "y": 9
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 15,
+        "y": 9
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        -105943486
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 15,
+        "y": 14
+      },
+      "buildingdef": "InsulationTile",
+      "selected_elements": [
+        -355957251
+      ]
+    },
+    {
+      "offset": {
+        "x": 15,
+        "y": 14
+      },
+      "buildingdef": "InsulatedLiquidConduit",
+      "selected_elements": [
+        -355957251
+      ],
+      "flags": 4
+    },
+    {
+      "offset": {
+        "x": 16,
+        "y": 14
+      },
+      "buildingdef": "LiquidConduitBridge",
+      "selected_elements": [
+        -355957251
+      ]
+    },
+    {
+      "offset": {
+        "x": 15,
+        "y": 15
+      },
+      "buildingdef": "LiquidConditioner",
+      "selected_elements": [
+        -899253461
+      ]
+    },
+    {
+      "offset": {
+        "x": 15,
+        "y": 15
+      },
+      "buildingdef": "InsulatedLiquidConduit",
+      "selected_elements": [
+        -355957251
+      ],
+      "flags": 9
+    },
+    {
+      "offset": {
+        "x": 15,
+        "y": 15
+      },
+      "buildingdef": "LogicWire",
+      "selected_elements": [
+        -279785280
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 15,
+        "y": 17
+      },
+      "buildingdef": "InsulationTile",
+      "selected_elements": [
+        -355957251
+      ]
+    },
+    {
+      "offset": {
+        "x": 15,
+        "y": 21
+      },
+      "buildingdef": "InsulationTile",
+      "selected_elements": [
+        -355957251
+      ]
+    },
+    {
+      "offset": {
+        "x": 16
+      },
+      "buildingdef": "InsulationTile",
+      "selected_elements": [
+        -355957251
+      ]
+    },
+    {
+      "offset": {
+        "x": 16,
+        "y": 1
+      },
+      "buildingdef": "Ladder",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 16,
+        "y": 2
+      },
+      "buildingdef": "Ladder",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 16,
+        "y": 3
+      },
+      "buildingdef": "LiquidVent",
+      "selected_elements": [
+        -1736594426
+      ]
+    },
+    {
+      "offset": {
+        "x": 16,
+        "y": 3
+      },
+      "buildingdef": "InsulatedLiquidConduit",
+      "selected_elements": [
+        -1467370314
+      ],
+      "flags": 4
+    },
+    {
+      "offset": {
+        "x": 16,
+        "y": 4
+      },
+      "buildingdef": "Ladder",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 16,
+        "y": 4
+      },
+      "buildingdef": "GasConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 16,
+        "y": 4
+      },
+      "buildingdef": "InsulatedLiquidConduit",
+      "selected_elements": [
+        -1467370314
+      ],
+      "flags": 12
+    },
+    {
+      "offset": {
+        "x": 16,
+        "y": 5
+      },
+      "buildingdef": "InsulatedLiquidConduit",
+      "selected_elements": [
+        -1467370314
+      ],
+      "flags": 12
+    },
+    {
+      "offset": {
+        "x": 16,
+        "y": 6
+      },
+      "buildingdef": "InsulatedLiquidConduit",
+      "selected_elements": [
+        -1467370314
+      ],
+      "flags": 12
+    },
+    {
+      "offset": {
+        "x": 16,
+        "y": 7
+      },
+      "buildingdef": "InsulatedLiquidConduit",
+      "selected_elements": [
+        -1467370314
+      ],
+      "flags": 12
+    },
+    {
+      "offset": {
+        "x": 16,
+        "y": 8
+      },
+      "buildingdef": "InsulatedLiquidConduit",
+      "selected_elements": [
+        -1467370314
+      ],
+      "flags": 9
+    },
+    {
+      "offset": {
+        "x": 16,
+        "y": 9
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 16,
+        "y": 9
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        -105943486
+      ],
+      "flags": 3
+    },
+    {
+      "offset": {
+        "x": 16,
+        "y": 14
+      },
+      "buildingdef": "InsulationTile",
+      "selected_elements": [
+        -355957251
+      ]
+    },
+    {
+      "offset": {
+        "x": 16,
+        "y": 14
+      },
+      "buildingdef": "InsulatedLiquidConduit",
+      "selected_elements": [
+        -355957251
+      ],
+      "flags": 6
+    },
+    {
+      "offset": {
+        "x": 16,
+        "y": 15
+      },
+      "buildingdef": "InsulatedLiquidConduit",
+      "selected_elements": [
+        -355957251
+      ],
+      "flags": 8
+    },
+    {
+      "offset": {
+        "x": 16,
+        "y": 15
+      },
+      "buildingdef": "WireRefined",
+      "selected_elements": [
+        -279785280
+      ],
+      "flags": 4
+    },
+    {
+      "offset": {
+        "x": 16,
+        "y": 15
+      },
+      "buildingdef": "LogicWire",
+      "selected_elements": [
+        -279785280
+      ],
+      "flags": 5
+    },
+    {
+      "offset": {
+        "x": 16,
+        "y": 16
+      },
+      "buildingdef": "WireRefined",
+      "selected_elements": [
+        -279785280
+      ],
+      "flags": 12
+    },
+    {
+      "offset": {
+        "x": 16,
+        "y": 16
+      },
+      "buildingdef": "LogicWire",
+      "selected_elements": [
+        -279785280
+      ],
+      "flags": 8
+    },
+    {
+      "offset": {
+        "x": 16,
+        "y": 17
+      },
+      "buildingdef": "InsulationTile",
+      "selected_elements": [
+        -355957251
+      ]
+    },
+    {
+      "offset": {
+        "x": 16,
+        "y": 17
+      },
+      "buildingdef": "WireRefined",
+      "selected_elements": [
+        -755153220
+      ],
+      "flags": 12
+    },
+    {
+      "offset": {
+        "x": 16,
+        "y": 18
+      },
+      "buildingdef": "WireRefined",
+      "selected_elements": [
+        -755153220
+      ],
+      "flags": 8
+    },
+    {
+      "offset": {
+        "x": 16,
+        "y": 21
+      },
+      "buildingdef": "InsulationTile",
+      "selected_elements": [
+        -355957251
+      ]
+    },
+    {
+      "offset": {
+        "x": 17
+      },
+      "buildingdef": "InsulationTile",
+      "selected_elements": [
+        -355957251
+      ]
+    },
+    {
+      "offset": {
+        "x": 17,
+        "y": 1
+      },
+      "buildingdef": "InsulationTile",
+      "selected_elements": [
+        -355957251
+      ]
+    },
+    {
+      "offset": {
+        "x": 17,
+        "y": 2
+      },
+      "buildingdef": "InsulationTile",
+      "selected_elements": [
+        -355957251
+      ]
+    },
+    {
+      "offset": {
+        "x": 17,
+        "y": 3
+      },
+      "buildingdef": "InsulationTile",
+      "selected_elements": [
+        -355957251
+      ]
+    },
+    {
+      "offset": {
+        "x": 17,
+        "y": 4
+      },
+      "buildingdef": "InsulationTile",
+      "selected_elements": [
+        -355957251
+      ]
+    },
+    {
+      "offset": {
+        "x": 17,
+        "y": 4
+      },
+      "buildingdef": "GasConduit",
+      "selected_elements": [
+        493438017
+      ],
+      "flags": 1
+    },
+    {
+      "offset": {
+        "x": 17,
+        "y": 5
+      },
+      "buildingdef": "Door",
+      "selected_elements": [
+        -1736594426
+      ]
+    },
+    {
+      "offset": {
+        "x": 17,
+        "y": 7
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 17,
+        "y": 8
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 17,
+        "y": 9
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 17,
+        "y": 9
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        -105943486
+      ],
+      "flags": 5
+    },
+    {
+      "offset": {
+        "x": 17,
+        "y": 10
+      },
+      "buildingdef": "Door",
+      "selected_elements": [
+        -1736594426
+      ]
+    },
+    {
+      "offset": {
+        "x": 17,
+        "y": 10
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        -105943486
+      ],
+      "flags": 12
+    },
+    {
+      "offset": {
+        "x": 17,
+        "y": 11
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        -105943486
+      ],
+      "flags": 12
+    },
+    {
+      "offset": {
+        "x": 17,
+        "y": 12
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 17,
+        "y": 12
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        -105943486
+      ],
+      "flags": 12
+    },
+    {
+      "offset": {
+        "x": 17,
+        "y": 13
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 17,
+        "y": 13
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        -105943486
+      ],
+      "flags": 12
+    },
+    {
+      "offset": {
+        "x": 17,
+        "y": 14
+      },
+      "buildingdef": "InsulationTile",
+      "selected_elements": [
+        -355957251
+      ]
+    },
+    {
+      "offset": {
+        "x": 17,
+        "y": 14
+      },
+      "buildingdef": "LiquidConduit",
+      "selected_elements": [
+        -105943486
+      ],
+      "flags": 9
+    },
+    {
+      "offset": {
+        "x": 17,
+        "y": 15
+      },
+      "buildingdef": "InsulationTile",
+      "selected_elements": [
+        -355957251
+      ]
+    },
+    {
+      "offset": {
+        "x": 17,
+        "y": 16
+      },
+      "buildingdef": "InsulationTile",
+      "selected_elements": [
+        -355957251
+      ]
+    },
+    {
+      "offset": {
+        "x": 17,
+        "y": 17
+      },
+      "buildingdef": "InsulationTile",
+      "selected_elements": [
+        -355957251
+      ]
+    },
+    {
+      "offset": {
+        "x": 17,
+        "y": 18
+      },
+      "buildingdef": "ManualPressureDoor",
+      "selected_elements": [
+        -1736594426
+      ]
+    },
+    {
+      "offset": {
+        "x": 17,
+        "y": 20
+      },
+      "buildingdef": "InsulationTile",
+      "selected_elements": [
+        -355957251
+      ]
+    },
+    {
+      "offset": {
+        "x": 17,
+        "y": 21
+      },
+      "buildingdef": "InsulationTile",
+      "selected_elements": [
+        -355957251
+      ]
+    }
+  ]
+}

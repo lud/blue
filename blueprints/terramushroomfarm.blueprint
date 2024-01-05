@@ -1,0 +1,1252 @@
+{
+  "friendlyname": "TerraMushroomFarm",
+  "buildings": [
+    {
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "y": 1
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "y": 2
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "y": 3
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "y": 4
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "y": 5
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "y": 6
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "y": 7
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "y": 8
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "y": 9
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "y": 10
+      },
+      "buildingdef": "GasPermeableMembrane",
+      "selected_elements": [
+        -1736594426
+      ]
+    },
+    {
+      "offset": {
+        "y": 11
+      },
+      "buildingdef": "Door",
+      "selected_elements": [
+        -1736594426
+      ]
+    },
+    {
+      "offset": {
+        "y": 13
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 1
+      },
+      "buildingdef": "FarmTile",
+      "selected_elements": [
+        1624244999
+      ]
+    },
+    {
+      "offset": {
+        "x": 1,
+        "y": 3
+      },
+      "buildingdef": "FarmTile",
+      "selected_elements": [
+        1624244999
+      ]
+    },
+    {
+      "offset": {
+        "x": 1,
+        "y": 6
+      },
+      "buildingdef": "FarmTile",
+      "selected_elements": [
+        1624244999
+      ]
+    },
+    {
+      "offset": {
+        "x": 1,
+        "y": 9
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 1,
+        "y": 10
+      },
+      "buildingdef": "GasPermeableMembrane",
+      "selected_elements": [
+        -1736594426
+      ]
+    },
+    {
+      "offset": {
+        "x": 1,
+        "y": 11
+      },
+      "buildingdef": "OxygenMaskLocker",
+      "selected_elements": [
+        -1736594426
+      ]
+    },
+    {
+      "offset": {
+        "x": 1,
+        "y": 13
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 2
+      },
+      "buildingdef": "FarmTile",
+      "selected_elements": [
+        1624244999
+      ]
+    },
+    {
+      "offset": {
+        "x": 2,
+        "y": 3
+      },
+      "buildingdef": "FarmTile",
+      "selected_elements": [
+        1624244999
+      ]
+    },
+    {
+      "offset": {
+        "x": 2,
+        "y": 6
+      },
+      "buildingdef": "FarmTile",
+      "selected_elements": [
+        1624244999
+      ]
+    },
+    {
+      "offset": {
+        "x": 2,
+        "y": 9
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 2,
+        "y": 10
+      },
+      "buildingdef": "GasPermeableMembrane",
+      "selected_elements": [
+        -1736594426
+      ]
+    },
+    {
+      "offset": {
+        "x": 2,
+        "y": 11
+      },
+      "buildingdef": "OxygenMaskLocker",
+      "selected_elements": [
+        -1736594426
+      ]
+    },
+    {
+      "offset": {
+        "x": 2,
+        "y": 13
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 3
+      },
+      "buildingdef": "FarmTile",
+      "selected_elements": [
+        1624244999
+      ]
+    },
+    {
+      "offset": {
+        "x": 3,
+        "y": 3
+      },
+      "buildingdef": "FarmTile",
+      "selected_elements": [
+        1624244999
+      ]
+    },
+    {
+      "offset": {
+        "x": 3,
+        "y": 6
+      },
+      "buildingdef": "FarmTile",
+      "selected_elements": [
+        1624244999
+      ]
+    },
+    {
+      "offset": {
+        "x": 3,
+        "y": 9
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 3,
+        "y": 10
+      },
+      "buildingdef": "GasPermeableMembrane",
+      "selected_elements": [
+        -1736594426
+      ]
+    },
+    {
+      "offset": {
+        "x": 3,
+        "y": 11
+      },
+      "buildingdef": "OxygenMaskLocker",
+      "selected_elements": [
+        -1736594426
+      ]
+    },
+    {
+      "offset": {
+        "x": 3,
+        "y": 13
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 4
+      },
+      "buildingdef": "FarmTile",
+      "selected_elements": [
+        1624244999
+      ]
+    },
+    {
+      "offset": {
+        "x": 4,
+        "y": 3
+      },
+      "buildingdef": "FarmTile",
+      "selected_elements": [
+        1624244999
+      ]
+    },
+    {
+      "offset": {
+        "x": 4,
+        "y": 6
+      },
+      "buildingdef": "FarmTile",
+      "selected_elements": [
+        1624244999
+      ]
+    },
+    {
+      "offset": {
+        "x": 4,
+        "y": 9
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 4,
+        "y": 10
+      },
+      "buildingdef": "GasPermeableMembrane",
+      "selected_elements": [
+        -1736594426
+      ]
+    },
+    {
+      "offset": {
+        "x": 4,
+        "y": 11
+      },
+      "buildingdef": "OxygenMaskMarker",
+      "selected_elements": [
+        -1736594426
+      ]
+    },
+    {
+      "offset": {
+        "x": 4,
+        "y": 13
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 5
+      },
+      "buildingdef": "FarmTile",
+      "selected_elements": [
+        1624244999
+      ]
+    },
+    {
+      "offset": {
+        "x": 5,
+        "y": 3
+      },
+      "buildingdef": "FarmTile",
+      "selected_elements": [
+        1624244999
+      ]
+    },
+    {
+      "offset": {
+        "x": 5,
+        "y": 6
+      },
+      "buildingdef": "FarmTile",
+      "selected_elements": [
+        1624244999
+      ]
+    },
+    {
+      "offset": {
+        "x": 5,
+        "y": 9
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 5,
+        "y": 10
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 5,
+        "y": 11
+      },
+      "buildingdef": "Door",
+      "selected_elements": [
+        -1736594426
+      ]
+    },
+    {
+      "offset": {
+        "x": 5,
+        "y": 13
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 6
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 6,
+        "y": 1
+      },
+      "buildingdef": "Ladder",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 6,
+        "y": 2
+      },
+      "buildingdef": "Ladder",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 6,
+        "y": 3
+      },
+      "buildingdef": "Ladder",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 6,
+        "y": 4
+      },
+      "buildingdef": "Ladder",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 6,
+        "y": 5
+      },
+      "buildingdef": "Ladder",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 6,
+        "y": 6
+      },
+      "buildingdef": "Ladder",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 6,
+        "y": 7
+      },
+      "buildingdef": "Ladder",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 6,
+        "y": 8
+      },
+      "buildingdef": "Ladder",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 6,
+        "y": 9
+      },
+      "buildingdef": "Ladder",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 6,
+        "y": 10
+      },
+      "buildingdef": "Ladder",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 6,
+        "y": 13
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 7
+      },
+      "buildingdef": "FarmTile",
+      "selected_elements": [
+        1624244999
+      ]
+    },
+    {
+      "offset": {
+        "x": 7,
+        "y": 3
+      },
+      "buildingdef": "FarmTile",
+      "selected_elements": [
+        1624244999
+      ]
+    },
+    {
+      "offset": {
+        "x": 7,
+        "y": 6
+      },
+      "buildingdef": "FarmTile",
+      "selected_elements": [
+        1624244999
+      ]
+    },
+    {
+      "offset": {
+        "x": 7,
+        "y": 9
+      },
+      "buildingdef": "GasPermeableMembrane",
+      "selected_elements": [
+        -1736594426
+      ]
+    },
+    {
+      "offset": {
+        "x": 7,
+        "y": 10
+      },
+      "buildingdef": "FarmStation",
+      "selected_elements": [
+        -1736594426
+      ]
+    },
+    {
+      "offset": {
+        "x": 7,
+        "y": 13
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 8
+      },
+      "buildingdef": "FarmTile",
+      "selected_elements": [
+        1624244999
+      ]
+    },
+    {
+      "offset": {
+        "x": 8,
+        "y": 3
+      },
+      "buildingdef": "FarmTile",
+      "selected_elements": [
+        1624244999
+      ]
+    },
+    {
+      "offset": {
+        "x": 8,
+        "y": 6
+      },
+      "buildingdef": "FarmTile",
+      "selected_elements": [
+        1624244999
+      ]
+    },
+    {
+      "offset": {
+        "x": 8,
+        "y": 9
+      },
+      "buildingdef": "GasPermeableMembrane",
+      "selected_elements": [
+        -1736594426
+      ]
+    },
+    {
+      "offset": {
+        "x": 8,
+        "y": 13
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 9
+      },
+      "buildingdef": "FarmTile",
+      "selected_elements": [
+        1624244999
+      ]
+    },
+    {
+      "offset": {
+        "x": 9,
+        "y": 3
+      },
+      "buildingdef": "FarmTile",
+      "selected_elements": [
+        1624244999
+      ]
+    },
+    {
+      "offset": {
+        "x": 9,
+        "y": 6
+      },
+      "buildingdef": "FarmTile",
+      "selected_elements": [
+        1624244999
+      ]
+    },
+    {
+      "offset": {
+        "x": 9,
+        "y": 9
+      },
+      "buildingdef": "FarmTile",
+      "selected_elements": [
+        1624244999
+      ]
+    },
+    {
+      "offset": {
+        "x": 9,
+        "y": 13
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 10
+      },
+      "buildingdef": "FarmTile",
+      "selected_elements": [
+        1624244999
+      ]
+    },
+    {
+      "offset": {
+        "x": 10,
+        "y": 3
+      },
+      "buildingdef": "FarmTile",
+      "selected_elements": [
+        1624244999
+      ]
+    },
+    {
+      "offset": {
+        "x": 10,
+        "y": 6
+      },
+      "buildingdef": "FarmTile",
+      "selected_elements": [
+        1624244999
+      ]
+    },
+    {
+      "offset": {
+        "x": 10,
+        "y": 9
+      },
+      "buildingdef": "FarmTile",
+      "selected_elements": [
+        1624244999
+      ]
+    },
+    {
+      "offset": {
+        "x": 10,
+        "y": 13
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 11
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 11,
+        "y": 1
+      },
+      "buildingdef": "Door",
+      "selected_elements": [
+        -1736594426
+      ]
+    },
+    {
+      "offset": {
+        "x": 11,
+        "y": 3
+      },
+      "buildingdef": "GasPermeableMembrane",
+      "selected_elements": [
+        -1736594426
+      ]
+    },
+    {
+      "offset": {
+        "x": 11,
+        "y": 4
+      },
+      "buildingdef": "Door",
+      "selected_elements": [
+        -1736594426
+      ]
+    },
+    {
+      "offset": {
+        "x": 11,
+        "y": 6
+      },
+      "buildingdef": "GasPermeableMembrane",
+      "selected_elements": [
+        -1736594426
+      ]
+    },
+    {
+      "offset": {
+        "x": 11,
+        "y": 7
+      },
+      "buildingdef": "Door",
+      "selected_elements": [
+        -1736594426
+      ]
+    },
+    {
+      "offset": {
+        "x": 11,
+        "y": 9
+      },
+      "buildingdef": "FarmTile",
+      "selected_elements": [
+        1624244999
+      ]
+    },
+    {
+      "offset": {
+        "x": 11,
+        "y": 13
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 12
+      },
+      "buildingdef": "FarmTile",
+      "selected_elements": [
+        1624244999
+      ]
+    },
+    {
+      "offset": {
+        "x": 12,
+        "y": 3
+      },
+      "buildingdef": "FarmTile",
+      "selected_elements": [
+        1624244999
+      ]
+    },
+    {
+      "offset": {
+        "x": 12,
+        "y": 6
+      },
+      "buildingdef": "FarmTile",
+      "selected_elements": [
+        1624244999
+      ]
+    },
+    {
+      "offset": {
+        "x": 12,
+        "y": 9
+      },
+      "buildingdef": "FarmTile",
+      "selected_elements": [
+        1624244999
+      ]
+    },
+    {
+      "offset": {
+        "x": 12,
+        "y": 13
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 13
+      },
+      "buildingdef": "FarmTile",
+      "selected_elements": [
+        1624244999
+      ]
+    },
+    {
+      "offset": {
+        "x": 13,
+        "y": 3
+      },
+      "buildingdef": "FarmTile",
+      "selected_elements": [
+        1624244999
+      ]
+    },
+    {
+      "offset": {
+        "x": 13,
+        "y": 6
+      },
+      "buildingdef": "FarmTile",
+      "selected_elements": [
+        1624244999
+      ]
+    },
+    {
+      "offset": {
+        "x": 13,
+        "y": 9
+      },
+      "buildingdef": "FarmTile",
+      "selected_elements": [
+        1624244999
+      ]
+    },
+    {
+      "offset": {
+        "x": 13,
+        "y": 13
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 14
+      },
+      "buildingdef": "FarmTile",
+      "selected_elements": [
+        1624244999
+      ]
+    },
+    {
+      "offset": {
+        "x": 14,
+        "y": 3
+      },
+      "buildingdef": "FarmTile",
+      "selected_elements": [
+        1624244999
+      ]
+    },
+    {
+      "offset": {
+        "x": 14,
+        "y": 6
+      },
+      "buildingdef": "FarmTile",
+      "selected_elements": [
+        1624244999
+      ]
+    },
+    {
+      "offset": {
+        "x": 14,
+        "y": 9
+      },
+      "buildingdef": "FarmTile",
+      "selected_elements": [
+        1624244999
+      ]
+    },
+    {
+      "offset": {
+        "x": 14,
+        "y": 13
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 15
+      },
+      "buildingdef": "FarmTile",
+      "selected_elements": [
+        1624244999
+      ]
+    },
+    {
+      "offset": {
+        "x": 15,
+        "y": 3
+      },
+      "buildingdef": "FarmTile",
+      "selected_elements": [
+        1624244999
+      ]
+    },
+    {
+      "offset": {
+        "x": 15,
+        "y": 6
+      },
+      "buildingdef": "FarmTile",
+      "selected_elements": [
+        1624244999
+      ]
+    },
+    {
+      "offset": {
+        "x": 15,
+        "y": 9
+      },
+      "buildingdef": "FarmTile",
+      "selected_elements": [
+        1624244999
+      ]
+    },
+    {
+      "offset": {
+        "x": 15,
+        "y": 13
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 16
+      },
+      "buildingdef": "FarmTile",
+      "selected_elements": [
+        1624244999
+      ]
+    },
+    {
+      "offset": {
+        "x": 16,
+        "y": 3
+      },
+      "buildingdef": "FarmTile",
+      "selected_elements": [
+        1624244999
+      ]
+    },
+    {
+      "offset": {
+        "x": 16,
+        "y": 6
+      },
+      "buildingdef": "FarmTile",
+      "selected_elements": [
+        1624244999
+      ]
+    },
+    {
+      "offset": {
+        "x": 16,
+        "y": 9
+      },
+      "buildingdef": "FarmTile",
+      "selected_elements": [
+        1624244999
+      ]
+    },
+    {
+      "offset": {
+        "x": 16,
+        "y": 13
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 17
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 17,
+        "y": 1
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 17,
+        "y": 2
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 17,
+        "y": 3
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 17,
+        "y": 4
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 17,
+        "y": 5
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 17,
+        "y": 6
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 17,
+        "y": 7
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 17,
+        "y": 8
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 17,
+        "y": 9
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 17,
+        "y": 10
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    },
+    {
+      "offset": {
+        "x": 17,
+        "y": 11
+      },
+      "buildingdef": "GasPermeableMembrane",
+      "selected_elements": [
+        -1736594426
+      ]
+    },
+    {
+      "offset": {
+        "x": 17,
+        "y": 12
+      },
+      "buildingdef": "GasPermeableMembrane",
+      "selected_elements": [
+        -1736594426
+      ]
+    },
+    {
+      "offset": {
+        "x": 17,
+        "y": 13
+      },
+      "buildingdef": "Tile",
+      "selected_elements": [
+        493438017
+      ]
+    }
+  ]
+}
