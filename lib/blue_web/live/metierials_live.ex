@@ -9,6 +9,7 @@ defmodule BlueWeb.MaterialsLive do
   def render(assigns) do
     ~H"""
     <div><%= @counter %></div>
+    <h1><%= @blueprint["friendlyname"] %></h1>
     <pre>
       <%= Jason.encode!(@materials, pretty: true) %>
     </pre>
@@ -18,7 +19,8 @@ defmodule BlueWeb.MaterialsLive do
   def mount(_params, _session, socket) do
     {:ok, blueprint} = Original.by_name("terrasieve")
     materials = prepare_mats(blueprint)
-    :timer.send_interval(1000, :tick)
+
+    if connected?(socket), do: send_tick()
 
     {:ok, assign(socket, counter: 0, blueprint: blueprint, materials: materials)}
   end
@@ -28,8 +30,13 @@ defmodule BlueWeb.MaterialsLive do
   end
 
   def handle_info(:tick, socket) do
+    send_tick()
     {:noreply, update(socket, :counter, &(&1 + 1))}
   end
+
+defp send_tick do
+  Process.send_after(self(), :tick, 1000)
+end
 
   #   <%= for %{"buildingdef" => bid, "selected_elements" => eids} <- @materials do %>
   #   <div></div>
@@ -39,11 +46,11 @@ defmodule BlueWeb.MaterialsLive do
     materials =
       blueprint
       |> Blueprint.distinct_materials()
-      |> Enum.map(fn %{"buildingdef" => bid, "selected_elements" => eids} ->
-        %{
-          building: Building.name_of!(bid),
-          elements: eids |> Enum.map(fn eid -> Element.find!(eid).name end)
-        }
+      |> Enum.map(fn %{"buildingdef" => bid, "selected_elements" => hashs} ->
+        elements = Enum.map(hashs, fn hash -> Map.from_struct(Element.find!(hash)) end)
+
+        %{"building_name" => Building.name_of!(bid), "buildingdef" => bid, "selected_elements" => elements}
+
       end)
   end
 end
