@@ -3,8 +3,18 @@ defmodule Blue.ElementTest do
   alias Blue.Element
 
   test "fetch element" do
-    assert {:ok, %Element{name: "Hydrogen", id: -1_046_145_888}} = Element.find(-1_046_145_888)
-    assert {:ok, %Element{name: "Hydrogen", id: -1_046_145_888}} = Element.find("Hydrogen")
+    assert {:ok, %Element{name: "Hydrogen", id: "Hydrogen", hash: -1_046_145_888}} =
+             Element.find(-1_046_145_888)
+
+    assert {:ok, %Element{name: "Hydrogen", id: "Hydrogen", hash: -1_046_145_888}} =
+             Element.find("Hydrogen")
+
+    # Different name
+    assert {:ok, %Element{name: "Copper Ore", id: "Cuprite", hash: -1_736_594_426}} =
+             Element.find("Cuprite")
+
+    assert {:ok, %Element{name: "Copper Ore", id: "Cuprite", hash: -1_736_594_426}} =
+             Element.find(-1_736_594_426)
   end
 
   test "unknown element" do

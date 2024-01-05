@@ -20,4 +20,9 @@ defmodule Blue.Building do
   end)
 
   def by_id(what), do: {:error, {:unknown_building, what}}
+
+  def name_of!(id) do
+    {:ok, %{name: name}} = by_id(id)
+    name
+  end
 end
