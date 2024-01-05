@@ -11,8 +11,7 @@ defmodule Blue.Application do
       BlueWeb.Telemetry,
       Blue.Repo,
       {Ecto.Migrator,
-        repos: Application.fetch_env!(:blue, :ecto_repos),
-        skip: skip_migrations?()},
+       repos: Application.fetch_env!(:blue, :ecto_repos), skip: skip_migrations?()},
       {DNSCluster, query: Application.get_env(:blue, :dns_cluster_query) || :ignore},
       {Phoenix.PubSub, name: Blue.PubSub},
       # Start a worker by calling: Blue.Worker.start_link(arg)

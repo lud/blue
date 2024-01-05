@@ -1,81 +1,160 @@
-Algae	-1870043872
-BleachStone	-839728230
-Brick	-325269471
-Carbon	947100397
-CarbonFibre	118518245
-CarbonGas	-314016756
-Cement	1627140480
-CementMix	1668719292
-Chlorine	-878033482
-ChlorineGas	-1324664829
-Clay	867327137
-ContaminatedOxygen	721531317
-Copper	-1725038055
-CopperGas	1966552544
-CrudeOil	-1412059381
-CrushedIce	-2123557039
-CrushedRock	-1714565729
-Cuprite	-1736594426
-Diamond	-2079931820
-Dirt	1624244999
-DirtyIce	1664334585
-DirtyWater	1832607973
-Duplicant	351109216
-Electrum	28407099
-Fertilizer	-1396791454
-FoolsGold	2059777261
-Glass	623986332
-Gold	-279785280
-GoldAmalgam	361868060
-GoldGas	-805366663
-Granite	-105943486
-Helium	-1554872654
-Hydrogen	-1046145888
-Ice	873952427
-IgneousRock	-355957251
-Iron	1306370440
-IronGas	1541626289
-IronOre	1608833498
-Katairite	1071649902
-LiquidCarbonDioxide	-1526513293
-LiquidHelium	-1934139602
-LiquidHydrogen	-751997156
-LiquidOxygen	-1908044868
-LiquidPhosphorus	1323821489
-LiquidPropane	-645698215
-Magma	-1075911705
-Mercury	1732126099
-MercuryGas	-839856666
-MoltenCarbon	505665536
-MoltenCopper	2128494380
-MoltenGold	-1083496621
-MoltenIron	502659099
-MoltenSteel	1459013976
-Obsidian	-474151749
-Oxygen	-1528777920
-OxyRock	1262005685
-PhosphateNodules	-1901832310
-Phosphorite	-877427037
-Phosphorus	-220394187
-PhosphorusGas	1887387588
-Propane	-1858722091
-Radium	-47820500
-Sand	381796644
-SandCement	-1038746460
-SandStone	493438017
-SedimentaryRock	183408504
-Slabs	1412740729
-SlimeMold	-1153056158
-SolidCarbonDioxide	83003332
-SolidChlorine	-690060127
-SolidHydrogen	-858172533
-SolidMercury	-537625624
-SolidOxygen	973502379
-SolidPropane	166493482
-Steel	-899253461
-SteelDoor	41996153
-ToxicSand	869554203
-Unobtanium	1838482828
-Vacuum	758759285
-Void	-1456075980
-Water	1836671383
+Aerogel,-2070223827
+Algae,-1870043872
+Aluminum,2108244480
+AluminumGas,100766521
+AluminumOre,167973730
+Bitumen,1433229102
+BleachStone,-839728230
+Brick,-325269471
+Brine,-324547888
+BrineIce,-1561279013
+Carbon,947100397
+CarbonDioxide,1960575215
+CarbonFibre,118518245
+CarbonGas,-314016756
+Cement,1627140480
+CementMix,1668719292
+Ceramic,-1467370314
+Chlorine,-878033482
+ChlorineGas,-1324664829
+Clay,867327137
+Cobalt,108179667
+CobaltGas,-1429687642
+Cobaltite,-1411918265
+COMPOSITION,-1021084918
+ContaminatedOxygen,721531317
+Copper,-1725038055
+CopperGas,1966552544
+Creature,976099455
+CrudeOil,-1412059381
+CrushedIce,-2123557039
+CrushedRock,-1714565729
+Cuprite,-1736594426
+DepletedUranium,1064294988
+Diamond,-2079931820
+Dirt,1624244999
+DirtyIce,1664334585
+DirtyWater,1832607973
+Electrum,28407099
+EnrichedUranium,-348942381
+Ethanol,-87974045
+EthanolGas,-756961258
+Fallout,1000463219
+Fertilizer,-1396791454
+FoolsGold,2059777261
+Fossil,1757792140
+Fullerene,245514112
+Glass,623986332
+Gold,-279785280
+GoldAmalgam,361868060
+GoldGas,-805366663
+Granite,-105943486
+Helium,-1554872654
+Hydrogen,-1046145888
+Ice,873952427
+IgneousRock,-355957251
+Iron,1306370440
+IronGas,1541626289
+IronOre,1608833498
+Isoresin,-2008682336
+Katairite,1071649902
+Lead,-755153220
+LeadGas,905042813
+Lime,-721320011
+LiquidCarbonDioxide,-1526513293
+LiquidHelium,-1934139602
+LiquidHydrogen,-751997156
+LiquidMethane,371787440
+LiquidOxygen,-1908044868
+LiquidPhosphorus,1323821489
+LiquidPropane,-645698215
+LiquidSulfur,-1108652427
+MaficRock,1282846257
+Magma,-1075911705
+Mercury,1732126099
+MercuryGas,-839856666
+Methane,-841236436
+MoltenAluminum,-1637472877
+MoltenCarbon,505665536
+MoltenCobalt,-333255194
+MoltenCopper,2128494380
+MoltenGlass,-1312713527
+MoltenGold,-1083496621
+MoltenIron,502659099
+MoltenLead,-1558864561
+MoltenNiobium,1499134368
+MoltenSalt,-422045879
+MoltenSteel,1459013976
+MoltenSucrose,1318135165
+MoltenSyngas,660593444
+MoltenTungsten,-509585641
+MoltenUranium,1937473860
+Mud,908179228
+Naphtha,1157157570
+Niobium,-1779895821
+NiobiumGas,-1616033402
+NuclearWaste,-232430636
+Obsidian,-474151749
+Oxygen,-1528777920
+OxyRock,1262005685
+Petroleum,-486269331
+PhosphateNodules,-1901832310
+Phosphorite,-877427037
+Phosphorus,-220394187
+PhosphorusGas,1887387588
+Polypropylene,-1142341158
+Propane,-1858722091
+Radium,-47820500
+RefinedCarbon,-902240476
+Regolith,1362238252
+RockGas,-432557516
+Rust,-233232444
+Salt,381665462
+SaltGas,-1946026749
+SaltWater,1911997537
+Sand,381796644
+SandCement,-1038746460
+SandStone,493438017
+SedimentaryRock,183408504
+Slabs,1412740729
+SlimeMold,-1153056158
+Snow,489261827
+SolidCarbonDioxide,83003332
+SolidChlorine,-690060127
+SolidCrudeOil,-1224086026
+SolidEthanol,1937241528
+SolidHydrogen,-858172533
+SolidMercury,-537625624
+SolidMethane,1183979137
+SolidNaphtha,-1112594153
+SolidNuclearWaste,-497625153
+SolidOxygen,973502379
+SolidPetroleum,-473261502
+SolidPropane,166493482
+SolidSuperCoolant,-389019570
+SolidSyngas,-690658692
+SolidViscoGel,-1495120499
+SourGas,-927923200
+Steam,-899515856
+Steel,-899253461
+SteelGas,-1406916018
+Sucrose,-1960895024
+Sulfur,-729385479
+SulfurGas,-2120504832
+SuperCoolant,-123825053
+SuperCoolantGas,-3376362
+SuperInsulator,-1713958528
+Syngas,1102028305
+TempConductorSolid,1559722904
+ToxicMud,900133477
+ToxicSand,869554203
+Tungsten,-1058835580
+TungstenGas,431998133
+Unobtanium,1838482828
+UraniumOre,134298891
+Vacuum,758759285
+ViscoGel,-1683093854
+Void,-1456075980
+Water,1836671383
+Wolframite,-1208854194
+Yellowcake,-1624413844
