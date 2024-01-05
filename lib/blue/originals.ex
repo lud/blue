@@ -1,4 +1,4 @@
-defmodule Blue.Originals do
+defmodule Blue.Original do
   def base_dir do
     Application.fetch_env!(:blue, :blueprints_dir)
   end

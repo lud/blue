@@ -1,0 +1,365 @@
+Aero Pot,FlowerVaseHangingFancy,
+Airborne Critter Bait,FlyingCreatureBait,
+Airborne Critter Lure,AirborneCreatureLure,
+Airflow Tile,GasPermeableMembrane,
+Algae Distiller,AlgaeDistillery,
+Algae Terrarium,AlgaeHabitat,
+AND Gate,LogicGateAND,
+Anti Entropy Thermo-Nullifier,MassiveHeatSink,
+Apothecary,Apothecary,
+Arcade Cabinet,ArcadeMachine,
+Artifact Analysis Station,ArtifactAnalysisStation,Spaced Out
+Artifact Transport Module,ArtifactCargoBay,Spaced Out
+Atmo Sensor,LogicPressureSensorGas,
+Atmo Suit Checkpoint,SuitMarker,
+Atmo Suit Dock,SuitLocker,
+Atmo Switch,PressureSwitchGas,
+Auto-Sweeper,SolidTransferArm,
+Automated Notifier,LogicAlarm,
+Automatic Dispenser,ObjectDispenser,
+Automation Broadcaster,LogicInterasteroidSender,Spaced Out
+Automation Receiver,LogicInterasteroidReceiver,Spaced Out
+Automation Ribbon,LogicRibbon,
+Automation Ribbon Bridge,LogicRibbonBridge,
+Automation Wire,LogicWire,
+Automation Wire Bridge,LogicWireBridge,
+Basic Nosecone,NoseconeBasic,Spaced Out
+Battery,Battery,
+Battery Module,BatteryModule,Spaced Out
+Beach Chair,BeachChair,
+Blank Canvas,Canvas,
+Botanical Analyzer,GeneticAnalysisStation,Spaced Out
+Bottle Emptier,BottleEmptier,
+BUFFER Gate,LogicGateBUFFER,
+Bunker Door,BunkerDoor,
+Bunker Tile,BunkerTile,
+Canister Emptier,BottleEmptierGas,
+Canister Filler,GasBottler,
+Carbon Dioxide Engine,CO2Engine,Spaced Out
+Carbon Skimmer,CO2Scrubber,
+Cargo Bay,SolidCargoBaySmall,Spaced Out
+Carpeted Tile,CarpetTile,
+Cartographic Module,ScannerModule,Spaced Out
+Ceiling Light,CeilingLight,
+Coal Generator,Generator,
+Comfy Bed,LuxuryBed,
+Compost,Compost,
+Conductive Wire,WireRefined,
+Conductive Wire Bridge,WireRefinedBridge,
+Conveyor Bridge,SolidConduitBridge,
+Conveyor Chute,SolidVent,
+Conveyor Loader,SolidConduitInbox,
+Conveyor Loader Fitting,RocketInteriorSolidOutput,Spaced Out
+Conveyor Meter,SolidLimitValve,
+Conveyor Rail,SolidConduit,
+Conveyor Rail Element Sensor,SolidConduitElementSensor,
+Conveyor Rail Germ Sensor,SolidConduitDiseaseSensor,
+Conveyor Rail Thermo Sensor,SolidConduitTemperatureSensor,
+Conveyor Receptacle,SolidConduitOutbox,
+Conveyor Receptacle Fitting,RocketInteriorSolidInput,Spaced Out
+Conveyor Shutoff,SolidLogicValve,
+Corner Moulding,CornerMoulding,
+Cot,Bed,
+Crafting Station,CraftingTable,
+Critter Drop-Off,CreatureDeliveryPoint,
+Critter Feeder,CreatureFeeder,
+Critter Sensor,LogicCritterCountSensor,
+Critter Trap,CreatureTrap,
+Crown Moulding,CrownMoulding,
+Cycle Sensor,LogicTimeOfDaySensor,
+Decontamination Shower,DecontaminationShower,Spaced Out
+Deodorizer,AirFilter,
+Desalinator,Desalinator,
+Dev Generator,DevGenerator,
+Dev Life Support,DevLifeSupport,
+Dev Pump Gas,DevPumpGas,
+Dev Pump Liquid,DevPumpLiquid,
+Dev Radiation Emitter,DevRadiationGenerator,
+Diamond Press,DiamondPress,Spaced Out
+Disease Clinic,AdvancedDoctorStation,
+Drillcone,NoseconeHarvest,Spaced Out
+Drywall,ExteriorWall,
+Duplicant Checkpoint,Checkpoint,
+Duplicant Motion Sensor,LogicDuplicantSensor,
+Egg Cracker,EggCracker,
+Electric Grill,CookingStation,
+Electrolyzer,Electrolyzer,
+Empty Rocket Module,UnconstructedRocketModule,Spaced Out
+Enclosed Telescope,ClusterTelescopeEnclosed,Spaced Out
+Espresso Machine,EspressoMachine,
+Ethanol Distiller,EthanolDistillery,
+Exosuit Forge,SuitFabricator,
+Farm Station,FarmStation,
+Farm Tile,FarmTile,
+Fertilizer Synthesizer,FertilizerMaker,
+FILTER Gate,LogicGateFILTER,
+Fire Pole,FirePole,
+Fish Feeder,FishFeeder,
+Fish Release,FishDeliveryPoint,
+Fish Trap,FishTrap,
+Flower Pot,FlowerVase,
+Gantry,Gantry,
+Gas Bridge,GasConduitBridge,
+Gas Cargo Canister,GasCargoBaySmall,Spaced Out
+Gas Element Sensor,LogicElementSensorGas,
+Gas Filter,GasFilter,
+Gas Intake Fitting,RocketInteriorGasInput,Spaced Out
+Gas Meter Valve,GasLimitValve,
+Gas Output Fitting,RocketInteriorGasOutput,Spaced Out
+Gas Overflow Valve,GasConduitOverflow,
+Gas Pipe,GasConduit,
+Gas Pipe Element Sensor,GasConduitElementSensor,
+Gas Pipe Germ Sensor,GasConduitDiseaseSensor,
+Gas Pipe Thermo Sensor,GasConduitTemperatureSensor,
+Gas Pump,GasPump,
+Gas Range,GourmetCookingStation,
+Gas Reservoir,GasReservoir,
+Gas Rocket Port Loader,ModularLaunchpadPortGas,Spaced Out
+Gas Rocket Port Unloader,ModularLaunchpadPortGasUnloader,Spaced Out
+Gas Shutoff,GasLogicValve,
+Gas Spacefarer Input Port,RocketInteriorGasInputPort,Spaced Out
+Gas Spacefarer Output Port,RocketInteriorGasOutputPort,Spaced Out
+Gas Valve,GasValve,
+Gas Vent,GasVent,
+Germ Sensor,LogicDiseaseSensor,
+Glass Forge,GlassForge,
+Gravitas Door,GravitasDoor,Spaced Out
+Grooming Station,RanchStation,
+Hammer,LogicHammer,
+Hand Sanitizer,HandSanitizer,
+Hanging Pot,FlowerVaseHanging,
+Heavi-Watt Conductive Joint Plate,WireRefinedBridgeHighWattage,
+Heavi-Watt Conductive Wire,WireRefinedHighWattage,
+Heavi-Watt Joint Plate,WireBridgeHighWattage,
+Heavi-Watt Wire,HighWattageWire,
+High Pressure Gas Vent,GasVentHighPressure,
+Hot Tub,HotTub,
+Hydro Sensor,LogicPressureSensorLiquid,
+Hydro Switch,PressureSwitchLiquid,
+Hydrofan,LiquidCooledFan,
+Hydrogen Engine,HydrogenEngineCluster,Spaced Out
+Hydrogen Generator,HydrogenGenerator,
+Hydroponic Farm,HydroponicFarm,
+Ice Block,IceSculpture,
+Ice Maker,IceMachine,
+Ice-E Fan,IceCooledFan,
+Incubator,EggIncubator,
+Insulated Gas Pipe,InsulatedGasConduit,
+Insulated Liquid Pipe,InsulatedLiquidConduit,
+Insulated Tile,InsulationTile,
+Interplanetary Launcher,RailGun,Spaced Out
+Jet Suit Checkpoint,JetSuitMarker,
+Jet Suit Dock,JetSuitLocker,
+Juicer,Juicer,
+Jukebot,Phonobox,
+Jumbo Battery,BatteryMedium,
+Kiln,Kiln,
+Lab Wall,PropGravitasLabWall,Spaced Out
+Lab Window,PropGravitasLabWindow,Spaced Out
+Lab Window,PropGravitasLabWindowHorizontal,Spaced Out
+Ladder,Ladder,
+Ladder Bed,LadderBed,Spaced Out
+Lamp,FloorLamp,
+Landscape Canvas,CanvasWide,
+Large Cargo Bay,CargoBayCluster,Spaced Out
+Large Gas Cargo Canister,GasCargoBayCluster,Spaced Out
+Large Liquid Cargo Tank,LiquidCargoBayCluster,Spaced Out
+Large Liquid Fuel Tank,LiquidFuelTankCluster,Spaced Out
+Large Power Transformer,PowerTransformer,
+Large Sculpting Block,Sculpture,
+Large Solid Oxidizer Tank,OxidizerTankCluster,Spaced Out
+Lavatory,FlushToilet,
+Lead Suit Checkpoint,LeadSuitMarker,Spaced Out
+Lead Suit Dock,LeadSuitLocker,Spaced Out
+Liquid Bridge,LiquidConduitBridge,
+Liquid Cargo Tank,LiquidCargoBaySmall,Spaced Out
+Liquid Element Sensor,LogicElementSensorLiquid,
+Liquid Filter,LiquidFilter,
+Liquid Heatquilizer,HeatCompressor,
+Liquid Intake Fitting,RocketInteriorLiquidInput,Spaced Out
+Liquid Meter Valve,LiquidLimitValve,
+Liquid Output Fitting,RocketInteriorLiquidOutput,Spaced Out
+Liquid Overflow Valve,LiquidConduitOverflow,
+Liquid Oxidizer Tank,OxidizerTankLiquidCluster,Spaced Out
+Liquid Pipe,LiquidConduit,
+Liquid Pipe Element Sensor,LiquidConduitElementSensor,
+Liquid Pipe Germ Sensor,LiquidConduitDiseaseSensor,
+Liquid Pipe Thermo Sensor,LiquidConduitTemperatureSensor,
+Liquid Pump,LiquidPump,
+Liquid Reservoir,LiquidReservoir,
+Liquid Rocket Port Loader,ModularLaunchpadPortLiquid,Spaced Out
+Liquid Rocket Port Unloader,ModularLaunchpadPortLiquidUnloader,Spaced Out
+Liquid Shutoff,LiquidLogicValve,
+Liquid Spacefarer Input Port,RocketInteriorLiquidInputPort,Spaced Out
+Liquid Spacefarer Output Port,RocketInteriorLiquidOutputPort,Spaced Out
+Liquid Tepidizer,LiquidHeater,
+Liquid Valve,LiquidValve,
+Liquid Vent,LiquidVent,
+Lobby Doors,POIFacilityDoor,
+Manual Airlock,ManualPressureDoor,
+Manual Generator,ManualGenerator,
+Manual Radbolt Generator,ManualHighEnergyParticleSpawner,Spaced Out
+Marble Block,MarbleSculpture,
+Massage Table,MassageTable,
+Materials Study Terminal,NuclearResearchCenter,Spaced Out
+Mechanical Surfboard,MechanicalSurfboard,
+Mechanics Station,MachineShop,
+Mechanized Airlock,PressureDoor,
+Memory Toggle,LogicMemory,
+Mesh Tile,MeshTile,
+Mess Table,DiningTable,
+Metal Block,MetalSculpture,
+Metal Refinery,MetalRefinery,
+Metal Tile,MetalTile,
+Microbe Musher,MicrobeMusher,
+Mini Gas Pump,GasMiniPump,
+Mini Liquid Pump,LiquidMiniPump,
+Mini-Pod,ExobaseHeadquarters,Spaced Out
+MISSING.STRINGS.BUILDINGS.PREFABS.ATOMICGARDEN.NAME,AtomicGarden,
+MISSING.STRINGS.BUILDINGS.PREFABS.CREWCAPSULE.NAME,CrewCapsule,
+Molecular Forge,SupermaterialRefinery,
+Monument Base,MonumentBottom,
+Monument Midsection,MonumentMiddle,
+Monument Top,MonumentTop,
+Natural Gas Generator,MethaneGenerator,
+NOT Gate,LogicGateNOT,
+Nuclear Apothecary,AdvancedApothecary,Spaced Out
+Oil Refinery,OilRefinery,
+Oil Well,OilWellCap,
+Omniprinter,GenericFabricator,
+OR Gate,LogicGateOR,
+Orbital Cargo Module,OrbitalCargoModule,Spaced Out
+Orbital Data Collection Lab,OrbitalResearchCenter,Spaced Out
+Ore Scrubber,OreScrubber,
+Outhouse,Outhouse,
+Oxygen Diffuser,MineralDeoxidizer,
+Oxygen Mask Checkpoint,OxygenMaskMarker,
+Oxygen Mask Dock,OxygenMaskLocker,
+Oxygen Mask Station,OxygenMaskStation,
+Oxylite Refinery,OxyliteRefinery,
+Park Sign,ParkSign,
+Party Line Phone,Telephone,Spaced Out
+Payload Opener,RailGunPayloadOpener,Spaced Out
+Pedestal,GravitasPedestal,Spaced Out
+Pedestal,ItemPedestal,
+Petroleum Engine,KeroseneEngineCluster,Spaced Out
+Petroleum Generator,PetroleumGenerator,
+Pitcher Pump,LiquidPumpingStation,
+Pixel Pack,PixelPack,
+Planter Box,PlanterBox,
+Plastic Ladder,LadderFast,
+Plastic Tile,PlasticTile,
+Plug Slug,StaterpillarGenerator,Spaced Out
+Pneumatic Door,Door,
+Polymer Press,Polymerizer,
+Portrait Canvas,CanvasTall,
+Power Control Station,PowerControlStation,
+Power Outlet Fitting,RocketInteriorPowerPlug,Spaced Out
+Power Shutoff,LogicPowerRelay,
+Power Transformer,PowerTransformerSmall,
+Printing Pod,Headquarters,
+Priority Gas Flow,GasConduitPreferentialFlow,
+Priority Liquid Flow,LiquidConduitPreferentialFlow,
+Radbolt Chamber,HEPBattery,Spaced Out
+Radbolt Engine,HEPEngine,Spaced Out
+Radbolt Generator,HighEnergyParticleSpawner,Spaced Out
+Radbolt Joint Plate,HEPBridgeTile,Spaced Out
+Radbolt Reflector,HighEnergyParticleRedirector,Spaced Out
+Radbolt Sensor,LogicHEPSensor,Spaced Out
+Radiant Gas Pipe,GasConduitRadiant,
+Radiant Liquid Pipe,LiquidConduitRadiant,
+Radiation Lamp,RadiationLight,Spaced Out
+Radiation Sensor,LogicRadiationSensor,Spaced Out
+Ration Box,RationBox,
+Refrigerator,Refrigerator,
+Research Reactor,NuclearReactor,Spaced Out
+Research Station,ResearchCenter,
+Ribbon Reader,LogicRibbonReader,
+Ribbon Writer,LogicRibbonWriter,
+Robo-Miner,AutoMiner,
+Rock Crusher,RockCrusher,
+Rocket,RocketWallTile,Spaced Out
+Rocket Control Station,RocketControlStation,Spaced Out
+Rocket Platform,LaunchPad,Spaced Out
+Rocket Window,RocketEnvelopeWindowTile,
+Rover's Module,ScoutModule,Spaced Out
+Rust Deoxidizer,RustDeoxidizer,
+Sauna,Sauna,
+Sculpting Block,SmallSculpture,
+Security Door,POIBunkerExteriorDoor,
+Security Door,POIDoorInternal,
+Shearing Station,ShearingStation,
+Shower,Shower,
+Sick Bay,DoctorStation,
+Signal Counter,LogicCounter,
+Signal Distributor,LogicGateDemultiplexer,
+Signal Selector,LogicGateMultiplexer,
+Signal Switch,LogicSwitch,
+Sink,WashSink,
+Skill Scrubber,ResetSkillsStation,
+Skills Board,RoleStation,
+Sludge Press,SludgePress,Spaced Out
+Small Petroleum Engine,KeroseneEngineClusterSmall,Spaced Out
+Small Solid Oxidizer Tank,SmallOxidizerTank,Spaced Out
+Smart Battery,BatterySmart,
+Smart Storage Bin,StorageLockerSmart,
+Soda Fountain,SodaFountain,
+Solar Panel,SolarPanel,
+Solar Panel Module,SolarPanelModule,Spaced Out
+Solid Filter,SolidFilter,
+Solid Rocket Port Loader,ModularLaunchpadPortSolid,Spaced Out
+Solid Rocket Port Unloader,ModularLaunchpadPortSolidUnloader,Spaced Out
+Solo Spacefarer Nosecone,HabitatModuleSmall,Spaced Out
+Space Cadet Centrifuge,AstronautTrainingCenter,
+Space Heater,SpaceHeater,
+Space Scanner,CometDetector,
+Spacefarer Module,HabitatModuleMedium,Spaced Out
+Starmap Location Sensor,LogicClusterLocationSensor,Spaced Out
+Steam Engine,SteamEngineCluster,Spaced Out
+Steam Turbine,SteamTurbine2,
+Storage Bin,StorageLocker,
+Sublimation Station,SublimationStation,Spaced Out
+Sugar Engine,SugarEngine,Spaced Out
+Sun Lamp,SunLamp,
+Super Computer,AdvancedResearchCenter,
+Supply Teleporter Input,WarpConduitSender,Spaced Out
+Supply Teleporter Output,WarpConduitReceiver,Spaced Out
+Sweepy's Dock,SweepBotStation,
+Switch,Switch,
+Targeting Beacon,LandingBeacon,Spaced Out
+Tasteful Memorial,Grave,
+Teleporter Pad,TeleportalPad,
+Telescope,ClusterTelescope,Spaced Out
+Temporal Tear Opener,TemporalTearOpener,Spaced Out
+Tempshift Plate,ThermalBlock,
+Textile Loom,ClothingFabricator,
+Thermo Aquatuner,LiquidConditioner,
+Thermo Regulator,AirConditioner,
+Thermo Sensor,LogicTemperatureSensor,
+Thermo Switch,TemperatureControlledSwitch,
+Tile,Tile,
+Tile,TilePOI,
+Timer Sensor,LogicTimerSensor,
+Trailblazer Module,PioneerModule,Spaced Out
+Transit Tube,TravelTube,
+Transit Tube Access,TravelTubeEntrance,
+Transit Tube Crossing,TravelTubeWallBridge,
+Triage Cot,MedicalCot,
+Trimming Tile,MouldingTile,
+Uranium Centrifuge,UraniumCentrifuge,Spaced Out
+Vertical Wind Tunnel,VerticalWindTunnel,
+Virtual Planetarium,DLC1CosmicResearchCenter,Spaced Out
+Wall,PropGravitasWall,
+Wall Pot,FlowerVaseWall,
+Wall Toilet,WallToilet,Spaced Out
+Wash Basin,WashBasin,
+Water Cooler,WaterCooler,
+Water Sieve,WaterPurifier,
+Wattage Sensor,LogicWattageSensor,
+Weight Plate,FloorSwitch,
+Window,FacilityBackWallWindow,
+Window Tile,GlassTile,
+Wire,Wire,
+Wire Bridge,WireBridge,
+Wood Burner,WoodGasGenerator,
+XOR Gate,LogicGateXOR,
