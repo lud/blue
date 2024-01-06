@@ -8,32 +8,42 @@ defmodule BlueWeb.MaterialsLive do
 
   def render(assigns) do
     ~H"""
-    <div><%= @counter %></div>
-    <h1><%= @blueprint["friendlyname"] %></h1>
-    <div class="flex gap-2">
+    <div class="flex gap-4">
       <div>
+        <h1><%= @blueprint["friendlyname"] %></h1>
         <%= for mat <- @materials do %>
           <.material_picker build_mat={mat} replacements={@replacements} />
         <% end %>
       </div>
-      <pre>
-      <%= inspect(@replacements, pretty: true) %>
-    </pre>
+      <div>
+        <h2>Replacements</h2>
+        <h3>New name</h3>
+        <form phx-change="change_name">
+          <.input type="text" name="new_name" value={@new_name} phx-debounce={300} />
+        </form>
+
+        <pre><%= inspect(@replacements, pretty: true) %></pre>
+      </div>
     </div>
     """
   end
 
+  @element_options Enum.map(Element.list_all(), fn %{hash: hash, name: name} -> {name, hash} end)
+
+  defp element_options, do: @element_options
+
   defp material_picker(assigns) do
     ~H"""
-    <div class="border border-blue-200 m-4 p-2">
+    <div class="border border-blue-200 rounded my-2 p-2">
       <h2><%= @build_mat.building_name %></h2>
 
       <%= for hash <- @build_mat.selected_elements do %>
-        <% chosen = get_replacement(@replacements, @build_mat.buildingdef, @build_mat.selected_elements, hash) %>
+        <% chosen_hash =
+          get_replacement(@replacements, @build_mat.buildingdef, @build_mat.selected_elements, hash) %>
 
-        <div class={["flex gap-2 p-2 items-center", changed_mat_class(chosen != hash)]}>
+        <div class={["flex gap-2 p-2 items-center", changed_mat_class(chosen_hash != hash)]}>
           <span>Replace</span>
-          <span><%= Element.find!(hash).name %></span>
+          <strong><%= Element.find!(hash).name %></strong>
           <span>with</span>
           <form
             phx-change="select_replacement"
@@ -41,13 +51,12 @@ defmodule BlueWeb.MaterialsLive do
             phx-value-original_elements={Jason.encode!(@build_mat.selected_elements)}
             phx-value-buildingdef={@build_mat.buildingdef}
           >
-            <select name="replacement_id" class="p-1 text-sm border border-gray-300">
-              <%= for element <- Element.list_all() do %>
-                <option value={element.id} selected={chosen == element.hash}>
-                  <%= element.name %>
-                </option>
-              <% end %>
-            </select>
+            <.input
+              type="select"
+              name="replacement_hash"
+              options={element_options()}
+              value={chosen_hash}
+            />
           </form>
         </div>
       <% end %>
@@ -66,21 +75,21 @@ defmodule BlueWeb.MaterialsLive do
       {"Door", [-1_736_594_426], -1_736_594_426} => 1_608_833_498
     }
 
-    if connected?(socket), do: send_tick()
+    new_name = blueprint["friendlyname"]
 
     {:ok,
      assign(socket,
-       counter: 0,
        blueprint: blueprint,
        materials: materials,
-       replacements: replacements
+       replacements: replacements,
+       new_name: new_name
      )}
   end
 
   def handle_event("select_replacement", params, socket) do
     case select_replacement(socket.assigns.replacements, params) do
       {:ok, replacements} ->
-        socket = socket |> assign(replacements: replacements) |> put_flash(:info, "Ok")
+        socket = assign(socket, replacements: replacements)
         {:noreply, socket}
 
       {:error, _} ->
@@ -88,37 +97,39 @@ defmodule BlueWeb.MaterialsLive do
     end
   end
 
+  def handle_event("change_name", %{"new_name" => new_name}, socket) do
+    {:noreply, assign(socket, new_name: new_name)}
+  end
+
   defp select_replacement(replacements, params) do
     with %{
            "buildingdef" => buildingdef,
            "original_elements" => selected_elements_json,
            "replaced_hash" => replaced_hash_str,
-           "replacement_id" => replacement_id
+           "replacement_hash" => replacement_hash_str
          } <- params,
          {:ok, selected_elements_hashs} <- Jason.decode(selected_elements_json),
          true <- Enum.all?(selected_elements_hashs, &is_integer/1),
          true <- Enum.all?(selected_elements_hashs, &match?({:ok, _}, Element.find(&1))),
-         {:ok, %{hash: replacement_hash}} <- Element.find(replacement_id),
          {:ok, _} <- Building.by_id(buildingdef),
+         {replacement_hash, ""} <- Integer.parse(replacement_hash_str),
          {replaced_hash, ""} <- Integer.parse(replaced_hash_str),
          {:ok, _} <- Building.by_id(buildingdef) do
       binding() |> IO.inspect(label: ~S/binding()/)
-      {:ok, put_replacement(replacements, buildingdef, selected_elements_hashs, replaced_hash, replacement_hash)}
+
+      {:ok,
+       put_replacement(
+         replacements,
+         buildingdef,
+         selected_elements_hashs,
+         replaced_hash,
+         replacement_hash
+       )}
     else
       other ->
         Logger.error("Invalid replacement params #{inspect(other)}, params: #{inspect(params)}")
         {:error, :invalid_params}
     end
-  end
-
-  def handle_info(:tick, socket) do
-    send_tick()
-    socket = update(socket, :counter, &(&1 + 1))
-    {:noreply, socket}
-  end
-
-  defp send_tick do
-    Process.send_after(self(), :tick, 5000)
   end
 
   defp prepare_mats(blueprint) do
@@ -145,5 +156,4 @@ defmodule BlueWeb.MaterialsLive do
     key = {buildingdef, selected_elements, element_hash}
     Map.put(replacements, key, replace_by)
   end
-
 end
