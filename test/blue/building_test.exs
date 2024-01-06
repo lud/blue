@@ -4,7 +4,7 @@ defmodule Blue.BuildingTest do
 
   test "fetch building" do
     assert {:ok, %Building{name: "Airborne Critter Bait", id: "FlyingCreatureBait"}} =
-             Building.by_id("FlyingCreatureBait") |> dbg()
+             Building.by_id("FlyingCreatureBait")
 
     assert "Airborne Critter Bait" == Building.name_of!("FlyingCreatureBait")
   end

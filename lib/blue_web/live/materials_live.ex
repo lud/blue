@@ -2,7 +2,6 @@ defmodule BlueWeb.MaterialsLive do
   alias Blue.Blueprint
   alias Blue.Building
   alias Blue.Element
-  alias Blue.Original
   require Logger
   use BlueWeb, :live_view
 
@@ -11,7 +10,7 @@ defmodule BlueWeb.MaterialsLive do
     <div class="flex space-x-4">
       <%!-- Left --%>
       <div class="grow">
-        <h1><%= @blueprint["friendlyname"] %></h1>
+        <h1 class="text-2xl mb-4"><%= @blueprint["friendlyname"] %></h1>
         <div>
           <%= for mat <- @materials do %>
             <.material_picker build_mat={mat} replacements={@replacements} />
@@ -20,9 +19,25 @@ defmodule BlueWeb.MaterialsLive do
       </div>
 
       <%!-- Right --%>
-      <div class="top-0 w-1/4">
-        <div class="sticky top-0">
-          <h2>Replacements</h2>
+      <div class="top-0 w-1/3">
+        <div>
+          <h2 class="text-xl mb-4">Upload blueprint</h2>
+          <form id="upload-form" phx-submit="upload_new" phx-change="validate_upload_new">
+            <.live_file_input upload={@uploads.original} />
+            <.button class="mt-2" type="submit">Upload</.button>
+          </form>
+          <%= for entry <- @uploads.original.entries do %>
+            <div
+              :for={err <- upload_errors(@uploads.original, entry)}
+              class="text-red-500"
+              class="alert alert-danger"
+            >
+              <%= upload_error_to_string(err) %>
+            </div>
+          <% end %>
+        </div>
+        <div class="sticky top-0 pt-4">
+          <h2 class="text-xl mb-4">Download changes</h2>
           <form phx-change="change_name">
             <h3>New name</h3>
             <.input type="text" name="new_name" value={@new_name} phx-debounce={300} />
@@ -46,6 +61,10 @@ defmodule BlueWeb.MaterialsLive do
   defp filename(new_name) do
     name = new_name |> String.replace(" ", "_") |> String.downcase()
     "#{name}.blueprint"
+  end
+
+  defp upload_error_to_string(item) do
+    inspect(item)
   end
 
   @element_options Enum.map(Element.list_all(), fn %{hash: hash, name: name} -> {name, hash} end)
@@ -88,11 +107,9 @@ defmodule BlueWeb.MaterialsLive do
   defp changed_mat_class(_), do: nil
 
   def mount(_params, _session, socket) do
-    {:ok, blueprint} = Original.by_name("terrasieve")
-    materials = prepare_mats(blueprint)
-
     replacements = %{}
-
+    blueprint = %{"friendlyname" => "Empty blueprint", "buildings" => []}
+    materials = prepare_mats(blueprint)
     new_name = blueprint["friendlyname"]
 
     socket =
@@ -120,7 +137,16 @@ defmodule BlueWeb.MaterialsLive do
       Registry.register(Blue.ReplacementsRegistry, {socket.id, :changes}, registry_value(socket))
   end
 
-  defp update_registry(socket) do
+  defp update_registry_blueprint(socket, blueprint) do
+    {_, _} =
+      Registry.update_value(Blue.ReplacementsRegistry, {socket.id, :blueprint}, fn _ ->
+        blueprint
+      end)
+
+
+  end
+
+  defp update_registry_changes(socket) do
     {_new, _old} =
       Registry.update_value(Blue.ReplacementsRegistry, {socket.id, :changes}, fn _ ->
         registry_value(socket)
@@ -137,7 +163,7 @@ defmodule BlueWeb.MaterialsLive do
     case select_replacement(socket.assigns.replacements, params) do
       {:ok, replacements} ->
         socket = assign(socket, replacements: replacements)
-        update_registry(socket)
+        update_registry_changes(socket)
         {:noreply, socket}
 
       {:error, _} ->
@@ -147,7 +173,29 @@ defmodule BlueWeb.MaterialsLive do
 
   def handle_event("change_name", %{"new_name" => new_name}, socket) do
     socket = assign(socket, new_name: new_name)
-    update_registry(socket)
+    update_registry_changes(socket)
+    {:noreply, socket}
+  end
+
+  def handle_event("validate_upload_new", _params, socket) do
+    {:noreply, socket}
+  end
+
+  def handle_event("upload_new", _params, socket) do
+    [blueprint | _] =
+      consume_uploaded_entries(socket, :original, fn %{path: path}, _entry ->
+        with {:ok, json} <- File.read(path) do
+          Jason.decode(json)
+        end
+      end)
+
+      update_registry_blueprint(socket, blueprint)
+
+    socket = assign(socket,
+      materials: prepare_mats(blueprint),
+      new_name: blueprint["friendlyname"]
+    )
+
     {:noreply, socket}
   end
 
