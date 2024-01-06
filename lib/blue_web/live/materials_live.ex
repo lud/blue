@@ -8,31 +8,35 @@ defmodule BlueWeb.MaterialsLive do
 
   def render(assigns) do
     ~H"""
-    <div class="flex gap-4">
+    <div class="flex space-x-4">
       <%!-- Left --%>
-      <div>
+      <div class="grow">
         <h1><%= @blueprint["friendlyname"] %></h1>
-        <%= for mat <- @materials do %>
-          <.material_picker build_mat={mat} replacements={@replacements} />
-        <% end %>
+        <div>
+          <%= for mat <- @materials do %>
+            <.material_picker build_mat={mat} replacements={@replacements} />
+          <% end %>
+        </div>
       </div>
 
       <%!-- Right --%>
-      <div>
-        <h2>Replacements</h2>
-        <form phx-change="change_name">
-          <h3>New name</h3>
-          <.input type="text" name="new_name" value={@new_name} phx-debounce={300} />
-        </form>
+      <div class="top-0 w-1/4">
+        <div class="sticky top-0">
+          <h2>Replacements</h2>
+          <form phx-change="change_name">
+            <h3>New name</h3>
+            <.input type="text" name="new_name" value={@new_name} phx-debounce={300} />
+          </form>
 
-        <div class="mt-2">
-          <a
-            href={~p(/blueprint-download/#{@download_id})}
-            class="block box-border text-center text-white bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 focus:outline-none"
-            download={filename(@new_name)}
-          >
-            Download Blueprint<br /><code><%= filename(@new_name) %></code>
-          </a>
+          <div class="mt-2">
+            <a
+              href={~p(/blueprint-download/#{@download_id})}
+              class="block box-border text-center text-white bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 focus:outline-none"
+              download={filename(@new_name)}
+            >
+              Download Blueprint<br /><code><%= filename(@new_name) %></code>
+            </a>
+          </div>
         </div>
       </div>
     </div>
@@ -50,7 +54,7 @@ defmodule BlueWeb.MaterialsLive do
 
   defp material_picker(assigns) do
     ~H"""
-    <div class="border border-blue-200 rounded my-2 p-2">
+    <div class="border border-blue-200 rounded mb-2 p-2">
       <h2><%= @build_mat.building_name %></h2>
 
       <%= for hash <- @build_mat.selected_elements do %>
@@ -92,13 +96,15 @@ defmodule BlueWeb.MaterialsLive do
     new_name = blueprint["friendlyname"]
 
     socket =
-      assign(socket,
+      socket
+      |> assign(
         blueprint: blueprint,
         materials: materials,
         replacements: replacements,
         new_name: new_name,
         download_id: socket.id
       )
+      |> allow_upload(:original, accept: ~w(.blueprint), max_entries: 1)
 
     if connected?(socket) do
       register_mount(socket, blueprint)
