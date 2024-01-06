@@ -48,7 +48,7 @@ defmodule Blue.Element do
     element
   end
 
-  def id_of!(what), do: find!(what).id
+  def hash_of!(what), do: find!(what).hash
 
   def list_all, do: @raw_data
 end

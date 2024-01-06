@@ -71,9 +71,7 @@ defmodule BlueWeb.MaterialsLive do
     {:ok, blueprint} = Original.by_name("terrasieve")
     materials = prepare_mats(blueprint)
 
-    replacements = %{
-      {"Door", [-1_736_594_426], -1_736_594_426} => 1_608_833_498
-    }
+    replacements = %{}
 
     new_name = blueprint["friendlyname"]
 
@@ -87,6 +85,8 @@ defmodule BlueWeb.MaterialsLive do
   end
 
   def handle_event("select_replacement", params, socket) do
+    socket |> IO.inspect(label: ~S/socket/)
+
     case select_replacement(socket.assigns.replacements, params) do
       {:ok, replacements} ->
         socket = assign(socket, replacements: replacements)
@@ -144,16 +144,21 @@ defmodule BlueWeb.MaterialsLive do
   end
 
   defp get_replacement(replacements, buildingdef, selected_elements, element_hash) do
-    key = {buildingdef, selected_elements, element_hash}
+    build_mat_key = {buildingdef, selected_elements}
 
-    case Map.fetch(replacements, key) do
-      {:ok, replacement} -> replacement
+    with {:ok, build_mat} <- Map.fetch(replacements, build_mat_key),
+         {:ok, replacement} <- Map.fetch(build_mat, element_hash) do
+      replacement
+    else
       :error -> element_hash
     end
   end
 
   defp put_replacement(replacements, buildingdef, selected_elements, element_hash, replace_by) do
-    key = {buildingdef, selected_elements, element_hash}
-    Map.put(replacements, key, replace_by)
+    build_mat_key = {buildingdef, selected_elements}
+
+    Map.update(replacements, build_mat_key, %{element_hash => replace_by}, fn
+      build_mat -> Map.put(build_mat, element_hash, replace_by)
+    end)
   end
 end
