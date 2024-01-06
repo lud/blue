@@ -142,8 +142,6 @@ defmodule BlueWeb.MaterialsLive do
       Registry.update_value(Blue.ReplacementsRegistry, {socket.id, :blueprint}, fn _ ->
         blueprint
       end)
-
-
   end
 
   defp update_registry_changes(socket) do
@@ -189,12 +187,13 @@ defmodule BlueWeb.MaterialsLive do
         end
       end)
 
-      update_registry_blueprint(socket, blueprint)
+    update_registry_blueprint(socket, blueprint)
 
-    socket = assign(socket,
-      materials: prepare_mats(blueprint),
-      new_name: blueprint["friendlyname"]
-    )
+    socket =
+      assign(socket,
+        materials: prepare_mats(blueprint),
+        new_name: blueprint["friendlyname"]
+      )
 
     {:noreply, socket}
   end

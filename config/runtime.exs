@@ -5,7 +5,7 @@ source!([".env", System.get_env()])
 
 # -- Blueprints ---------------------------------------------------------------
 
-config :blue, blueprints_dir: env!("BLUEPRINTS_DIR", :string!)
+config :blue, blueprints_dir: env!("BLUEPRINTS_DIR", :string!, System.tmp_dir())
 
 # -- Endpoint -----------------------------------------------------------------
 
