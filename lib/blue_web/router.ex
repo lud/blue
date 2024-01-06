@@ -17,9 +17,7 @@ defmodule BlueWeb.Router do
   scope "/", BlueWeb do
     pipe_through :browser
 
-    get "/", PageController, :home
-
-    live "/materials", MaterialsLive
+    live "/", MaterialsLive
     get "/blueprint-download/:socket_id", BlueprintDownloadController, :download
   end
 
