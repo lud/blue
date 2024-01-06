@@ -1,4 +1,4 @@
-# fly.toml app configuration file generated for blue on 2024-01-06T18:13:03+01:00
+# fly.toml app configuration file generated for blue on 2024-01-06T18:39:10+01:00
 #
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
@@ -10,7 +10,7 @@ kill_signal = "SIGTERM"
 [build]
 
 [deploy]
-  release_command = "/app/bin/migrate"
+  # release_command = "/app/bin/migrate"
 
 [env]
   PHX_HOST = "blue.fly.dev"
