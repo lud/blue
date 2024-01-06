@@ -8,7 +8,7 @@ defmodule Blue.Building do
 
   @raw_data @csv_path
             |> File.stream!()
-            |> CSV.parse_stream()
+            |> CSV.parse_stream(skip_headers: false)
             |> Enum.map(fn [name, id, _dlc] ->
               %{__struct__: __MODULE__, name: name, id: id}
             end)

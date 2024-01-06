@@ -11,14 +11,14 @@ defmodule Blue.Element do
 
   @hash_data @hashs_path
              |> File.stream!()
-             |> CSV.parse_stream()
+             |> CSV.parse_stream(skip_headers: false)
              |> Enum.map(fn
                [id, hash] -> %{id: id, hash: String.to_integer(hash)}
              end)
 
   @id_data @ids_path
            |> File.stream!()
-           |> CSV.parse_stream()
+           |> CSV.parse_stream(skip_headers: false)
            #  Some IDs in the CSV have a C-style comment, we ignore them
            |> Enum.filter(fn
              ["//" <> _ | _] -> false
