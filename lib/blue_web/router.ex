@@ -20,6 +20,7 @@ defmodule BlueWeb.Router do
     get "/", PageController, :home
 
     live "/materials", MaterialsLive
+    get "/blueprint-download/:socket_id", BlueprintDownloadController, :download
   end
 
   # Other scopes may use custom stacks.

@@ -9,23 +9,39 @@ defmodule BlueWeb.MaterialsLive do
   def render(assigns) do
     ~H"""
     <div class="flex gap-4">
+      <%!-- Left --%>
       <div>
         <h1><%= @blueprint["friendlyname"] %></h1>
         <%= for mat <- @materials do %>
           <.material_picker build_mat={mat} replacements={@replacements} />
         <% end %>
       </div>
+
+      <%!-- Right --%>
       <div>
         <h2>Replacements</h2>
-        <h3>New name</h3>
         <form phx-change="change_name">
+          <h3>New name</h3>
           <.input type="text" name="new_name" value={@new_name} phx-debounce={300} />
         </form>
 
-        <pre><%= inspect(@replacements, pretty: true) %></pre>
+        <div class="mt-2">
+          <a
+            href={~p(/blueprint-download/#{@download_id})}
+            class="block box-border text-center text-white bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 focus:outline-none"
+            download={filename(@new_name)}
+          >
+            Download Blueprint<br /><code><%= filename(@new_name) %></code>
+          </a>
+        </div>
       </div>
     </div>
     """
+  end
+
+  defp filename(new_name) do
+    name = new_name |> String.replace(" ", "_") |> String.downcase()
+    "#{name}.blueprint"
   end
 
   @element_options Enum.map(Element.list_all(), fn %{hash: hash, name: name} -> {name, hash} end)
@@ -75,13 +91,38 @@ defmodule BlueWeb.MaterialsLive do
 
     new_name = blueprint["friendlyname"]
 
-    {:ok,
-     assign(socket,
-       blueprint: blueprint,
-       materials: materials,
-       replacements: replacements,
-       new_name: new_name
-     )}
+    socket =
+      assign(socket,
+        blueprint: blueprint,
+        materials: materials,
+        replacements: replacements,
+        new_name: new_name,
+        download_id: socket.id
+      )
+
+    if connected?(socket) do
+      register_mount(socket, blueprint)
+    end
+
+    {:ok, socket}
+  end
+
+  defp register_mount(socket, blueprint) do
+    {:ok, _} = Registry.register(Blue.ReplacementsRegistry, {socket.id, :blueprint}, blueprint)
+
+    {:ok, _} =
+      Registry.register(Blue.ReplacementsRegistry, {socket.id, :changes}, registry_value(socket))
+  end
+
+  defp update_registry(socket) do
+    {_new, _old} =
+      Registry.update_value(Blue.ReplacementsRegistry, {socket.id, :changes}, fn _ ->
+        registry_value(socket)
+      end)
+  end
+
+  defp registry_value(socket) do
+    %{friendlyname: socket.assigns.new_name, materials_replacements: socket.assigns.replacements}
   end
 
   def handle_event("select_replacement", params, socket) do
@@ -90,6 +131,7 @@ defmodule BlueWeb.MaterialsLive do
     case select_replacement(socket.assigns.replacements, params) do
       {:ok, replacements} ->
         socket = assign(socket, replacements: replacements)
+        update_registry(socket)
         {:noreply, socket}
 
       {:error, _} ->
@@ -98,7 +140,9 @@ defmodule BlueWeb.MaterialsLive do
   end
 
   def handle_event("change_name", %{"new_name" => new_name}, socket) do
-    {:noreply, assign(socket, new_name: new_name)}
+    socket = assign(socket, new_name: new_name)
+    update_registry(socket)
+    {:noreply, socket}
   end
 
   defp select_replacement(replacements, params) do

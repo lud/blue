@@ -14,9 +14,7 @@ defmodule Blue.Application do
        repos: Application.fetch_env!(:blue, :ecto_repos), skip: skip_migrations?()},
       {DNSCluster, query: Application.get_env(:blue, :dns_cluster_query) || :ignore},
       {Phoenix.PubSub, name: Blue.PubSub},
-      # Start a worker by calling: Blue.Worker.start_link(arg)
-      # {Blue.Worker, arg},
-      # Start to serve requests, typically the last entry
+      {Registry, keys: :unique, name: Blue.ReplacementsRegistry},
       BlueWeb.Endpoint
     ]
 

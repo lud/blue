@@ -19,7 +19,13 @@ defmodule Blue.MixProject do
   def application do
     [
       mod: {Blue.Application, []},
-      extra_applications: [:logger, :runtime_tools]
+      extra_applications: [
+        :logger,
+        :runtime_tools,
+        :observer,
+        :wx,
+        :runtime_tools
+      ]
     ]
   end
 
