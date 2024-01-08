@@ -42,7 +42,7 @@ defmodule Blue.BlueprintTest do
         %{"buildingdef" => "LiquidConduit", "selected_elements" => [hash_of!("SandStone")]}
       ])
 
-    assert expected_distinct_materials == Blueprint.distinct_materials(blueprint)
+    assert expected_distinct_materials == Enum.sort(Blueprint.distinct_materials(blueprint))
   end
 
   test "replace materials" do
@@ -120,5 +120,55 @@ defmodule Blue.BlueprintTest do
 
     assert %{"friendlyname" => "new name", "untouched" => "value"} ==
              Blueprint.change_name(blueprint, "new name")
+  end
+
+  test "unknown elements" do
+    blueprint = %{
+      "friendlyname" => "Some Blueprint",
+      "buildings" => [
+        %{
+          "buildingdef" => "SomeUndefBuilding",
+          "offset" => %{"x" => 0},
+          "selected_elements" => [1234]
+        },
+        %{
+          "buildingdef" => "SomeUndefOther",
+          "offset" => %{"x" => 0},
+          "selected_elements" => [-999]
+        }
+      ]
+    }
+
+    expected_distinct_materials =
+      Enum.sort([
+        %{"buildingdef" => "SomeUndefBuilding", "selected_elements" => [1234]},
+        %{"buildingdef" => "SomeUndefOther", "selected_elements" => [-999]}
+      ])
+
+    assert expected_distinct_materials == Enum.sort(Blueprint.distinct_materials(blueprint))
+
+    replacements = %{
+      {"SomeUndefBuilding", [1234]} => %{1234 => 5678},
+      {"SomeUndefOther", [-999]} => %{-999 => -1000}
+    }
+
+    expected =
+      %{
+        "friendlyname" => "Some Blueprint",
+        "buildings" => [
+          %{
+            "buildingdef" => "SomeUndefBuilding",
+            "offset" => %{"x" => 0},
+            "selected_elements" => [5678]
+          },
+          %{
+            "buildingdef" => "SomeUndefOther",
+            "offset" => %{"x" => 0},
+            "selected_elements" => [-1000]
+          }
+        ]
+      }
+
+    assert expected == Blueprint.replace_materials(blueprint, replacements)
   end
 end

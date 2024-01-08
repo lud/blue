@@ -17,8 +17,12 @@ defmodule Blue.ElementTest do
              Element.find(-1_736_594_426)
   end
 
-  test "unknown element" do
-    assert {:error, {:unknown_element, 123}} = Element.find(123)
-    assert {:error, {:unknown_element, "Steel1"}} = Element.find("Steel1")
+  test "unknown element is still valid" do
+    assert {:ok, %Element{name: "Unknown 123", id: "Unknown123", hash: 123}} =
+             Element.find(123)
+
+    #  hash will always be -1 in that case. This is not a business case
+    assert {:ok, %Element{name: "Unknown Some", id: "Some", hash: -1}} =
+             Element.find("Some")
   end
 end

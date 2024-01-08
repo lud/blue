@@ -19,7 +19,7 @@ defmodule Blue.Building do
     def by_id(unquote(id)), do: {:ok, unquote(Macro.escape(building))}
   end)
 
-  def by_id(what), do: {:error, {:unknown_building, what}}
+  def by_id(id), do: {:ok, %__MODULE__{name: id, id: id}}
 
   def name_of!(id) do
     {:ok, %{name: name}} = by_id(id)

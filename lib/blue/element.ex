@@ -41,7 +41,23 @@ defmodule Blue.Element do
     def find(unquote(hash)), do: find(unquote(id))
   end)
 
-  def find(what), do: {:error, {:unknown_element, what}}
+  def find(hash) when is_integer(hash) do
+    {:ok,
+     %__MODULE__{
+       name: "Unknown #{Integer.to_string(hash)}",
+       id: "Unknown#{Integer.to_string(hash)}",
+       hash: hash
+     }}
+  end
+
+  def find(id) when is_binary(id) do
+    {:ok,
+     %__MODULE__{
+       name: "Unknown #{id}",
+       id: id,
+       hash: -1
+     }}
+  end
 
   def find!(what) do
     {:ok, element} = find(what)

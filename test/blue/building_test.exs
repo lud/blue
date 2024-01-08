@@ -17,7 +17,8 @@ defmodule Blue.BuildingTest do
     assert "Airborne Critter Bait" == Building.name_of!("FlyingCreatureBait")
   end
 
-  test "unknown building" do
-    assert {:error, {:unknown_building, "DoesNotExist"}} = Building.by_id("DoesNotExist")
+  test "unknown building is valid" do
+    id = "SomeString"
+    assert {:ok, %Building{name: ^id, id: ^id}} = Building.by_id(id)
   end
 end
